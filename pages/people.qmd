@@ -8,9 +8,9 @@ listing:
   image-align: 'right'
 ---
 
-# Current members
+## Current members
 
 ::: {#people_list}
 :::
 
-# Past members
+## Past members

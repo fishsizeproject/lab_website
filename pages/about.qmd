@@ -3,3 +3,5 @@ title: "About"
 ---
 
 This is where we have slightly more detailed information about the group.
+
+To check out our current and past members, [click here](people.html).

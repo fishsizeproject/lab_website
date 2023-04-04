@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styling/styles.css
     toc: true
 
 editor: visual

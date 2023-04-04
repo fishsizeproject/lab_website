@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.\nIf you would like to know more, check out the About page."
+    "text": "The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.\nInterested? Tell me more"
   },
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
     "title": "About",
     "section": "",
-    "text": "This is where we have slightly more detailed information about the group."
+    "text": "This is where we have slightly more detailed information about the group.\nTo check out our current and past members, click here."
   },
   {
     "objectID": "pages/people/asta.html",
     "href": "pages/people/asta.html",
     "title": "Asta Audzijonyte",
     "section": "",
-    "text": "Freddie Heather is an ecological modeller with research interests in understanding human impacts on marine ecosystems. He is a post-doc in the Fish Size Project at the Institute for Marine and Antarctic Studies at the University of Tasmania.\nEducation\nPh.D., University of Tasmania - 2021 (Quantitative Marine Science)\nMBiolSci, University of Sheffield - 2014 (Biology)\nExperience\nPostdoc, University of Tasmania - current (Marine ecology)\nPostdoc, University of Tasmania - 2022 (Reef ecology)"
+    "text": "Freddie Heather is an ecological modeller with research interests in understanding human impacts on marine ecosystems. He is a post-doc in the Fish Size Project at the Institute for Marine and Antarctic Studies at the University of Tasmania.\n\nEducation\nPh.D., University of Tasmania - 2021 (Quantitative Marine Science)\nMBiolSci, University of Sheffield - 2014 (Biology)\n\n\nExperience\nPostdoc, University of Tasmania - current (Marine ecology)\nPostdoc, University of Tasmania - 2022 (Reef ecology)"
   },
   {
     "objectID": "pages/people/freddie.html",
@@ -44,8 +44,36 @@
   {
     "objectID": "pages/people.html",
     "href": "pages/people.html",
-    "title": "Current members",
+    "title": "",
     "section": "",
-    "text": "Current members\n\n\n\n\n\n\n\n\n\n\nAsta Audzijonyte\n\n\nLead investigator asta.audzijonyte@utas.edu.au\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFreddie J. Heather\n\n\nPostdoctoral researcher freddie.heather@utas.edu.au\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nPast members"
+    "text": "Lead investigator asta.audzijonyte@utas.edu.au\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPostdoctoral researcher freddie.heather@utas.edu.au\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/people.html#past-members",
+    "href": "pages/people.html#past-members",
+    "title": "",
+    "section": "Past members",
+    "text": "Past members"
+  },
+  {
+    "objectID": "pages/software.html",
+    "href": "pages/software.html",
+    "title": "Packages and apps",
+    "section": "",
+    "text": "Species-based size spectra\nThis R package, developed by Freddie Heather, is freely available to download from github."
+  },
+  {
+    "objectID": "pages/software.html#shiny-apps",
+    "href": "pages/software.html#shiny-apps",
+    "title": "Packages and apps",
+    "section": "Shiny apps",
+    "text": "Shiny apps"
+  },
+  {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "",
+    "section": "",
+    "text": "Audzijonyte et al. (2020) Fish Body Sizes Change with Temperature but Not All Species Shrink with Warming. Nature Ecology and Evolution."
   }
 ]
