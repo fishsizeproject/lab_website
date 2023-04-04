@@ -1,3 +1,16 @@
 ---
-title: "people"
+listing:
+  contents: people
+  id: people_list
+  sort: "order"
+  type: grid
+  categories: false
+  image-align: 'right'
 ---
+
+# Current members
+
+::: {#people_list}
+:::
+
+# Past members

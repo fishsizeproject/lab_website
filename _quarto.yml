@@ -7,13 +7,29 @@ website:
     logo: "www/fsp_logo_long.png"
     background: "#0085ec"
     left:
-      - href: pages/index.qmd
-        text: Home
-      - pages/about.qmd
-      - pages/people.qmd
-      - pages/research.qmd
-      - pages/courses.qmd
-      - pages/blog.qmd
+      - href: index.qmd
+        text: About us
+      - href: pages/about.qmd
+        text: Tell me more
+      - href: pages/people.qmd
+        text: People
+      - href: pages/research.qmd
+        text: Our research
+      - href: pages/courses.qmd
+        text: Courses
+      - href: pages/blog.qmd
+        text: Blog
+      - href: pages/software.qmd
+        text: Packages & apps
+      - href: pages/join.qmd
+        text: Join us!
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
 
 format:
   html:
