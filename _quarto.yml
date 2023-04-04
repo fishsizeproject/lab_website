@@ -1,18 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   navbar:
-    logo: "fsp_logo_long.png"
+    logo: "www/fsp_logo_long.png"
     background: "#0085ec"
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
-      - people.qmd
-      - reseach.qmd
-      - courses.qmd
-      - blog.qmd
+      - pages/about.qmd
+      - pages/people.qmd
+      - pages/research.qmd
+      - pages/courses.qmd
+      - pages/blog.qmd
 
 format:
   html:
