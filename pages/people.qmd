@@ -13,4 +13,4 @@ listing:
 ::: {#people_list}
 :::
 
-## Past members
+<!-- ## Past members -->

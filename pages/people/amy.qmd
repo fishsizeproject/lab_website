@@ -1,0 +1,33 @@
+---
+title: "Amy Coghlan"
+image: headshots/amy.jpg
+description: "Postdoctoral researcher \\n freddie.heather@utas.edu.au"
+about:
+  template: trestles
+  image: headshots/amty.jpg
+  links:
+    - icon: files
+      text: Publications
+      href: https://scholar.google.com.au/citations?user=1RQuG28AAAAJ&hl=en
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/freddie_j_h
+    - icon: github
+      text: Github
+      href: https://github.com/freddiejh
+order: 2
+---
+
+Freddie Heather is an ecological modeller with research interests in understanding human impacts on marine ecosystems. He is a post-doc in the Fish Size Project at the Institute for Marine and Antarctic Studies at the University of Tasmania.
+
+Education
+
+Ph.D., University of Tasmania - 2021 (Quantitative Marine Science)
+
+MBiolSci, University of Sheffield - 2014 (Biology)
+
+Experience
+
+Postdoc, University of Tasmania - current (Marine ecology)
+
+Postdoc, University of Tasmania - 2022 (Reef ecology)
