@@ -3,37 +3,30 @@ project:
   output-dir: docs
 
 website:
+  favicon: "www/fsp_logo_square.png"
+  search: false
   navbar:
-    logo: "www/fsp_logo_long.png"
-    background: "#0085ec"
+    brand:
+      img: "www/fsp_logo_long.png"
+      placement: center
     left:
-      - href: index.qmd
-        text: About us
-      - href: pages/about.qmd
-        text: Tell me more
-      - href: pages/people.qmd
-        text: People
+      - url: index.qmd
+        text: About
+      - url: pages/people.qmd
+        text: Our team
       - href: pages/research.qmd
-        text: Our research
-      - href: pages/courses.qmd
-        text: Courses
+        text: Research
+    right:
       - href: pages/blog.qmd
-        text: Blog
+        text: Media
       - href: pages/software.qmd
-        text: Packages & apps
+        text: Resources
       - href: pages/join.qmd
         text: Join us!
-    tools:
-      - icon: github
-        menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styling/styles.css
     toc: true
 

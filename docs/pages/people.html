@@ -25,29 +25,18 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../www/fsp_logo_square.png" rel="icon" type="image/png">
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -60,37 +49,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-people_list .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-people_list'] = new List('listing-people_list', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styling/styles.css">
 </head>
@@ -101,11 +60,6 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../www/fsp_logo_long.png" alt="" class="navbar-logo">
-    </a>
-  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -113,38 +67,31 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../index.html" rel="">
- <span class="menu-text">About us</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../pages/about.html" rel="">
- <span class="menu-text">Tell me more</span></a>
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../pages/people.html" rel="" aria-current="page">
- <span class="menu-text">People</span></a>
+ <span class="menu-text">Our team</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/research.html" rel="">
- <span class="menu-text">Our research</span></a>
+ <span class="menu-text">Research</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../pages/courses.html" rel="">
- <span class="menu-text">Courses</span></a>
-  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../pages/blog.html" rel="">
- <span class="menu-text">Blog</span></a>
+ <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/software.html" rel="">
- <span class="menu-text">Packages &amp; apps</span></a>
+ <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/join.html" rel="">
  <span class="menu-text">Join us!</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -158,7 +105,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#current-members" id="toc-current-members" class="nav-link active" data-scroll-target="#current-members">Current members</a></li>
+  <li><a href="#our-team" id="toc-our-team" class="nav-link active" data-scroll-target="#our-team">Our Team</a></li>
+  <li><a href="#our-collaborators" id="toc-our-collaborators" class="nav-link" data-scroll-target="#our-collaborators">Our Collaborators</a></li>
   </ul>
 </nav>
     </div>
@@ -167,193 +115,53 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="current-members" class="level2">
-<h2 class="anchored" data-anchor-id="current-members">Current members</h2>
-<div id="listing-people_list" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1680580202299" data-listing-reading-time-sort="0.335">
-<a href="../pages/people/asta.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/asta.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Asta Audzijonyte
-</h5>
-<div class="card-text listing-description">
-Lead investigator asta.audzijonyte@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1680589084828" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/amy.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/amy.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Amy Coghlan
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1680575357201" data-listing-reading-time-sort="0.335">
-<a href="../pages/people/freddie.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/freddie.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Freddie J. Heather
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1680588935926" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/nils.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/nils.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Nils Krueck
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1680660144659" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/pia.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/pia.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Pia Bessell-Browne
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1680589031817" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/sarah.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/sarah.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Sarah Willington
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1680589088170" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/shane.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/shane.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Shane Richards
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1680588999324" data-listing-reading-time-sort="0.33">
-<a href="../pages/people/rowan.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../pages/people/headshots/rowan.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Rowan Trebilco
-</h5>
-<div class="card-text listing-description">
-Postdoctoral researcher freddie.heather@utas.edu.au
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<!-- ## Past members -->
-
+<section id="our-team" class="level2">
+<h2 class="anchored" data-anchor-id="our-team">Our Team</h2>
+<table class="table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 73%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="people/headshots/asta.jpg" class="img-fluid" data-fig-align="center"></td>
+<td><p><strong>Asta Audzijonyte</strong></p>
+<p>Asta is the lead investigator in the fish size project.</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="people/headshots/freddie.jpg" class="img-fluid"></td>
+<td><p><strong>Freddie J. Heather</strong></p>
+<p>Freddie is a postdoctoral researcher in the group. Freddie is leading analyses into fundamental properties of species body size distributions.</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="people/headshots/pia.jpg" class="img-fluid"></td>
+<td><strong>Pia Bessell-Browne</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="people/headshots/shane.jpg" class="img-fluid"></td>
+<td><strong>Shane Richards</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="people/headshots/rowan.jpg" class="img-fluid"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="people/headshots/sarah.jpg" class="img-fluid"></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="people/headshots/amy.jpg" class="img-fluid"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="people/headshots/nils.jpg" class="img-fluid"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="our-collaborators" class="level2">
+<h2 class="anchored" data-anchor-id="our-collaborators">Our Collaborators</h2>
 
 
 </section>

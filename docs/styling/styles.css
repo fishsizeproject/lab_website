@@ -1,1 +1,50 @@
 /* css styles */
+
+
+.navbar{
+  font-family: Copperplate,Copperplate Gothic Light,fantasy;
+  background: transparent;
+  border-color: transparent;
+  border-left: none;
+  border-right: none;
+  margin: 0px 30px 0px 30px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 30px 30px 0px 30px;
+}
+
+.navbar .nav-link{
+  border-left: transparent;
+  border-right: transparent;
+}
+
+.navbar:hover 
+.nav-link:hover {
+ background: transparent;
+  border-color: transparent;
+  color: #FFA07A;
+}
+
+.navbar:active .nav-link:active{
+ background: transparent;
+  border-color: transparent;
+  color: #FFA07A;
+  text-decoration: underline;
+}
+
+.navbar:focus .nav-link:focus{
+ background: transparent;
+  border-color: transparent;
+  color: #FFA07A;
+  text-decoration: underline;
+}
+
+.navbar-brand {
+    position: relative;
+    background: url("www/fsp_logo_long.png");
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+}
+

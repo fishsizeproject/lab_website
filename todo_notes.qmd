@@ -1,0 +1,29 @@
+---
+title: "Website todo"
+---
+
+-   Get high res logos
+
+-   everyone to have a square image and a small paragraph about what they are doing on the project, whatever links they want to provide (e.g. publications, github, twitter)
+
+-   make a condensed version of all the tabs (e.g. people, publications etc), on the homepage and then when you click on people you will get the fulle version
+
+-   ~~the 'people' page use the detailed info only and make it into long list (similar to the packages and apps page)~~
+
+    -   ~~change the name of "pacakges and apps" to "resources", which could also encompass courses~~
+
+-   Add "media" tab for news stories etc. maybe we can combine this with the blog
+
+-   check out megamove.org - our team, our imact
+
+-   check out fishweb2 repo on fishsizeproject github page fishsizeproject.sif.lt
+
+-   maybe we have a collaborators page or add to an image on the first page
+
+-   about page is just a scroll
+
+-   tell me more can be removed
+
+-   could add tags to publications
+
+-   need to add links to publications
