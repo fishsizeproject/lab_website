@@ -2,74 +2,98 @@
 format: html
 ---
 
-
 <!-- ![](/www/fsp_logo_long.png){fig-align="center" width="683"} -->
-<div class="headersection">
-<center>
-<h1 class="bigheader">Fish Size Project</h1>
-</center>
-</div>
 
-<div class="sectionblock">
+::: headersection
 <center>
+
+<h1 class="bigheader">
+
+Fish Size Project
+
+</h1>
+
+</center>
+:::
+
+::: sectionblock
+<center>
+
 <p class="sectionheader">
+
 Our Vision
+
 </p>
+
 </center>
+
 <p class="sectiontext">
-The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.
-</p>
-</div>
 
-<div class="sectionblock">
+The Fish Size Project aims to understand human impacts on fish size diversity in order to reveal what we have lost, what this means for humans, for fish and aquatic ecosystems and what can we do to bring back the oceans, lakes and rivers full of large fish. 
+
+</p>
+:::
+
+::: sectionblock
 <center>
+
 <p class="sectionheader">
+
 Our Aim
+
+We work on the methods to assess human impacts using limited and diverse data sources, for all fish species around the world. We use different experiments and models to reveal how fish size changes might affect fisheries and marine ecosystems.
+
 </p>
+
 </center>
-<p class="sectiontext">Our aim is to....The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.</p>
-</div>
+
+<p class="sectiontext">
 
 
-<div class="sectionblock">
-<center>
-<p class="sectionheader">
-Who we are
+
 </p>
-</center>
-<p class="sectiontext">Our aim is to....The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.</p>
-</div>
+:::
 
-
-<div class="sectionblock">
+::: sectionblock
 <center>
+
 <p class="sectionheader">
+
 Meet the team
+
 </p>
+
 </center>
-<p class="sectiontext">Our aim is to....The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.</p>
-</div>
 
+<p class="sectiontext">
 
-<div class="sectionblock">
+Fish Size Project is based at the University of Tasmania, but we collaborate with CSIRO, Danish Technical University and many other organisations around the world.
+
+Ideally have the figure with photos in here 
+
+</p>
+:::
+
+::: sectionblock
 <center>
+
 <p class="sectionheader">
+
 Our impact
+
 </p>
+
 </center>
-<p class="sectiontext">Our aim is to....The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.</p>
-</div>
 
+<p class="sectiontext">
 
-<div class="sectionblock">
-<center>
-<p class="sectionheader">
-Contact
+Some text to go here 
+
 </p>
-</center>
-<p class="sectiontext">Our aim is to....The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.</p>
-</div>
+:::
 
+
+```{=html}
 <style>
 
 body {
@@ -103,4 +127,4 @@ font-size: 80px;
 font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 }
 </style>
-
+```
