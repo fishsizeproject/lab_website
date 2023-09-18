@@ -29,20 +29,30 @@
 .navbar:active .nav-link:active{
  background: transparent;
   border-color: transparent;
-  color: #FFA07A;
+  color: yellow;
   text-decoration: underline;
 }
 
 .navbar:focus .nav-link:focus{
  background: transparent;
   border-color: transparent;
-  color: #FFA07A;
+  color: green;
+  text-decoration: underline;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+}
+
+.navbar:visited .nav-link:visited{
+ background: transparent;
+  border-color: transparent;
+  color: green;
   text-decoration: underline;
 }
 
 .navbar-brand {
-    position: relative;
-    background: url("www/fsp_logo_long.png");
     width: 170px;
     left: 15px;
     background-size: contain;

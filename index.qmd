@@ -1,5 +1,6 @@
 ---
 format: html
+toc: false
 ---
 
 
@@ -17,7 +18,7 @@ Our Vision
 </p>
 </center>
 <p class="sectiontext">
-The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change.
+The Fish Size Project is a research group led by Dr. Asta Audzijonyte at the University of Tasmania, Hobart, Australia. Here, we are investigating everything relating to fish body size. One main research focus is understanding how species body size distributions are being impacted by human harvesting practices and climate change. 
 </p>
 </div>
 
@@ -87,10 +88,13 @@ color: white;
 padding: 0px 0px 0px 0px;
 }
 .sectionheader {
+position: relative;
 font-size: 30px;
 font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 color: #FFA07A;
+padding: 0px 0px 0px 0px;
 }
+
 .sectionblock {
 padding: 0px 0px 800px 0px;
 }

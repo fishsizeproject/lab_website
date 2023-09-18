@@ -6,9 +6,7 @@ website:
   favicon: "www/fsp_logo_square.png"
   search: false
   navbar:
-    brand:
-      img: "www/fsp_logo_long.png"
-      placement: center
+    brand: "<img src='www/fsp_logo_long.png' alt='Logo' class='logo'>"
     left:
       - url: index.qmd
         text: About
@@ -31,4 +29,3 @@ format:
     toc: true
 
 editor: visual
-
