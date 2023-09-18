@@ -5,24 +5,24 @@ toc: false
 
 <!-- ![](/www/fsp_logo_long.png){fig-align="center" width="683"} -->
 
-::: headersection
-<center>
+<!-- ::: headersection -->
+<!-- <center> -->
 
-<h1 class="bigheader">
+<!-- <h1 class="bigheader"> -->
 
-Fish Size Project
+<!-- Fish Size Project -->
 
-</h1>
+<!-- </h1> -->
 
-</center>
-:::
+<!-- </center> -->
+<!-- ::: -->
 
 ::: sectionblock
 <center>
 
 <p class="sectionheader">
 
-Our Vision
+<!-- Our Vision -->
 
 </p>
 
@@ -30,27 +30,7 @@ Our Vision
 
 <p class="sectiontext">
 
-The Fish Size Project aims to understand human impacts on fish size diversity in order to reveal what we have lost, what this means for humans, for fish and aquatic ecosystems and what can we do to bring back the oceans, lakes and rivers full of large fish. 
-
-</p>
-:::
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-Our Aim
-
-We work on the methods to assess human impacts using limited and diverse data sources, for all fish species around the world. We use different experiments and models to reveal how fish size changes might affect fisheries and marine ecosystems.
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-
+<!-- The Fish Size Project aims to understand human impacts on fish size diversity in order to reveal what we have lost, what this means for humans, for fish and aquatic ecosystems and what can we do to bring back the oceans, lakes and rivers full of large fish. -->
 
 </p>
 :::
@@ -60,17 +40,15 @@ We work on the methods to assess human impacts using limited and diverse data so
 
 <p class="sectionheader">
 
-Meet the team
+<!-- Our Aim -->
+
+<!-- We work on the methods to assess human impacts using limited and diverse data sources, for all fish species around the world. We use different experiments and models to reveal how fish size changes might affect fisheries and marine ecosystems. -->
 
 </p>
 
 </center>
 
 <p class="sectiontext">
-
-Fish Size Project is based at the University of Tasmania, but we collaborate with CSIRO, Danish Technical University and many other organisations around the world.
-
-Ideally have the figure with photos in here 
 
 </p>
 :::
@@ -80,7 +58,7 @@ Ideally have the figure with photos in here
 
 <p class="sectionheader">
 
-Our impact
+<!-- Meet the team -->
 
 </p>
 
@@ -88,19 +66,85 @@ Our impact
 
 <p class="sectiontext">
 
-Some text to go here 
+<!-- Fish Size Project is based at the University of Tasmania, but we collaborate with CSIRO, Danish Technical University and many other organisations around the world. -->
+
+<!-- Ideally have the figure with photos in here -->
 
 </p>
 :::
+
+::: sectionblock
+<center>
+
+<p class="sectionheader">
+
+<!-- Our impact -->
+
+</p>
+
+</center>
+
+<p class="sectiontext">
+
+<!-- Some text to go here -->
+
+</p>
+
+
+:::
+
+
+::: sectionblock
+<center>
+
+<p class="sectionheader">
+
+<!-- Our impact -->
+
+</p>
+
+</center>
+
+<p class="sectiontext">
+
+<!-- Some text to go here -->
+
+</p>
+
+
+:::
+
+::: sectionblock
+<center>
+
+<p class="sectionheader">
+
+<!-- Our impact -->
+
+</p>
+
+</center>
+
+<p class="sectiontext">
+
+<!-- Some text to go here -->
+
+</p>
+
+
+:::
+
+
 
 
 ```{=html}
 <style>
 
 body {
-background-image: url("www/background.png");
+background-image: url("www/background-simple2.png");
 background-size: cover;
 background-repeat: no-repeat;
+background-color: "white"
 }
 
 
@@ -109,18 +153,20 @@ color: white;
 }
 
 .sectiontext {
+font-size: 30px;
 padding: 0px 0px 0px 0px;
 }
+
 .sectionheader {
 position: relative;
-font-size: 30px;
+font-size: 60px;
 font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 color: #FFA07A;
 padding: 0px 0px 0px 0px;
 }
 
 .sectionblock {
-padding: 0px 0px 800px 0px;
+padding: 0px 0px 1600px 0px;
 }
 
 .headersection {

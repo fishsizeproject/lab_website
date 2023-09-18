@@ -58,3 +58,35 @@
     background-size: contain;
 }
 
+
+
+
+
+h1, p {
+color: white;
+}
+
+.sectiontext {
+font-size: 30px;
+padding: 0px 0px 0px 0px;
+}
+
+.sectionheader {
+position: relative;
+font-size: 60px;
+font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+color: #FFA07A;
+padding: 0px 0px 0px 0px;
+}
+
+.sectionblock {
+padding: 0px 0px 800px 0px;
+}
+
+.headersection {
+padding: 500px 0px 500px 0px;
+}
+.bigheader {
+font-size: 80px;
+font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+}
