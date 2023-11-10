@@ -26,8 +26,10 @@ title: "FishSizeProject"
 The [Fish Size Project]{style="color:royalblue;font-weight: bold;"} is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally. The motivation for our work is that aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented. To achieve our objectives, we are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
 :::
 
+<br/><br/>
+
 ::: column-screen
-![](www/bananan snapper a5.jpg)
+![](www/bananan%20snapper%20a5.jpg)
 :::
 
 ::: secondpara
