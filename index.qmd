@@ -1,181 +1,65 @@
 ---
 format: html
-toc: false
+title: "FishSizeProject"
 ---
-
-<!-- ![](/www/fsp_logo_long.png){fig-align="center" width="683"} -->
-
-<!-- ::: headersection -->
-<!-- <center> -->
-
-<!-- <h1 class="bigheader"> -->
-
-<!-- Fish Size Project -->
-
-<!-- </h1> -->
-
-<!-- </center> -->
-<!-- ::: -->
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Our Vision -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-<!-- The Fish Size Project aims to understand human impacts on fish size diversity in order to reveal what we have lost, what this means for humans, for fish and aquatic ecosystems and what can we do to bring back the oceans, lakes and rivers full of large fish. -->
-
-</p>
-:::
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Our Aim -->
-
-<!-- We work on the methods to assess human impacts using limited and diverse data sources, for all fish species around the world. We use different experiments and models to reveal how fish size changes might affect fisheries and marine ecosystems. -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-</p>
-:::
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Meet the team -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-<!-- Fish Size Project is based at the University of Tasmania, but we collaborate with CSIRO, Danish Technical University and many other organisations around the world. -->
-
-<!-- Ideally have the figure with photos in here -->
-
-</p>
-:::
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Our impact -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-<!-- Some text to go here -->
-
-</p>
-
-
-:::
-
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Our impact -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-<!-- Some text to go here -->
-
-</p>
-
-
-:::
-
-::: sectionblock
-<center>
-
-<p class="sectionheader">
-
-<!-- Our impact -->
-
-</p>
-
-</center>
-
-<p class="sectiontext">
-
-<!-- Some text to go here -->
-
-</p>
-
-
-:::
-
-
-
 
 ```{=html}
 <style>
-
-body {
-background-image: url("www/background-simple2.png");
-background-size: cover;
-background-repeat: no-repeat;
-background-color: "white"
-}
-
-
-h1, p {
-color: white;
-}
-
-.sectiontext {
-font-size: 30px;
-padding: 0px 0px 0px 0px;
-}
-
-.sectionheader {
-position: relative;
-font-size: 60px;
-font-family: Copperplate,Copperplate Gothic Light,fantasy; 
-color: #FFA07A;
-padding: 0px 0px 0px 0px;
-}
-
-.sectionblock {
-padding: 0px 0px 1600px 0px;
-}
-
-.headersection {
-padding: 500px 0px 500px 0px;
-}
-.bigheader {
-font-size: 80px;
-font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+  body {
+  background-image: url("www/trevally_long3.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 </style>
-
 ```
+::: column-screen
+# FISH {.maintitle}
+
+# SIZE {.maintitle}
+
+# PROJECT {.maintitle}
+:::
+
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+
+::: aboutpara
+The [Fish Size Project]{style="color:royalblue;font-weight: bold;"} is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally. The motivation for our work is that aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented. To achieve our objectives, we are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
+:::
+
+::: column-screen
+![](www/bananan snapper a5.jpg)
+:::
+
+::: secondpara
+<h1 style="text-align:center">
+
+Our Goals
+
+</h1>
+
+::: {style="text-align:center"}
+Analyse general properties of natural (unfished) fish size frequency distributions
+
+Understand how temperature and other environmental factors affect fish sizes
+
+Investigate the impacts of fishing on fish size frequency distributions under variable environmental conditions and advance quantitative approaches to use diverse data sources (apps, citizen science, diver surveys, underwater cameras) to estimate fish population status
+
+Develop novel methods to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions
+
+Develop a global map of human impacts on fish sizes.
+
+Disseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.
+:::
+:::
+
+<br/><br/>
+
+<h1 style="text-align:center">
+
+See what we're up to
+
+</h1>
+
+::: {style="text-align:center"}
+Check us out @fish_size_project on <a href="https://www.threads.net/@fish_size_project" class = "threads">Threads</a>!
+:::

@@ -1,31 +1,34 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  favicon: "www/fsp_logo_square.png"
-  search: false
+  favicon: www/fishsize-logo.png
   navbar:
-    brand: "<img src='www/fsp_logo_long.png' alt='Logo' class='logo'>"
+    logo: www/fishsize-logo-wide2.png
     left:
-      - url: index.qmd
-        text: About
-      - url: pages/people.qmd
-        text: Our team
+      - href: index.qmd
+        text: Home
+      - href: pages/team.qmd
+        text: Our Team
       - href: pages/research.qmd
         text: Research
-    right:
-      - href: pages/blog.qmd
-        text: Media
-      - href: pages/software.qmd
+      - href: pages/media.qmd
+        text: Impact & Outreach
+      - href: pages/resources.qmd
         text: Resources
       - href: pages/join.qmd
-        text: Join us!
+        text: Join Us!
+  page-footer:
+    border: false
+    background: transparent
+    foreground: DimGray
 
 format:
   html:
-    theme: slate
-    css: styling/styles.css
-    toc: true
+    logo: "www/fishsize-logo.png"
+    theme: Cerulean
+    css: styles.css
+    toc: false
 
 editor: visual
+
