@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "FishSizeProject",
+    "title": "Fish Size Project",
     "section": "",
-    "text": "FISH\n\n\nSIZE\n\n\nPROJECT\n\n\n      \n\nThe Fish Size Project is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally. The motivation for our work is that aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented. To achieve our objectives, we are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.\n\n\n\n\n\n\n\nOur Goals\n\n\nAnalyse general properties of natural (unfished) fish size frequency distributions\nUnderstand how temperature and other environmental factors affect fish sizes\nInvestigate the impacts of fishing on fish size frequency distributions under variable environmental conditions and advance quantitative approaches to use diverse data sources (apps, citizen science, diver surveys, underwater cameras) to estimate fish population status\nDevelop novel methods to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions\nDevelop a global map of human impacts on fish sizes.\nDisseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.\n\n\n\n\nSee what we’re up to\n\n\nCheck us out @fish_size_project on Threads!"
+    "text": "The Fish Size Project is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally.\n\n\nAquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented.\n\n\n\n\n\n\n\n\nWe are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others."
   },
   {
     "objectID": "pages/about.html",
@@ -40,5 +40,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#our-goals",
+    "href": "index.html#our-goals",
+    "title": "Fish Size Project",
+    "section": "Our Goals",
+    "text": "Our Goals\n\n\nAnalyse general properties of natural (unfished) fish size frequency distributions\nUnderstand how temperature and other environmental factors affect fish sizes\nInvestigate the impacts of fishing on fish size frequency distributions under variable environmental conditions and advance quantitative approaches to use diverse data sources (apps, citizen science, diver surveys, underwater cameras) to estimate fish population status\nDevelop novel methods to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions\nDevelop a global map of human impacts on fish sizes.\nDisseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.\n\n\n\nMore"
+  },
+  {
+    "objectID": "index.html#see-what-were-up-to",
+    "href": "index.html#see-what-were-up-to",
+    "title": "Fish Size Project",
+    "section": "See what we’re up to",
+    "text": "See what we’re up to\nCheck us out @fish_size_project on Threads!"
   }
 ]
