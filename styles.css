@@ -1,13 +1,35 @@
 /* css styles */
+
+/* Styling specifically for the homepage */
+.hero-img {
+    background-image: url("resources/images/trevally_1599x917.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-strip {
+  width: 100%;
+  min-width: 500px;
+  height: calc(100vw/1602*970);
+}
+
 .maintitle h1 {
-  column: screen;
   text-align: left;
+  text-transform: uppercase;
   font-size: 500%;
   color: white;
-  margin-left: 5%;
-  margin-top: 3%;
-  line-height: 50%;
+  padding: 5%;
+  line-height: 115%;
 }
+
+#quarto-content > * {
+  /* Hero image is pinned to the navbar without a gap */
+    margin-top: 0; 
+    padding-top: 0; 
+  }
+
+/* Navbar styling */
 
 .navbar-brand-container {
     margin-top: 0px;
@@ -22,11 +44,6 @@
     margin: 0; /* Set margin to 0 and use !important to ensure it overrides other styles */
   }
 
-.aboutpara {
-  text-align: center;
-  margin-top: 0px;
-}
-
 .navbar {
     margin-bottom: 0; /* Remove any default margin-bottom for the navbar */
   }
@@ -37,10 +54,6 @@
   background-size:cover;
   background-position:center;
   border-radius:50%;
-}
-
-.quarto-title > h1.title {
-  opacity: 0 !important;
 }
 
 a:link.threads {
