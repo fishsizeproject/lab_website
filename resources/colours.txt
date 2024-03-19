@@ -1,0 +1,8 @@
+Lapis Lazuli: #0a6188
+Prussian Blue: #0d3a51
+French Gray: #CCD4DE
+Ghost White: #f9f8fe
+Payne's grey: #50768e
+Cadet grey: #9EB0BE
+Columbian blue: #b1cada
+Powder blue: #9abed7
