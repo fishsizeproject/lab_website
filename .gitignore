@@ -1,2 +1,15 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Quarto files
 /.quarto/
+
+# R project files
 .Rproj.user
