@@ -30,6 +30,12 @@ format:
     theme: Cerulean
     css: styles.css
     toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 350px
+      body-width: 1450px
+      margin-width: 100px
+      gutter-width: 1.5em
 
 editor: visual
 
