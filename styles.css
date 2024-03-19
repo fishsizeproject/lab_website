@@ -2,22 +2,20 @@
 
 /* Styling specifically for the homepage */
 .hero-img {
-    background-image: url("resources/images/trevally_1599x917.jpg");
+    background-image: url("resources/images/trevally_1599x767.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .hero-strip {
-  width: 100%;
-  min-width: 500px;
-  height: calc(100vw/1602*970);
+  height: calc(100vw/1599*660);
 }
 
 .maintitle h1 {
+  font-size: min(calc(10vw), 150px) !important;
   text-align: left;
   text-transform: uppercase;
-  font-size: 500%;
   color: white;
   padding: 5%;
   line-height: 115%;

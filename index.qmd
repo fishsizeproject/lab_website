@@ -4,8 +4,12 @@ title-block-style: none
 ---
 ::: {.column-screen .hero-img .hero-strip}
 ::: grid
-::: {.g-col-4 .px-2}
+::: {.g-col-sm-10 .g-col-md-6 .g-col-lg-4 .px-5 .align-self-center}
 # Fish Size Project {.maintitle}
+:::
+
+::: {.g-col .hero-strip}
+<!-- This column centers the title vertically -->
 :::
 :::
 :::
