@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  favicon: www/fishsize-logo.png
+  favicon: resources/logo-files/fishsize-logo.png
   navbar:
-    logo: www/fishsize-logo-wide2.png
+    logo: resources/logo-files/fishsize-logo-wide2.png
     left:
       - href: index.qmd
         text: Home
@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    logo: "www/fishsize-logo.png"
+    logo: resources/logo-files/fishsize-logo.png
     theme: Cerulean
     css: styles.css
     toc: false
