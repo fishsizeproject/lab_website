@@ -20,9 +20,15 @@ website:
       - href: pages/join.qmd
         text: Join Us!
   page-footer:
+    left: |
+      Placeholder
+    right: |
+      Placeholder
+    center: |
+      ![](resources/logo-files/fishsize-logo-wide.png)
     border: false
-    background: transparent
-    foreground: DimGray
+    background: primary
+    foreground: light
 
 format:
   html:
