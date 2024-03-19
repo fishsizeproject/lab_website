@@ -32,7 +32,7 @@ format:
     toc: false
     page-layout: full
     grid:
-      sidebar-width: 350px
+      sidebar-width: 250px
       body-width: 1450px
       margin-width: 100px
       gutter-width: 1.5em

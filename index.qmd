@@ -14,27 +14,25 @@ title-block-style: none
 :::
 :::
 
-::: text-center
+::: {.subtitle .text-center}
 The **Fish Size Project** is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally. 
 :::
 
 ::: column-screen
-::: grid
-::: {.g-col-6 .px-2 .text-center}
+::: {.grid .justify-contents-evently style="margin-left: 25px;"}
+::: {.g-col-12 .g-col-md-6 .px-4 .text-center .align-self-center}
 Aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented.
-:::
-
-::: {.g-col-6}
-![](www/bananan%20snapper%20a5.jpg)
-:::
-
-::: {.g-col-6}
-![](www/bananan%20snapper%20a5.jpg)
-:::
-
-::: {.g-col-6 .px-2 .text-center}
+<br><br>
 We are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![](resources/images/banana_snapper_2480x1430.jpg)
+:::
+
+<!-- ::: {.g-col-12 .g-col-md-6} -->
+<!-- ![](https://placehold.co/2480x1430) -->
+<!-- ::: -->
 :::
 :::
 
@@ -54,6 +52,17 @@ We are investigating the drivers of the relative abundance of small, medium and 
 6. Disseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.
 :::
 
-## See what we're up to
+::: text-center
+[More](pages/about.qmd){.btn .btn-primary}
+:::
+
+## News
 
 Check us out @fish_size_project on <a href="https://www.threads.net/@fish_size_project" class = "threads">Threads</a>!
+
+## Research
+
+## The Team
+
+## Impact & Outreach
+
