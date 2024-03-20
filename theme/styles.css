@@ -38,14 +38,6 @@ ol ::marker {
   height: calc(100vw/1599*660);
 }
 
-.maintitle h1 {
-  font-size: min(calc(8.5vw), 150px) !important;
-  text-align: left;
-  text-transform: uppercase;
-  color: var(--bs-ghost) !important;
-  padding: 5%;
-  line-height: 115%;
-}
 .subtitle {
   font-size: 1.25em;
   line-height: 115%;

@@ -33,9 +33,10 @@ website:
 format:
   html:
     logo: resources/logo-files/fishsize-logo.png
-    theme: [cerulean, theme/theming.scss]
+    theme: [solana, theme/theming.scss]
     css: theme/styles.css
     toc: false
+    anchor-sections: false
     page-layout: full
     grid:
       sidebar-width: 250px
