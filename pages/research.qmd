@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit
 
 ### Major findings
 
-For a full list of the impacts and outcomes of this research, see [Resources & Impacts](pages/resources.qmd).
+For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: grid
 ::: {.g-col-sm-6 .g-col-md-3 .p-1}
@@ -128,7 +128,7 @@ Temperature has large impacts on fish sizes, both naturally and also through hum
 
 ### Aims
 
-1.  Using underwater visual survey data from Reef Life Survey (<https://reeflifesurvey.com/>) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. 
+1.  Using underwater visual survey data from [Reef Life Survey](https://reeflifesurvey.com/) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. 
 
 2.  Is the increase in mean size in warmer waters compatible with the temperature size rule, which states that in warmer conditions fish grow to smaller maturation sizes? 
 
@@ -136,7 +136,7 @@ Temperature has large impacts on fish sizes, both naturally and also through hum
 
 ### Major findings
 
-For a full list of the impacts and outcomes of this research, see [Resources & Impacts](pages/resources.qmd).
+For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: grid
 ::: {.g-col-sm-6 .g-col-md-3 .p-1}
@@ -213,7 +213,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit
 
 ### Major findings
 
-For a full list of the impacts and outcomes of this research, see [Resources & Impacts](pages/resources.qmd).
+For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: grid
 ::: {.g-col-sm-6 .g-col-md-3 .p-1}
@@ -301,7 +301,7 @@ Chong-Montenegro C, Thurstan RH, Pandolfi JM (**2022**) Quantifying the historic
 
 ### Major findings
 
-For a full list of the impacts and outcomes of this research, see [Resources & Impacts](pages/resources.qmd).
+For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: grid
 ::: {.g-col-sm-6 .g-col-md-3 .p-1}
