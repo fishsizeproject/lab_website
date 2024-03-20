@@ -11,21 +11,7 @@
     "href": "pages/research.html",
     "title": "Research",
     "section": "",
-    "text": "Temperature has large impacts on fish sizes, both naturally and also through human induced climate change. However, it is still not clear how temperature might affect growth, size structure or mean sizes in natural populations and we use diverse data sources and simulations to explore that. \n\nUsing underwater visual survey data from Reef Life Survey (https://reeflifesurvey.com/) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. \nIs the increase in mean size in warmer waters compatible with the temperature size rule, which states that in warmer conditions fish grow to smaller maturation sizes? \nFish size distributions are shaped by rates of growth and mortality, and by using simulation modelling we can manipulate these two parameters to see how population mean and maximum size might change under different temperature conditions. Using these methods we can show that it is possible to get increasing population mean sizes, even though the maximum and asymptotic size may be declining, as predicted by the temperature size rule.\n\n\n\n\n\n\n\nHistorical data helps us understand the cumulative impact of human activities and minimise the shifting baseline syndrome by estimating the degree to which human activities can alter marine fish populations and ecosystems. We aim to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions at local and regional scales. Examples of the use of historical sources to understand past fisheries dynamics: \n\nChong-Montenegro C, Thurstan RH, Pandolfi JM (2022) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. https://doi.org/10.3354/meps14138"
-  },
-  {
-    "objectID": "pages/research.html#temperature-impacts-on-fish-sizes",
-    "href": "pages/research.html#temperature-impacts-on-fish-sizes",
-    "title": "Research",
-    "section": "",
-    "text": "Temperature has large impacts on fish sizes, both naturally and also through human induced climate change. However, it is still not clear how temperature might affect growth, size structure or mean sizes in natural populations and we use diverse data sources and simulations to explore that. \n\nUsing underwater visual survey data from Reef Life Survey (https://reeflifesurvey.com/) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. \nIs the increase in mean size in warmer waters compatible with the temperature size rule, which states that in warmer conditions fish grow to smaller maturation sizes? \nFish size distributions are shaped by rates of growth and mortality, and by using simulation modelling we can manipulate these two parameters to see how population mean and maximum size might change under different temperature conditions. Using these methods we can show that it is possible to get increasing population mean sizes, even though the maximum and asymptotic size may be declining, as predicted by the temperature size rule."
-  },
-  {
-    "objectID": "pages/research.html#using-historical-records-to-understand-shifting-baselines",
-    "href": "pages/research.html#using-historical-records-to-understand-shifting-baselines",
-    "title": "Research",
-    "section": "",
-    "text": "Historical data helps us understand the cumulative impact of human activities and minimise the shifting baseline syndrome by estimating the degree to which human activities can alter marine fish populations and ecosystems. We aim to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions at local and regional scales. Examples of the use of historical sources to understand past fisheries dynamics: \n\nChong-Montenegro C, Thurstan RH, Pandolfi JM (2022) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. https://doi.org/10.3354/meps14138"
+    "text": "Our research focuses\n{#sec-size-distribution-properties} ## General properties of intra-specific size distributions\n{#sec-temp-impacts} ## Temperature impacts on fish sizes\nTemperature has large impacts on fish sizes, both naturally and also through human induced climate change. However, it is still not clear how temperature might affect growth, size structure or mean sizes in natural populations and we use diverse data sources and simulations to explore that. \n\nUsing underwater visual survey data from Reef Life Survey (https://reeflifesurvey.com/) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. \nIs the increase in mean size in warmer waters compatible with the temperature size rule, which states that in warmer conditions fish grow to smaller maturation sizes? \nFish size distributions are shaped by rates of growth and mortality, and by using simulation modelling we can manipulate these two parameters to see how population mean and maximum size might change under different temperature conditions. Using these methods we can show that it is possible to get increasing population mean sizes, even though the maximum and asymptotic size may be declining, as predicted by the temperature size rule.\n\n{#sec-size-models-impacts} ## Applying size based models to assess human impacts\n{#sec-historical-shifting-baselines} ## Using historical records to understand shifting baselines\nHistorical data helps us understand the cumulative impact of human activities and minimise the shifting baseline syndrome by estimating the degree to which human activities can alter marine fish populations and ecosystems. We aim to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions at local and regional scales. Examples of the use of historical sources to understand past fisheries dynamics: \n\nChong-Montenegro C, Thurstan RH, Pandolfi JM (2022) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. https://doi.org/10.3354/meps14138"
   },
   {
     "objectID": "index.html#our-goals",
@@ -39,28 +25,35 @@
     "href": "index.html#news",
     "title": "Fish Size Project",
     "section": "News",
-    "text": "News\nCheck us out @fish_size_project on Threads!"
+    "text": "News\n\n\n\n\n\nTitle\n\nText text\n\n\n\n\n\n\n\n\nTitle\n\nText text\n\n\n\n\n\n\nSee what we’re up to\n\nCheck us out @fish_size_project on Threads!"
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Fish Size Project",
     "section": "Research",
-    "text": "Research"
+    "text": "Research\n\n\n\n\n\nGeneral properties of intra-specific size distributions\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi.\nNunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\nRead more\n\n\n\n\n\nTemperature impacts on fish sizes\nTemperature has large impacts on fish sizes, both naturally and through human induced climate change. However, it is still not clear how it affects natural populations.\nWe use diverse data sources and simulations to explore how temperature might affect growth, size structure or mean sizes.\nRead more\n\n\n\n\n\nApplying size based models to assess human impacts\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies.\nSed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend.\nProin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\nRead more\n\n\n\n\n\nUsing historical records to understand shifting baselines\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor.\nMaecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\nRead more"
   },
   {
-    "objectID": "index.html#the-team",
-    "href": "index.html#the-team",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Fish Size Project",
-    "section": "The Team",
-    "text": "The Team"
+    "section": "",
+    "text": "Our Team\nMaecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nMeet the team"
+  },
+  {
+    "objectID": "index.html#our-team",
+    "href": "index.html#our-team",
+    "title": "Fish Size Project",
+    "section": "Our Team",
+    "text": "Our Team\nMaecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nMeet the team"
   },
   {
     "objectID": "index.html#impact-outreach",
     "href": "index.html#impact-outreach",
     "title": "Fish Size Project",
     "section": "Impact & Outreach",
-    "text": "Impact & Outreach"
+    "text": "Impact & Outreach\nComing soon…"
   },
   {
     "objectID": "pages/about.html",
