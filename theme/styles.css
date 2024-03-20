@@ -28,7 +28,7 @@ ol ::marker {
 /* Homepage styling */
 
 .hero-img {
-    background-image: url("resources/images/trevally_1599x767.jpg");
+    background-image: url("../resources/images/trevally_1599x767.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +42,7 @@ ol ::marker {
   font-size: min(calc(8.5vw), 150px) !important;
   text-align: left;
   text-transform: uppercase;
-  color: white;
+  color: var(--bs-ghost) !important;
   padding: 5%;
   line-height: 115%;
 }
