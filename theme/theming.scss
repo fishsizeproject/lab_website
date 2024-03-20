@@ -17,7 +17,6 @@ $dark:          $gray-800 !default;
 
 $min-contrast-ratio:   1.9 !default;
 
-
 $primary:       #0a6188; // Lapis Lazuli
 $secondary:     #0d3a51;  // Prussian Blue
 $accent1:       #50768e; // Payne's grey
@@ -31,15 +30,9 @@ $ghost:         #f9f8fe; // Ghost White
 $body-bg:             transparent;      // The page background color.
 $body-color:          $black;           // The page text color.
 
-$font-size-root: 1em;             // The base font size for the page.
-$fa-font-path: '../resources/fontawesome6/webfonts';
-@import "../resources/fontawesome6/scss/fontawesome.scss";
-
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
-$h2-color:        $primary;
-$h3-color:        $primary;
-$h4-color:        $secondary;
+$font-size-root: 1em;
 $h4-font-size:   $font-size-root*1.25;
 $h3-font-size:   $h4-font-size*1.25;
 $h2-font-size:   $h3-font-size*1.5;
@@ -130,6 +123,13 @@ hr {
   line-height: 115%;
 }
 
+.pagetitle {
+  font-size: min(calc(5vw), 100px) !important;
+  color: $ghost !important;
+  padding: 10%;
+  line-height: 100%;
+}
+
 .navbar {
   font-weight: $headings-font-weight;
   //background-color: $white;  /* Modern Browsers */
@@ -142,22 +142,6 @@ hr {
 #quarto-content > * {
   padding-top: 0;
   margin-top: 0;
-}
-
-.pub-list {
-  $icon-size: .8em;
-  $gutter: .5em;
-  padding: 0 0 0 $icon-size;
-}
-
-.pub-list li {
-  padding-left: $gutter;
-}
-
-.pub-list li::marker {
-  content: "\f015"; /* FontAwesome Unicode */
-  font-family: FontAwesome;
-  font-size: $icon-size;
 }
 
 .btn {
