@@ -59,6 +59,11 @@ ol ::marker {
   object-position: 50% 50%;
 }
 
+.img-tile-lg {
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
 .img-container > p {
   padding: 0 !important;
   margin: 0 !important;

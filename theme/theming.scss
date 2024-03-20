@@ -32,6 +32,8 @@ $body-bg:             transparent;      // The page background color.
 $body-color:          $black;           // The page text color.
 
 $font-size-root: 1em;             // The base font size for the page.
+$fa-font-path: '../resources/fontawesome6/webfonts';
+@import "../resources/fontawesome6/scss/fontawesome.scss";
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
@@ -110,6 +112,10 @@ hr {
   text-align: center;
 }
 
+.no-caps {
+  text-transform: none !important;
+}
+
 .h3, h3, .h4, h4 {
   color: $primary;
   border-bottom: none;
@@ -138,6 +144,22 @@ hr {
   margin-top: 0;
 }
 
+.pub-list {
+  $icon-size: .8em;
+  $gutter: .5em;
+  padding: 0 0 0 $icon-size;
+}
+
+.pub-list li {
+  padding-left: $gutter;
+}
+
+.pub-list li::marker {
+  content: "\f015"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  font-size: $icon-size;
+}
+
 .btn {
   &-primary {
     background-color: $primary;
@@ -148,7 +170,6 @@ hr {
     border-color: shade-color($primary, 10%);
   }
 }
-
 
 .btn-primary {
   color: $ghost !important;
