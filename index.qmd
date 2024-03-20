@@ -2,6 +2,7 @@
 format: html
 title-block-style: none
 ---
+
 ::: {.column-screen .hero-img .hero-strip}
 ::: grid
 ::: {.g-col-sm-10 .g-col-md-6 .g-col-lg-4 .px-5 .align-self-center}
@@ -9,21 +10,20 @@ title-block-style: none
 :::
 
 ::: {.g-col .hero-strip}
-<!-- This column centers the title vertically -->
+<!-- Empty column centers the title vertically -->
 :::
+
 :::
 :::
 
 ::: {.subtitle .text-center}
-The **Fish Size Project** is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally. 
+The **Fish Size Project** is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. The main goal of the project is to understand general patterns in the size structure of fish populations and to apply this knowledge to advance conservation and fisheries management globally.
 :::
 
-::: column-screen
-::: {.grid .justify-contents-evently style="margin-left: 25px;"}
+::::: column-screen
+:::: {.grid .justify-contents-evently style="margin-left: 25px;"}
 ::: {.g-col-12 .g-col-md-6 .px-4 .text-center .align-self-center}
-Aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented.
-<br><br>
-We are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
+Aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented. <br><br> We are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -31,25 +31,27 @@ We are investigating the drivers of the relative abundance of small, medium and 
 :::
 
 <!-- ::: {.g-col-12 .g-col-md-6} -->
+
 <!-- ![](https://placehold.co/2480x1430) -->
+
 <!-- ::: -->
-:::
-:::
+::::
+:::::
 
 ## Our Goals
 
 ::: ol
-1. Analyse general properties of natural (unfished) fish size frequency distributions
+1.  Analyse general properties of natural (unfished) fish size frequency distributions
 
-2. Understand how temperature and other environmental factors affect fish sizes
+2.  Understand how temperature and other environmental factors affect fish sizes
 
-3. Investigate the impacts of fishing on fish size frequency distributions under variable environmental conditions and advance quantitative approaches to use diverse data sources (apps, citizen science, diver surveys, underwater cameras) to estimate fish population status
+3.  Investigate the impacts of fishing on fish size frequency distributions under variable environmental conditions and advance quantitative approaches to use diverse data sources (apps, citizen science, diver surveys, underwater cameras) to estimate fish population status
 
-4. Develop novel methods to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions
+4.  Develop novel methods to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions
 
-5. Develop a global map of human impacts on fish sizes.
+5.  Develop a global map of human impacts on fish sizes.
 
-6. Disseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.
+6.  Disseminate project findings by establishing a dedicated initiative for outreach and education that promotes sustainable fishing by clarifying restoration of large size fish in the ocean.
 :::
 
 ::: text-center
@@ -57,12 +59,163 @@ We are investigating the drivers of the relative abundance of small, medium and 
 :::
 
 ## News
+:::::: grid
+::::: {.g-col-sm-12 .g-col-md-4 .p-1}
+:::: card
+![](https://placehold.co/600x400){.card-img-top}
 
-Check us out @fish_size_project on <a href="https://www.threads.net/@fish_size_project" class = "threads">Threads</a>!
+### Title {.card-title}
+
+::: card-text
+Text text
+:::
+
+::::
+:::::
+
+::::: {.g-col-sm-12 .g-col-md-4 .p-1}
+:::: card
+![](https://placehold.co/600x400){.card-img-top}
+
+### Title {.card-title}
+
+::: card-text
+Text text
+:::
+
+::::
+:::::
+
+::::: {.g-col-sm-12 .g-col-md-4 .p-1}
+:::: card
+### See what we're up to {.card-title}
+
+::: card-text
+Check us out @fish_size_project on [Threads](https://www.threads.net/@fish_size_project)!
+:::
+
+::::
+:::::
+
+::::::
 
 ## Research
+:::: {.grid .justify-contents-evently}
+::: {.g-col-sm-12 .g-col-md-4 .align-self-center}
+![](https://placehold.co/500)
+:::
 
-## The Team
+::: {.g-col-sm-12 .g-col-md-8 .px-2 .text-center .align-self-center}
+### General properties of intra-specific size distributions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi. 
+
+Nunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a. 
+
+[Read more](pages/research.qmd#sec-size-distribution-properties){.btn .btn-primary}
+:::
+
+::: {.g-col-sm-12 .g-col-md-4 .align-self-center}
+![](https://placehold.co/500)
+:::
+
+::: {.g-col-sm-12 .g-col-md-8 .px-2 .text-center .align-self-center}
+### Temperature impacts on fish sizes
+
+Temperature has large impacts on fish sizes, both naturally and through human induced climate change. However, it is still not clear how it affects natural populations. 
+
+We use diverse data sources and simulations to explore how temperature might affect growth, size structure or mean sizes.
+
+[Read more](pages/research.qmd#sec-temp-impacts){.btn .btn-primary}
+:::
+
+::: {.g-col-sm-12 .g-col-md-4 .align-self-center}
+![](https://placehold.co/500)
+:::
+
+::: {.g-col-sm-12 .g-col-md-8 .px-2 .text-center .align-self-center}
+### Applying size based models to assess human impacts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. 
+
+Sed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend. 
+
+Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a. 
+
+[Read more](pages/research.qmd##sec-size-models-impacts){.btn .btn-primary}
+:::
+
+::: {.g-col-sm-12 .g-col-md-4 .align-self-center}
+![](https://placehold.co/500)
+:::
+
+::: {.g-col-sm-12 .g-col-md-8 .px-2 .text-center .align-self-center}
+### Using historical records to understand shifting baselines
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor. 
+
+Maecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a. 
+
+[Read more](pages/research.qmd#sec-historical-shifting-baselines){.btn .btn-primary}
+:::
+::::
+
+## 
+
+:::: {.grid .justify-contents-evenly}
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/asta.jpg){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/amy.jpg){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/freddie.jpeg){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/nils.jpg){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/pia.jpg){.img-tile}
+:::
+
+::: {.g-col-sm-12 .g-col-md-6 .px-1 .align-self-center}
+## Our Team
+
+Maecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a. 
+
+::: text-center
+[Meet the team](pages/team.qmd){.btn .btn-primary}
+:::
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+[![](resources/team-profile-pics/rowan.jpg){.img-tile}](pages/team.qmd)
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/sarah.jpg){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](resources/team-profile-pics/shane.jpg){.img-tile}
+:::
+
+<!-- placehodlers for Wanwan, Caronlina -->
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](https://placehold.co/500){.img-tile}
+:::
+
+::: {.g-col-sm-6 .g-col-md-3 .text-center .img-container .align-self-center}
+![](https://placehold.co/500){.img-tile}
+:::
+::::
+
 
 ## Impact & Outreach
 
+Coming soon...

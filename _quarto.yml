@@ -43,5 +43,4 @@ format:
       margin-width: 100px
       gutter-width: 1.5em
 
-editor: visual
-
+editor: source

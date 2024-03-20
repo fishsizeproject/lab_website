@@ -1,9 +1,9 @@
 /* css styles */
 
 .p, p {
-  font-size: 1.35em;
+  font-size: 1.05em;
   line-height: 125%;
-  padding: 0;
+  padding: 0.5em;
   margin: 0;
 }
 .p:first-child, p:first-child {
@@ -25,7 +25,8 @@ ol ::marker {
   margin-top: 1.5em !important;
 }
 
-/* Styling specifically for the homepage */
+/* Homepage styling */
+
 .hero-img {
     background-image: url("resources/images/trevally_1599x767.jpg");
     background-position: center;
@@ -38,7 +39,7 @@ ol ::marker {
 }
 
 .maintitle h1 {
-  font-size: min(calc(10vw), 150px) !important;
+  font-size: min(calc(8.5vw), 150px) !important;
   text-align: left;
   text-transform: uppercase;
   color: white;
@@ -46,7 +47,7 @@ ol ::marker {
   line-height: 115%;
 }
 .subtitle {
-  font-size: 1.45em;
+  font-size: 1.25em;
   line-height: 115%;
   padding: 0.5em;
   margin-top: 1.5em;
@@ -58,6 +59,29 @@ ol ::marker {
     margin-top: 0; 
     padding-top: 0; 
   }
+  
+.img-tile {
+  object-fit: cover;
+  height: 12.5vw;
+  width: 12.5vw;
+  object-position: 50% 50%;
+}
+
+.img-container > p {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .carousel-inner {
+    display: flex;
+  }
+  .carousel-item {
+    margin-right: 0;
+    flex: 0 0 20%;
+    display: block;
+  }
+}
 
 /* Navbar styling */
 
@@ -78,6 +102,18 @@ ol ::marker {
 .navbar {
     margin-bottom: 0; /* Remove any default margin-bottom for the navbar */
   }
+
+/* Card element styling */
+
+.card-text {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.card-title {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
 
 /* Team page styling */
 
