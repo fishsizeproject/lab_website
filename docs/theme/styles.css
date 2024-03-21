@@ -38,6 +38,14 @@ ol ::marker {
   height: calc(100vw/1599*660);
 }
 
+.hero-strip-page {
+  height: 200px;
+}
+
+.hero-strip-page:before {
+  filter: brightness(50%);
+}
+
 .subtitle {
   font-size: 1.25em;
   line-height: 115%;
@@ -56,6 +64,18 @@ ol ::marker {
   object-fit: cover;
   height: 12.5vw;
   width: 12.5vw;
+  object-position: 50% 50%;
+}
+
+.constrain-pdf-img {
+  object-fit: cover;
+  object-position: 50% 0%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+
+.img-tile-lg {
+  object-fit: cover;
   object-position: 50% 50%;
 }
 

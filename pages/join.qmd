@@ -1,3 +1,31 @@
 ---
-title: "Join Us"
+format: html
 ---
+
+::: {.column-screen .hero-img .hero-strip-page}
+ 
+:::
+
+# Join Us
+
+::::: column-screen
+:::: {.grid .justify-contents-evenly style="margin-left: 25px;"}
+::: {.g-col-12 .g-col-md-6 .px-4 .text-center .align-self-center}
+If you're interested in collaborating or joining our lab, we would love to hear from you!
+
+Check out currently open positions below, or email us at **email**.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](https://placehold.co/2480x1430)
+:::
+::::
+:::::
+
+## Current open positions
+
+### Position title 
+
+Text text...
+
+Link to the official position description **here**.

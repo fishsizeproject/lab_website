@@ -21,7 +21,7 @@ The **Fish Size Project** is an international research collaboration led by a te
 :::
 
 ::::: column-screen
-:::: {.grid .justify-contents-evently style="margin-left: 25px;"}
+:::: {.grid .justify-contents-evenly style="margin-left: 25px;"}
 ::: {.g-col-12 .g-col-md-6 .px-4 .text-center .align-self-center}
 Aquatic ecosystems around the world are not only losing biodiversity but also fish size diversity. In coastal and inland waters the largest fish have been widely fished out, with important consequences for population and ecosystem functioning. However, most fish populations are not assessed and the impact of fish size diversity loss remains undocumented. <br><br> We are investigating the drivers of the relative abundance of small, medium and large fish in a natural population using various data sources and modelling techniques. These data sources cover size frequency information from traditional fisheries monitoring, scientific surveys, underwater visual census, citizen science, remote underwater camera surveys, historical records, voluntary angler reports and others.
 :::
@@ -55,7 +55,7 @@ Aquatic ecosystems around the world are not only losing biodiversity but also fi
 :::
 
 ::: text-center
-[More](pages/about.qmd){.btn .btn-primary}
+[More](pages/research.qmd){.btn .btn-primary}
 :::
 
 ## News
