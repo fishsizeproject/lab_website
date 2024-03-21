@@ -130,7 +130,22 @@ ol ::marker {
 /* Team page styling */
 
 .headshot {
-  width:300px;
-  height: auto;
-  overflow: hidden;
+  clip-path: circle(50% at 50% 50%);
+  object-fit: cover;
+  height: 6.5vw;
+  width: 6.5vw;
+  object-position: 50% 50%;
+}
+
+.team-name {
+  color: black;
+}
+.team-name:a {
+  text-decoration: none;
+}
+
+.position-title {
+  color: black;
+  font-style: italic;
+  padding: 0.25em;
 }

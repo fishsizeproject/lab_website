@@ -285,3 +285,25 @@ hr {
   }
 }
 
+.team-grid {
+  background-color: transparent !important;
+}
+
+.circle-container {
+  padding: 0;
+  margin: 0;
+  height: 0px;
+  width: 100%;
+  overflow: visible;
+}
+
+.fishing-impacts-circle {
+  --width-fic: 66vw;
+  width: var(--width-fic);
+  height: var(--width-fic);
+  border-radius: 50%;
+  background: $blue;
+  opacity: 10%;
+  position: relative;
+  z-index: -1;
+}
