@@ -1,9 +1,11 @@
 ---
-format: html
+pagetitle: Our Researc
+description-meta: |
+  Meta-description - research page
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
- 
+   
 :::
 
 # Our Research

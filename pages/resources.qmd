@@ -1,9 +1,11 @@
 ---
-format: html
+pagetitle: Resources
+description-meta: |
+  Meta-description - Resources page
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
- 
+   
 :::
 
 # Resources
