@@ -4,7 +4,7 @@
     "href": "pages/team.html",
     "title": "Our Team",
     "section": "",
-    "text": "Our Team\n\n\n\n\n\n\n\n\n\nAsta Audzijonyte\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nAmy Coughlan\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nCarolina Chong-Montenegro\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nFreddie Heather\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nMatt Testoni\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nNils Krueck\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nRowan Trebilco\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nSarah Willington\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nShane Richards\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nWanwan Kurniawan\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nPia\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nXXX\n\nTitle"
+    "text": "Our Team\n\n\n\n   \n\n\n\n\n\nThis page is under construction…\n\n\n   \n\n\n\n\n\n\n\n\n\n\n\n\nAsta Audzijonyte\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nAmy Coughlan\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nCarolina Chong-Montenegro\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nFreddie Heather\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nMatt Testoni\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nNils Krueck\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nRowan Trebilco\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nSarah Willington\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nShane Richards\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nWanwan Kurniawan\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nPia\n\nTitle\n\n\n\n\n\n\n\n\n\n\n\n\nXXX\n\nTitle"
   },
   {
     "objectID": "pages/research.html#sec-size-distribution-properties",
@@ -53,7 +53,7 @@
     "href": "index.html#news",
     "title": "Fish Size Project",
     "section": "News",
-    "text": "News\n\n\n\n\n\nLatest publication title\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\n\n\nUpcoming conference\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nSee what we’re up to\n\nCheck us out @fish_size_project on Threads!"
+    "text": "News\n\n\n\n\n\nLatest publication title\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\n\n\nUpcoming conference\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nSee what we’re up to\n\nCheck us out @fish_size_project on Threads!\n\n\n\n\n\n\n\nOther news\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   {
     "objectID": "index.html#research",
@@ -61,13 +61,6 @@
     "title": "Fish Size Project",
     "section": "Research",
     "text": "Research\n\n\n\n\n\nGeneral properties of intra-specific size distributions\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi.\nNunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nRead more\n\n\n\n\n\n\nTemperature impacts on fish sizes\nTemperature has large impacts on fish sizes, both naturally and through human induced climate change. However, it is still not clear how it affects natural populations.\nWe use diverse data sources and simulations to explore how temperature might affect growth, size structure or mean sizes.\n\nRead more\n\n\n\n\n\n\nApplying size based models to assess human impacts\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies.\nSed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor. Maecenas auctor lorem a tortor pellentesque eleifend.\nProin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nRead more\n\n\n\n\n\n\nUsing historical records to understand shifting baselines\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis nisl eget diam vulputate ultricies. Sed eget tincidunt nisi. Nunc pulvinar sagittis erat, finibus porta dolor.\nMaecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nRead more"
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Fish Size Project",
-    "section": "",
-    "text": "Our Team\nMaecenas auctor lorem a tortor pellentesque eleifend. Proin vel metus metus. Maecenas tempus dolor pretium tincidunt ornare. Morbi a.\n\nMeet the team"
   },
   {
     "objectID": "index.html#our-team",

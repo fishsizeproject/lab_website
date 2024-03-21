@@ -2,6 +2,12 @@
 pagetitle: Our Team | Fish Size Project
 description-meta: |
   Meta-description - Team page
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+  # css-class: "my-css-class"
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -10,14 +16,33 @@ description-meta: |
 
 # Our Team
 
-::::::: column-screen-inset
+<!-- UNDER CONSTRUCTION -->
+:::::: grid
+:::: g-col-3
+   
+::::
 
+::: {.g-col-2 .text-center .align-self-center}
+![](../resources/images/construction.jpg){.img styling="height: 3em;" .no-lightbox}
+:::
+
+::: {.g-col-4 .align-self-center}
+This page is under construction...
+:::
+
+:::: g-col-3
+   
+::::
+::::::
+<!-- UNDER CONSTRUCTION -->
+
+::::::: column-screen-inset
 :::::: {.grid .gap-0 .team-grid}
 <!-- individual team member grid -->
 ::::: {.g-col-3 style="border: solid 1px black"}
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
-![](../resources/team-profile-pics/asta.jpg){.headshot}
+![](../resources/team-profile-pics/asta.jpg){.headshot description="Asta Audzijonyte: *Lead-Investigator* My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish. <https://discover.utas.edu.au/Asta.Audzijonyte>"}
 :::
 
 ::: {.g-col-8}
@@ -208,3 +233,5 @@ description-meta: |
 <!-- Sarah Willington: For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses simulation modelling to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes. -->
 
 <!-- Shane Richards: Applying mathematical and statistical tools, I am very interested to extract more information from fish size data to be used for improving the data-poor stock assessment methods. -->
+
+
