@@ -1,3 +1,129 @@
 ---
-title: "Impact and Outreach"
+format: html
 ---
+
+::: {.column-screen .hero-img .hero-strip-page}
+ 
+:::
+
+# Impact & Outreach
+
+## Conference contributions
+
+## Workshops
+
+## Publications
+::::::: column-screen-inset
+:::::: {.grid}
+::::: {.g-col-sm-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+
+[![](../resources/PDF-pics/Audzijonyte-et-al-2013.jpg){.card-img-top .constrain-pdf-img}](https://doi.org/10.1098/rsbl.2012.1103)
+
+#### [Ecological consequences of body size decline in harvested fish species: positive feedback loops in trophic interactions amplify human impact](https://doi.org/10.1098/rsbl.2012.1103) {.card-title}
+
+::: card-text
+Asta Audzijonyte
+, Anna Kuparinen
+, Rebecca Gorton
+and Elizabeth A. Fulton
+
+*Biology Letters*, 2013
+
+```{r include=FALSE}
+abstract = "Humans are changing marine ecosystems worldwide, both directly through fishing and indirectly through climate change. One of the little explored outcomes of human-induced change involves the decreasing body sizes of fishes. We use a marine ecosystem model to explore how a slow (less than 0.1% per year) decrease in the length of five harvested species could affect species interactions, biomasses and yields. We find that even small decreases in fish sizes are amplified by positive feedback loops in the ecosystem and can lead to major changes in natural mortality. For some species, a total of 4 per cent decrease in length-at-age over 50 years resulted in 50 per cent increase in predation mortality. However, the magnitude and direction in predation mortality changes differed among species and one shrinking species even experienced reduced predation pressure. Nevertheless, 50 years of gradual decrease in body size resulted in 1–35% decrease in biomasses and catches of all shrinking species. Therefore, fisheries management practices that ignore contemporary life-history changes are likely to overestimate long-term yields and can lead to overfishing."
+
+abs = paste(ifelse(is.na(stringr::word(abstract, 1:75)), abstract, stringr::word(abstract, 1:75)), collapse = " ")
+```
+`r abs`... 
+
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/10.1098/rsbl.2012.1103)**
+:::
+::::
+:::::
+
+::::: {.g-col-sm-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](https://placehold.co/990x1400){.card-img-top .constrain-pdf-img}](https://doi.org/)
+
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+
+::: card-text
+Author,
+author,
+author
+and author
+
+*Publication*, Year
+
+```{r include=FALSE}
+abstract = "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. Duis eget dui et nisi convallis fermentum. Suspendisse congue, ante sit amet bibendum luctus, leo risus mattis nisi, sed cursus mauris mi eu lorem. Pellentesque bibendum cursus est accumsan consectetur. Nulla mollis arcu vitae nulla pulvinar congue. Vivamus sagittis luctus libero et vehicula. Pellentesque scelerisque id libero non hendrerit. Vivamus et pretium erat. Nam mollis a lectus dapibus pulvinar. Integer a consectetur mi, nec suscipit massa. Aliquam convallis interdum nulla faucibus ultrices. Cras posuere leo nec ex laoreet, non rutrum augue efficitur. Duis elementum, lectus et fringilla tempus, justo tellus imperdiet sapien, non malesuada mi.
+"
+
+abs = paste(ifelse(is.na(stringr::word(abstract, 1:75)), abstract, stringr::word(abstract, 1:75)), collapse = " ")
+```
+`r abs`... 
+
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+:::
+::::
+:::::
+
+::::: {.g-col-sm-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](https://placehold.co/990x1400){.card-img-top .constrain-pdf-img}](https://doi.org/)
+
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+
+::: card-text
+Author,
+author,
+author
+and author
+
+*Publication*, Year
+
+```{r include=FALSE}
+abstract = "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. Duis eget dui et nisi convallis fermentum. Suspendisse congue, ante sit amet bibendum luctus, leo risus mattis nisi, sed cursus mauris mi eu lorem. Pellentesque bibendum cursus est accumsan consectetur. Nulla mollis arcu vitae nulla pulvinar congue. Vivamus sagittis luctus libero et vehicula. Pellentesque scelerisque id libero non hendrerit. Vivamus et pretium erat. Nam mollis a lectus dapibus pulvinar. Integer a consectetur mi, nec suscipit massa. Aliquam convallis interdum nulla faucibus ultrices. Cras posuere leo nec ex laoreet, non rutrum augue efficitur. Duis elementum, lectus et fringilla tempus, justo tellus imperdiet sapien, non malesuada mi.
+"
+
+abs = paste(ifelse(is.na(stringr::word(abstract, 1:75)), abstract, stringr::word(abstract, 1:75)), collapse = " ")
+```
+`r abs`... 
+
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+:::
+::::
+:::::
+
+::::: {.g-col-sm-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](https://placehold.co/990x1400){.card-img-top .constrain-pdf-img}](https://doi.org/)
+
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+
+::: card-text
+Author,
+author,
+author
+and author
+
+*Publication*, Year
+
+```{r include=FALSE}
+abstract = "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. Duis eget dui et nisi convallis fermentum. Suspendisse congue, ante sit amet bibendum luctus, leo risus mattis nisi, sed cursus mauris mi eu lorem. Pellentesque bibendum cursus est accumsan consectetur. Nulla mollis arcu vitae nulla pulvinar congue. Vivamus sagittis luctus libero et vehicula. Pellentesque scelerisque id libero non hendrerit. Vivamus et pretium erat. Nam mollis a lectus dapibus pulvinar. Integer a consectetur mi, nec suscipit massa. Aliquam convallis interdum nulla faucibus ultrices. Cras posuere leo nec ex laoreet, non rutrum augue efficitur. Duis elementum, lectus et fringilla tempus, justo tellus imperdiet sapien, non malesuada mi.
+"
+
+abs = paste(ifelse(is.na(stringr::word(abstract, 1:75)), abstract, stringr::word(abstract, 1:75)), collapse = " ")
+```
+`r abs`... 
+
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+:::
+::::
+:::::
+::::::
+:::::::
