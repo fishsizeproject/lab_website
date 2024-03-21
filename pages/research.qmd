@@ -1,5 +1,5 @@
 ---
-pagetitle: Our Researc
+pagetitle: Our Research | Fish Size Project
 description-meta: |
   Meta-description - research page
 ---

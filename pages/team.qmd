@@ -1,5 +1,5 @@
 ---
-pagetitle: Our Team
+pagetitle: Our Team | Fish Size Project
 description-meta: |
   Meta-description - Team page
 ---

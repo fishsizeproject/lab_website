@@ -1,5 +1,5 @@
 ---
-pagetitle: Resources
+pagetitle: Resources | Fish Size Project
 description-meta: |
   Meta-description - Resources page
 ---

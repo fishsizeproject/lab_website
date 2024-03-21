@@ -1,5 +1,5 @@
 ---
-pagetitle: Join Us!
+pagetitle: Join Us! | Fish Size Project
 description-meta: |
   If you're interested in collaborating or joining our lab, we would love to hear from you! Check out our current open positions or email us.
 ---

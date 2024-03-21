@@ -1,6 +1,7 @@
 ---
-format: html
-title-block-style: none
+pagetitle: Home | Fish Size Project
+description-meta: |
+  The Fish Size Project is an international research collaboration at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. We investigate general patterns in the size structure of fish populations and apply this knowledge to advance conservation and fisheries management globally.
 ---
 
 ::: {.column-screen .hero-img .hero-strip}
