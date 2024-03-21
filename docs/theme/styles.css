@@ -67,6 +67,13 @@ ol ::marker {
   object-position: 50% 50%;
 }
 
+.constrain-pdf-img {
+  object-fit: cover;
+  object-position: 50% 0%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+
 .img-tile-lg {
   object-fit: cover;
   object-position: 50% 50%;

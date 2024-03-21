@@ -55,7 +55,7 @@ Aquatic ecosystems around the world are not only losing biodiversity but also fi
 :::
 
 ::: text-center
-[More](pages/about.qmd){.btn .btn-primary}
+[More](pages/research.qmd){.btn .btn-primary}
 :::
 
 ## News
