@@ -7,7 +7,7 @@ lightbox:
   effect: fade
   desc-position: right
   loop: false
-  # css-class: "my-css-class"
+  # css-class: "team-lightbox"
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -39,10 +39,11 @@ This page is under construction...
 ::::::: column-screen-inset
 :::::: {.grid .gap-0 .team-grid}
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
-![](../resources/team-profile-pics/asta.jpg){.headshot description="Asta Audzijonyte: *Lead-Investigator* My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish. <https://discover.utas.edu.au/Asta.Audzijonyte>"}
+![](../resources/team-profile-pics/asta.jpg){.headshot .lightbox description="Asta Audzijonyte: *Lead-Investigator* My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish. <https://discover.utas.edu.au/Asta.Audzijonyte>"}
 :::
 
 ::: {.g-col-8}
@@ -54,10 +55,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](../resources/team-profile-pics/amy.jpg){.headshot}
+<!-- Amy Coughlan: Ecologist interested in the trophodynamics of marine ecosystems, and how body size, predator-prey interactions and environmental attributes translate into the biomass and complex structuring of marine ecosystems.-->
 :::
 
 ::: {.g-col-8}
@@ -69,10 +72,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](https://placehold.co/500x500){.headshot}
+<!-- Carolina Chong-Montenegro: Fisheries ecologist whose research focuses on the use of archival sources and statistical modelling to reconstruct historical catch trends and evaluate the long-term effects of fishing on vulnerable fish populations. She is also interested in the evolutionary ecology of fish, in particular how fishing affects the population structure and size distribution of fish with complex life histories. <https://www.tcd.ie/tceh/people/carolina.php> -->
 :::
 
 ::: {.g-col-8}
@@ -84,10 +89,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](../resources/team-profile-pics/freddie.jpeg){.headshot}
+<!-- Freddie Heather: Writes R code and runs models -->
 :::
 
 ::: {.g-col-8}
@@ -99,7 +106,8 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](https://placehold.co/500x500){.headshot}
@@ -114,10 +122,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 [](../resources/team-profile-pics/nils.jpg){.headshot}
+<!-- Nils Kruek: Senior Lecturer at IMAS studying marine population dynamics and data-poor fisheries. Nils is interested in a broad range of research projects on the ecology and management of marine species in Australia, southeast Asia and beyond. His primary area of expertise is area-based marine management, specifically the impacts of marine protected areas (MPAs) on both ecosystems and people. Over recent years, Nils has started working more intensively on size frequency distributions in natural and fished populations, and how a better understanding of size frequency distributions can help assess the status and appropriate management of data-poor fishery species. -->
 :::
 
 ::: {.g-col-8}
@@ -129,7 +139,8 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](../resources/team-profile-pics/rowan.jpg){.headshot}
@@ -144,10 +155,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](https://placehold.co/500x500){.headshot}
+<!-- Sarah Willington: For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses simulation modelling to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes. -->
 :::
 
 ::: {.g-col-8}
@@ -159,10 +172,12 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](../resources/team-profile-pics/shane.jpg){.headshot}
+<!-- Shane Richards: Applying mathematical and statistical tools, I am very interested to extract more information from fish size data to be used for improving the data-poor stock assessment methods. -->
 :::
 
 ::: {.g-col-8}
@@ -174,7 +189,8 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](https://placehold.co/500x500){.headshot}
@@ -189,10 +205,11 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
-![](../resources/team-profile-pics/shane.jpg){.headshot}
+![](../resources/team-profile-pics/pia.jpg){.headshot}
 :::
 
 ::: {.g-col-8}
@@ -204,7 +221,8 @@ This page is under construction...
 <!-- end of team member grid -->
 
 <!-- individual team member grid -->
-::::: {.g-col-3 style="border: solid 1px black"}
+::::: {.g-col-3}
+<!-- style="border: solid 1px black" -->
 :::: {.grid .gap-0}
 ::: {.g-col-4 .align-self-center}
 ![](https://placehold.co/500x500){.headshot}
@@ -219,19 +237,4 @@ This page is under construction...
 <!-- end of team member grid -->
 ::::::
 :::::::
-
-<!-- Asta Audzijonyte: *Lead-Investigator* My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish. <https://discover.utas.edu.au/Asta.Audzijonyte> -->
-
-<!-- Amy Coughlan: Ecologist interested in the trophodynamics of marine ecosystems, and how body size, predator-prey interactions and environmental attributes translate into the biomass and complex structuring of marine ecosystems.-->
-
-<!-- Carolina Chong-Montenegro: Fisheries ecologist whose research focuses on the use of archival sources and statistical modelling to reconstruct historical catch trends and evaluate the long-term effects of fishing on vulnerable fish populations. She is also interested in the evolutionary ecology of fish, in particular how fishing affects the population structure and size distribution of fish with complex life histories. <https://www.tcd.ie/tceh/people/carolina.php> -->
-
-<!-- Freddie Heather: Writes R code and runs models -->
-
-<!-- Nils Kruek: Senior Lecturer at IMAS studying marine population dynamics and data-poor fisheries. Nils is interested in a broad range of research projects on the ecology and management of marine species in Australia, southeast Asia and beyond. His primary area of expertise is area-based marine management, specifically the impacts of marine protected areas (MPAs) on both ecosystems and people. Over recent years, Nils has started working more intensively on size frequency distributions in natural and fished populations, and how a better understanding of size frequency distributions can help assess the status and appropriate management of data-poor fishery species. -->
-
-<!-- Sarah Willington: For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses simulation modelling to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes. -->
-
-<!-- Shane Richards: Applying mathematical and statistical tools, I am very interested to extract more information from fish size data to be used for improving the data-poor stock assessment methods. -->
-
 

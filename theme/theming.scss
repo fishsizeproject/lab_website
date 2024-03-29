@@ -91,6 +91,11 @@ $footer-hl:                         $light;
 
 /*-- scss:rules --*/
 
+.gslide-description .gslide-desc {
+  color: $body-color;
+  background-color: $light;
+}
+
 hr {
   border: none;
   height: 3px;

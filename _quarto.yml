@@ -45,7 +45,7 @@ format:
   html:
     logo: resources/logo-files/fishsize-logo.png
     theme: [solana, theme/theming.scss]
-    css: theme/styles.css
+    css: [theme/styles.css, theme/team-lightbox-class.css]
     toc: false
     anchor-sections: false
     page-layout: full

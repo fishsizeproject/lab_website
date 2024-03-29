@@ -5,9 +5,6 @@ SaveWorkspace: No
 AlwaysSaveHistory: Default
 
 EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
 Encoding: UTF-8
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+
