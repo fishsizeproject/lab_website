@@ -21,7 +21,7 @@ website:
         href: pages/join.qmd
   page-footer:
     left: |
-      [![](/resources/icons/ic--baseline-mail.svg)](https://github.com/fishsizeproject/) [placeholder](mailto:email)
+      [![](/resources/icons/ic--baseline-mail.svg)](https://github.com/fishsizeproject/) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)
       <br>
       [![](/resources/icons/mdi--github.svg)](https://github.com/fishsizeproject/) [fishsizeproject](https://github.com/fishsizeproject/) 
       <br><br>
