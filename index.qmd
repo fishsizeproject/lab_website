@@ -20,15 +20,11 @@ description-meta: |
 ::: {.subtitle .text-center}
 The **Fish Size Project** is an international research collaboration led by a team of scientists at the Institute for Marine and Antarctic Science, University of Tasmania, Australia. We aim to understand human impacts on fish size structure in Australia and globally and to advance application of size based methods for fisheries management and conservation.
 
-Humans have fished out most of the large fish and now climate change is also affecting fish sizes. Such change to the natural fish population size structure affect population and ecosystem resilience. Yet, most fish populations are not assessed and humans impacts of fish size diversity loss remains undocumented.
-
-We are using traditional and new sources of fish size data to understand how many small and large fish we should expect in natural populations, how fishing and warming are affecting these numbers and how we could restore what was lost.
 :::
 
 ::::: column-screen
 :::: {.grid .justify-contents-evenly style="margin-left: 25px;"}
 ::: {.g-col-12 .g-col-md-6 .px-4 .text-center .align-self-center}
-
 ## Our goals
 
 Understand general properties of natural fish size frequency distributions
@@ -153,6 +149,7 @@ We are launching a fun game [Big Fish](https://bigfishcardgame.com) - will you c
 :::::
 
 ::::::
+#
 
 ![](resources/images/deepReefSmCr.jpg)
 
