@@ -226,28 +226,28 @@ We are working with researches around the world to find new ways to use historic
 
 <!-- do not delete -->
 <!-- ##  -->
-:::: {.grid .justify-contents-evenly .gap-0}
-::: {.g-col-2 .text-center .img-container .align-self-center}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-0}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/AstaBeachHead.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/amy.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/freddie.jpeg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/nils.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/pia.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/rowan.jpg){.img-tile}](pages/team.qmd)
 :::
 ::::
@@ -260,28 +260,28 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 [Meet the team](pages/team.qmd){.btn .btn-primary}
 :::
 
-:::: {.grid .justify-contents-evenly .gap-0}
-::: {.g-col-2 .text-center .img-container .align-self-center}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-0}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/sarah.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/shane.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/matt.png){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/carolina.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/team-profile-pics/wanwan.jpg){.img-tile}](pages/team.qmd)
 :::
 
-::: {.g-col-2 .text-center .img-container .align-self-center}
+::: {.g-col-2 .text-center .img-container}
 [![](resources/images/cowfishSm.jpg){.img-tile}](pages/team.qmd)
 :::
 ::::

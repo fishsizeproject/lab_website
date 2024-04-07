@@ -132,8 +132,8 @@ ol ::marker {
 .headshot {
   clip-path: circle(50% at 50% 50%);
   object-fit: cover;
-  height: 6.5vw;
-  width: 6.5vw;
+  height: 8.5vw;
+  width: 8.5vw;
   object-position: 50% 50%;
 }
 
