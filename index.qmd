@@ -252,7 +252,9 @@ We are working with researches around the world to find new ways to use historic
 :::
 ::::
 
-Our core team is based at IMAS and CSIRO, but we collaborate with many researchers around the world and invite volunteering from students and community. 
+::: text-center
+Our core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
+:::
 
 ::: text-center
 [Meet the team](pages/team.qmd){.btn .btn-primary}
