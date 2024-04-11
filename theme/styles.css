@@ -103,7 +103,7 @@ ol ::marker {
 
 .navbar-brand-container img {
     height : 300%;
-    width : 300%;
+    /* width : 300%; */
 }
 
 .column-screen {
