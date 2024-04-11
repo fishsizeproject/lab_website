@@ -18,9 +18,11 @@ $dark:          $gray-800 !default;
 $min-contrast-ratio:   1.9 !default;
 
 $primary:       #0a6188; // Lapis Lazuli
-$secondary:     #0d3a51;  // Prussian Blue
+$secondary:     #0d3a51; // Prussian Blue
 $accent1:       #50768e; // Payne's grey
 $accent2:       #9abed7; // Powder blue
+$accent21:      #4486A8;
+$accent22:      #277498;
 $ghost:         #f9f8fe; // Ghost White
 
 //#9EB0BE; // Cadet grey: #
@@ -41,7 +43,7 @@ $headings-line-height: 1.25em;
 
 $toc-font-size:  0.6em;           // The font size for the page TOC.
 
-$link-color:     $accent2;      // The link color.
+$link-color:     $accent22;      // The link color.
 
 $input-bg:       $light;   // The background color for HTML inputs.
 $popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
@@ -54,7 +56,7 @@ $code-block-bg:                   $light;
 $code-block-bg-padding:           0.5em;
 
 // Code Copy (enable code-copy: true)
-$btn-code-copy-color:             $accent2;   
+$btn-code-copy-color:             $accent22;   
 $btn-code-copy-color-active:      $accent1;   
 
 // Inline Code
@@ -71,7 +73,7 @@ $btn-padding-y: 0.5em;
 // Table of Contents
 //$toc-color:                       $body-color;  // The color for table of contents text.
 //$toc-font-size:                   $font-size-root;// The font-size for table of contents text.
-//$toc-active-border:               $accent2;     // The left border color for the currently active table of contents item.
+//$toc-active-border:               $accent22;     // The left border color for the currently active table of contents item.
 //$toc-inactive-border:             $light-blue;  // The left border colors for inactive table of contents items.
 
 // Layout
