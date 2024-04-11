@@ -10,9 +10,47 @@ description-meta: |
 
 # Impact & Outreach
 
-## Conference contributions
+## Talks
+:::::: grid
+::::: {.g-col-12 .g-col-md-8}
+### Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. 
+
+1. Duis eget dui et nisi convallis fermentum. 
+2. Suspendisse congue, ante sit amet bibendum luctus, leo risus mattis nisi, sed cursus mauris mi eu lorem.
+3. Pellentesque bibendum cursus est accumsan consectetur. 
+4. Nulla mollis arcu vitae nulla pulvinar congue. 
+5. Vivamus sagittis luctus libero et vehicula. 
+6. Pellentesque scelerisque id libero non hendrerit. 
+:::::
+
+::::: {.g-col-12 .g-col-md-4}
+![](https://placehold.co/1050x900)
+:::::
+:::::: 
 
 ## Workshops
+
+## Public engagement
+:::::: grid
+::::: {.g-col-12 .g-col-md-4}
+![](https://placehold.co/1050x900)
+:::::
+
+::::: {.g-col-12 .g-col-md-8}
+### Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. 
+
+1. Duis eget dui et nisi convallis fermentum. 
+2. Suspendisse congue, ante sit amet bibendum luctus, leo risus mattis nisi, sed cursus mauris mi eu lorem.
+3. Pellentesque bibendum cursus est accumsan consectetur. 
+4. Nulla mollis arcu vitae nulla pulvinar congue. 
+5. Vivamus sagittis luctus libero et vehicula. 
+6. Pellentesque scelerisque id libero non hendrerit. 
+:::::
+:::::: 
 
 ## Publications
 ::::::: column-body-outset
