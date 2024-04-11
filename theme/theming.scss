@@ -32,11 +32,11 @@ $body-color:          $black;           // The page text color.
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
-$font-size-root: 1em;
-$h4-font-size:   $font-size-root*1.25;
-$h3-font-size:   $h4-font-size*1.25;
-$h2-font-size:   $h3-font-size*1.5;
-$h1-font-size:   $h2-font-size*1.5;
+$font-size-root: 1rem;
+$h4-font-size:   1.25rem;
+$h3-font-size:   1.75rem;
+$h2-font-size:   3rem;
+$h1-font-size:   3.5rem;
 $headings-line-height: 1.25em;
 
 $toc-font-size:  0.6em;           // The font size for the page TOC.
