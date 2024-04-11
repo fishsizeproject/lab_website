@@ -109,6 +109,12 @@ hr {
   text-transform: uppercase;
   text-align: center;
   padding: 0.5em;
+  margin-top: 1em;
+}
+
+main.content > section:first-of-type > h2:first-child, 
+main.content > section:first-of-type > .h2:first-child {
+  margin-top: 1em;
 }
 
 .no-caps {

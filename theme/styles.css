@@ -21,10 +21,6 @@ ol ::marker {
   font-size: 1.35em;
 }
 
-.h2, h2 {
-  margin-top: 1.5em !important;
-}
-
 /* Homepage styling */
 
 .hero-img {
