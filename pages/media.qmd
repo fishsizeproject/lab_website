@@ -11,8 +11,8 @@ description-meta: |
 # Impact & Outreach
 
 ## Talks
-:::::: grid
-::::: {.g-col-12 .g-col-md-8}
+:::::: {.grid .align-items-center}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-8}
 ### Heading
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. 
@@ -25,20 +25,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, pl
 6. Pellentesque scelerisque id libero non hendrerit. 
 :::::
 
-::::: {.g-col-12 .g-col-md-4}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ![](https://placehold.co/1050x900)
 :::::
 :::::: 
 
-## Workshops
+<!-- ## Workshops -->
 
 ## Public engagement
-:::::: grid
-::::: {.g-col-12 .g-col-md-4}
+:::::: {.grid .align-items-center}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-8}
 ![](https://placehold.co/1050x900)
 :::::
 
-::::: {.g-col-12 .g-col-md-8}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ### Heading
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. 

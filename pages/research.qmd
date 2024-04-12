@@ -10,26 +10,26 @@ description-meta: |
 
 # Our Research
 ### Jump to: {.text-center}
-::: grid
-::: {.g-col-3 .text-center}
+::: {.grid .align-items-center}
+::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid fish size=1x >}}  {{< fa solid fish size=2x >}}  {{< fa solid fish size=3x >}}
 
 [General properties of intra-specific size distributions](#sec-size-distribution-properties)
 :::
 
-::: {.g-col-3 .text-center}
+::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid fish size=3x >}} {{< fa solid temperature-high size=3x >}}
 
 [Temperature impacts on fish sizes](#sec-temp-impacts)
 :::
 
-::: {.g-col-3 .text-center}
+::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid ship size=3x >}}
 
 [Applying size based models to assess human impacts](#sec-size-models-impacts)
 :::
 
-::: {.g-col-3 .text-center}
+::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid earth-asia size=3x >}}
 
 [Using historical records to understand shifting baselines](#sec-historical-shifting-baselines)
@@ -40,12 +40,12 @@ description-meta: |
 
 ## General properties of intra-specific size distributions {.no-caps #sec-size-distribution-properties}
 
-::: {.grid .gap-3}
-::: {.g-col-sm-12 .g-col-md-8 .align-self-center}
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit vitae nisi faucibus dapibus. Sed egestas orci nibh, eget tempor nisi aliquam vel. Donec id sodales massa. Nullam at libero velit. Mauris sed tellus massa. Nulla at luctus sapien. Morbi congue scelerisque varius. 
 :::
 
-::: {.g-col-sm-12 .g-col-md-4 .img-container .align-self-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
 ![](https://placehold.co/750x500){.img-tile-lg}
 :::
 :::
@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit
 For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: {.grid .gap-2}
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -87,7 +87,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top .img-container}
 
@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -115,12 +115,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---------------------------------
 
 ## Temperature impacts on fish sizes {.no-caps #sec-temp-impacts}
-::: {.grid .gap-3}
-::: {.g-col-sm-12 .g-col-md-8 .align-self-center}
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
 Temperature has large impacts on fish sizes, both naturally and also through human induced climate change. However, it is still not clear how temperature might affect growth, size structure or mean sizes in natural populations and we use diverse data sources and simulations to explore that. 
 :::
 
-::: {.g-col-sm-12 .g-col-md-4 .img-container .align-self-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
 ![](https://placehold.co/750x500){.img-tile-lg}
 :::
 :::
@@ -138,7 +138,7 @@ Temperature has large impacts on fish sizes, both naturally and also through hum
 For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: {.grid .gap-2}
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -150,7 +150,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -162,7 +162,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top .img-container}
 
@@ -174,7 +174,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -190,12 +190,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---------------------------------
 
 ## Applying size based models to assess human impacts {.no-caps #sec-size-models-impacts}
-::: {.grid .gap-3}
-::: {.g-col-sm-12 .g-col-md-8 .align-self-center}
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit vitae nisi faucibus dapibus. Sed egestas orci nibh, eget tempor nisi aliquam vel. Donec id sodales massa. Nullam at libero velit. Mauris sed tellus massa. Nulla at luctus sapien. Morbi congue scelerisque varius. 
 :::
 
-::: {.g-col-sm-12 .g-col-md-4 .img-container .align-self-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
 ![](https://placehold.co/750x500){.img-tile-lg}
 :::
 :::
@@ -213,7 +213,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit
 For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: {.grid .gap-2}
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -225,7 +225,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -237,7 +237,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top .img-container}
 
@@ -249,7 +249,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -265,8 +265,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---------------------------------
 
 ## Using historical records to understand shifting baselines {.no-caps #sec-historical-shifting-baselines}
-::: {.grid .gap-3}
-::: {.g-col-sm-12 .g-col-md-8 .align-self-center}
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
 Historical data helps us understand the cumulative impact of human activities and minimise the shifting baseline syndrome by estimating the degree to which human activities can alter marine fish populations and ecosystems. We aim to incorporate historical records (oral histories, photographs, newspaper articles, logbooks) for estimating past fish population size distributions at local and regional scales.
 
 Examples of the use of historical sources to understand past fisheries dynamics: 
@@ -275,13 +275,14 @@ Examples of the use of historical sources to understand past fisheries dynamics:
 ::: {.g-col .align-self-center .text-center}
 {{< fa solid scroll size=xl >}}
 :::
+
 ::: g-col-11
 Chong-Montenegro C, Thurstan RH, Pandolfi JM (**2022**) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. <https://doi.org/10.3354/meps14138> 
 :::
 :::
 :::
 
-::: {.g-col-sm-12 .g-col-md-4 .img-container .align-self-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
 ![](https://placehold.co/750x500){.img-tile-lg}
 :::
 :::
@@ -299,7 +300,7 @@ Chong-Montenegro C, Thurstan RH, Pandolfi JM (**2022**) Quantifying the historic
 For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
 
 ::: {.grid .gap-2}
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -311,7 +312,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
@@ -323,7 +324,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top .img-container}
 
@@ -335,7 +336,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 :::
 :::
 
-::: {.g-col-sm-6 .g-col-md-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
 ![](https://placehold.co/600x400){.card-img-top}
 
