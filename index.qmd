@@ -81,7 +81,7 @@ Humans have fished out most of the large fish. Climate change is also affecting 
 ### Mean reef fish body size decreases towards warmer waters {.card-title}
 
 ::: card-text
-Coghlan, A. R., Blanchard, J. L., Wotherspoon, S., Stuart‐Smith, R. D., Edgar, G. J., Barrett, N., & Audzijonyte, A. (2024). [Mean reef fish body size decreases towards warmer waters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375) *Ecology Letters, 27(2), e14375*. 
+Coghlan, A. R., Blanchard, J. L., Wotherspoon, S., Stuart‐Smith, R. D., Edgar, G. J., Barrett, N., & Audzijonyte, A. (2024). [Mean reef fish body size decreases towards warmer waters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375){target="_blank"} *Ecology Letters, 27(2), e14375*. 
 :::
 
 ::::
@@ -94,7 +94,7 @@ Coghlan, A. R., Blanchard, J. L., Wotherspoon, S., Stuart‐Smith, R. D., Edgar,
 ### Conference session: Human impacts on fish and other marine organism body sizes, shifting baselines, and implications for ecosystems and fisheries {.card-title}
 
 ::: card-text
-Join us at [AMSA & NZMSS 2024 Conference](https://www.amsa2024.amsa.asn.au/conference-symposia) in Hobart for a fascinating session exploring fish sizes and human impacts 
+Join us at [AMSA & NZMSS 2024 Conference](https://www.amsa2024.amsa.asn.au/conference-symposia){target="_blank"} in Hobart for a fascinating session exploring fish sizes and human impacts 
 :::
 
 ::::
@@ -107,11 +107,11 @@ Join us at [AMSA & NZMSS 2024 Conference](https://www.amsa2024.amsa.asn.au/confe
 ### Fish AI consortium monthly seminars {.card-title}
 
 ::: card-text
-If you are interested in fish and AI, join monthly [Fish AI consortrium](https://fishaiconsortium.org/) monthly [online seminars](https://fishaiconsortium.org/meetings_seminars.html#online-seminars) 
+If you are interested in fish and AI, join monthly [Fish AI consortrium](https://fishaiconsortium.org/){target="_blank"} monthly [online seminars](https://fishaiconsortium.org/meetings_seminars.html#online-seminars){target="_blank"} 
 :::
 
 <!-- ::: card-text -->
-<!-- Check us out @fish_size_project on [Threads](https://www.threads.net/@fish_size_project)! -->
+<!-- Check us out @fish_size_project on [Threads](https://www.threads.net/@fish_size_project){target="_blank"}! -->
 <!-- ::: -->
 
 ::::
@@ -124,7 +124,7 @@ If you are interested in fish and AI, join monthly [Fish AI consortrium](https:/
 ### Card game about sustainable fishing and marine literacy {.card-title}
 
 ::: card-text
-We are launching a fun game [Big Fish](https://bigfishcardgame.com) - will you catch the big fish or leave it to reproduce? 
+We are launching a fun game [Big Fish](https://bigfishcardgame.com){target="_blank"} - will you catch the big fish or leave it to reproduce? 
 :::
 
 ::::
@@ -146,7 +146,7 @@ We are launching a fun game [Big Fish](https://bigfishcardgame.com) - will you c
 
 Are there general rules that govern species size distributions in natural populations? If so, we could use these rules to predict unfished size frequencies in nearly all fish species. 
 
-To date most analyses on fish size frequencies were conducted on commercially fished species, where fishing impacts have been extensive and long lasting. But new data sources, from underwater visual surveys, such as [Reef Life Survey](https://reeflifesurvey.com) now provides opporunities to explore size distributions in hundreds of diverse and unfished species. 
+To date most analyses on fish size frequencies were conducted on commercially fished species, where fishing impacts have been extensive and long lasting. But new data sources, from underwater visual surveys, such as [Reef Life Survey](https://reeflifesurvey.com){target="_blank"} now provides opporunities to explore size distributions in hundreds of diverse and unfished species. 
 
 <!-- ::: text-center -->
 <!-- [Read more](pages/research.qmd#sec-size-distribution-properties){.btn .btn-secondary} -->
@@ -269,7 +269,7 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 
 <!-- ![](resources/images/butterflyPerchSmCr.jpg) -->
 ::: {.subtitle .text-center}
-All underwater photography on this website was kindly provided by our team member [Matt Testoni](https://www.mtunderwatermedia.com/) 
+All underwater photography on this website was kindly provided by our team member [Matt Testoni](https://www.mtunderwatermedia.com/){target="_blank"} 
 :::
 
 <!-- ## Impact & Outreach -->

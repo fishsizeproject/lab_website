@@ -34,11 +34,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, pl
 
 ## Public engagement
 :::::: {.grid .align-items-center}
-::::: {.g-col-12 .g-col-md-6 .g-col-lg-8}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ![](https://placehold.co/1050x900)
 :::::
 
-::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-8}
 ### Heading
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, placerat sed eros vitae, efficitur auctor sapien. Donec vitae magna libero. Nam sit amet diam sem. Nunc a consectetur libero, at semper mauris. Praesent pulvinar fermentum leo. Donec cursus egestas enim, porta vehicula urna eleifend eu. Duis a tincidunt lacus. Donec fringilla malesuada commodo. 
@@ -58,9 +58,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi ipsum, pl
 ::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3}
 :::: card
 <!-- Optional image for publication - works best if image is 2:1 -->
-[![](../resources/PDF-pics/Audzijonyte-et-al-2013-2x1.jpg){.card-img-top}](https://doi.org/10.1098/rsbl.2012.1103)
+[![](../resources/PDF-pics/Audzijonyte-et-al-2013-2x1.jpg){.card-img-top}](https://doi.org/10.1098/rsbl.2012.1103){target="_blank"}
 
-#### [Ecological consequences of body size decline in harvested fish species: positive feedback loops in trophic interactions amplify human impact](https://doi.org/10.1098/rsbl.2012.1103) {.card-title}
+#### [Ecological consequences of body size decline in harvested fish species: positive feedback loops in trophic interactions amplify human impact](https://doi.org/10.1098/rsbl.2012.1103){target="_blank"} {.card-title}
 
 ::: card-text
 [Asta Audzijonyte](team.qmd), Anna Kuparinen, Rebecca Gorton and Elizabeth A. Fulton
@@ -74,16 +74,16 @@ abs = paste(ifelse(is.na(stringr::word(abstract, 1:65)), abstract, stringr::word
 ```
 `r abs`... 
 
-**DOI: [10.1098/rsbl.2012.1103](https://doi.org/10.1098/rsbl.2012.1103)**
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/10.1098/rsbl.2012.1103){target="_blank"}**
 :::
 ::::
 :::::
 
 ::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3}
 :::: card
-<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/) -->
+<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/){target="_blank"} -->
 
-#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/){target="_blank"} {.card-title}
 
 ::: card-text
 Author, author, author and author
@@ -99,16 +99,16 @@ abs = paste(ifelse(is.na(stringr::word(abstract, 1:65)), abstract, stringr::word
 ```
 `r abs`... 
 
-**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/){target="_blank"}**
 :::
 ::::
 :::::
 
 ::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3}
 :::: card
-<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/) -->
+<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/){target="_blank"} -->
 
-#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/){target="_blank"} {.card-title}
 
 ::: card-text
 Author, author, author and author
@@ -124,16 +124,16 @@ abs = paste(ifelse(is.na(stringr::word(abstract, 1:65)), abstract, stringr::word
 ```
 `r abs`... 
 
-**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/){target="_blank"}**
 :::
 ::::
 :::::
 
 ::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3}
 :::: card
-<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/) -->
+<!-- [![](https://placehold.co/990x1400){.card-img-top}](https://doi.org/){target="_blank"} -->
 
-#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/) {.card-title}
+#### [Lorem ipsum dolor sit amet, consectetur adipiscing elit: Aenean pellentesque libero nec sapien laoreet, id](https://doi.org/){target="_blank"} {.card-title}
 
 ::: card-text
 Author, author, author and author
@@ -149,7 +149,7 @@ abs = paste(ifelse(is.na(stringr::word(abstract, 1:65)), abstract, stringr::word
 ```
 `r abs`... 
 
-**DOI: [10.1098/rsbl.2012.1103](https://doi.org/)**
+**DOI: [10.1098/rsbl.2012.1103](https://doi.org/){target="_blank"}**
 :::
 ::::
 :::::

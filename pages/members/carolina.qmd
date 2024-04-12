@@ -32,7 +32,7 @@ Fisheries ecologist whose research focuses on the use of archival sources and st
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://www.tcd.ie/tceh/people/carolina.php)
+[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://www.tcd.ie/tceh/people/carolina.php){target="_blank"}
 :::
 
 ::: {.mx-4}

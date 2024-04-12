@@ -127,7 +127,7 @@ Temperature has large impacts on fish sizes, both naturally and also through hum
 
 ### Aims
 
-1.  Using underwater visual survey data from [Reef Life Survey](https://reeflifesurvey.com/) we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. 
+1.  Using underwater visual survey data from [Reef Life Survey](https://reeflifesurvey.com/){target="_blank"} we show that mean lengths of fish in natural populations can either increase or decrease with temperature changes across space. This temperature driven change in mean length is very strong (3% change per 1C), which means that average fish length on the warm and cool edge of the fish distribution area can be up to 30% different. Moreover, global warming driven changes in average fish size through time are often qualitatively similar, but rate of change is nearly 10 times faster. But this raises many other questions, which we aim to answer below. 
 
 2.  Is the increase in mean size in warmer waters compatible with the temperature size rule, which states that in warmer conditions fish grow to smaller maturation sizes? 
 
@@ -277,7 +277,7 @@ Examples of the use of historical sources to understand past fisheries dynamics:
 :::
 
 ::: g-col-11
-Chong-Montenegro C, Thurstan RH, Pandolfi JM (**2022**) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. <https://doi.org/10.3354/meps14138> 
+Chong-Montenegro C, Thurstan RH, Pandolfi JM (**2022**) Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia. Mar Ecol Prog Ser 696:135-149. [DOI: doi.org/10.3354/meps14138](https://doi.org/10.3354/meps14138){target="_blank"}
 :::
 :::
 :::

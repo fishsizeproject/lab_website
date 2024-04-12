@@ -32,7 +32,7 @@ My goal is to understand and highlight human (fishing and climate change) impact
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/Asta.Audzijonyte)
+[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/Asta.Audzijonyte){target="_blank"}
 :::
 
 ::: {.mx-4}
