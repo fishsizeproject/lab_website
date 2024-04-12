@@ -21,10 +21,6 @@ ol ::marker {
   font-size: 1.35em;
 }
 
-.h2, h2 {
-  margin-top: 1.5em !important;
-}
-
 /* Homepage styling */
 
 .hero-img {
@@ -134,6 +130,14 @@ ol ::marker {
   object-fit: cover;
   height: 8.5vw;
   width: 8.5vw;
+  object-position: 50% 50%;
+}
+
+.headshot-lg {
+  clip-path: circle(50% at 50% 50%);
+  object-fit: cover;
+  height: 100%;
+  width: auto;
   object-position: 50% 50%;
 }
 
