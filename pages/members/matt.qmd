@@ -1,7 +1,7 @@
 ---
 pagetitle: Matt Testoni | Fish Size Project
 description-meta: |
-  Meta-description - Matt Testoni
+  Don't forget to add a meta description!
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

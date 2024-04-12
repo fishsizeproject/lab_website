@@ -1,7 +1,7 @@
 ---
 pagetitle: Sarah Willington | Fish Size Project
 description-meta: |
-  Meta-description - Sarah Willington
+  Don't forget to add a meta description!
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

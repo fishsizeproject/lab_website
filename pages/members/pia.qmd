@@ -1,7 +1,7 @@
 ---
 pagetitle: Pia | Fish Size Project
 description-meta: |
-  Meta-description - Pia
+  Don't forget to add a meta description!
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

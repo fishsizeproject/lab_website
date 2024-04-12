@@ -1,7 +1,7 @@
 ---
 pagetitle: Our Team | Fish Size Project
 description-meta: |
-  Meta-description - Team page
+  Our core team is based at IMAS and CSIRO, but we collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

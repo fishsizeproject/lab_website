@@ -1,7 +1,7 @@
 ---
 pagetitle: Impact & Outreach | Fish Size Project
 description-meta: |
-  Meta-description
+  Check out the talks, public engagements, workshops and publications to come out of our lab. 
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

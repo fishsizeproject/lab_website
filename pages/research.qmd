@@ -1,7 +1,7 @@
 ---
 pagetitle: Our Research | Fish Size Project
 description-meta: |
-  Meta-description - research page
+  An overview of the research we're currently working on. Contact us for collaboration opportunities or more detailed information on our ongoing projects.
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

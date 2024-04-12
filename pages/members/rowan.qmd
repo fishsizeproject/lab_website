@@ -1,7 +1,7 @@
 ---
 pagetitle: Rowan Trebilco | Fish Size Project
 description-meta: |
-  Meta-description - Rowan Trebilco
+  Don't forget to add a meta description!
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
