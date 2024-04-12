@@ -1,0 +1,69 @@
+---
+pagetitle: Asta Audzijonyte | Fish Size Project
+description-meta: |
+  Meta-description - Asta Audzijonyte
+---
+
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::
+
+:::::: {.grid .gap-3 .mt-5}
+::::: g-col-4
+![](../../resources/team-profile-pics/asta.jpg){.headshot-lg}
+:::::
+
+::::: g-col-8
+# Asta Audzijonyte
+
+::: text-center
+### Lead Investigator {.text-center}
+:::
+
+::: p
+My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
+:::
+
+:::::
+::::::
+
+<!-- You can comment out any of these columns (or add new ones) and the icons will adjust accordingly on the page -->
+:::: {.grid .align-items-center .justify-content-evenly style="display: flex;" .px-5}
+::: {.g-col .px-3}
+[{{< iconify gridicons institution width=100% title="UTAS staff profile" >}}](https://discover.utas.edu.au/Asta.Audzijonyte)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify ic baseline-mail width=100% title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify mdi web width=100% title="Website" >}}](../../index.qmd)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify mdi github width=100% title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify prime twitter width=100% title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify simple-icons linkedin width=100% title="LinkedIn" >}}](https://linkedin.com)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify academicons google-scholar width=100% title="Google Scholar" >}}](https://scholar.google.com)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify academicons researchgate width=100% title="ResearchGate" >}}](https://researchgate.com)
+:::
+
+::: {.g-col .px-3}
+[{{< iconify academicons orcid width=100% title="OrcID" >}}](https://orcid.com)
+:::
+::::
+
+

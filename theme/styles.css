@@ -133,6 +133,14 @@ ol ::marker {
   object-position: 50% 50%;
 }
 
+.headshot-lg {
+  clip-path: circle(50% at 50% 50%);
+  object-fit: cover;
+  height: 100%;
+  width: auto;
+  object-position: 50% 50%;
+}
+
 .team-name {
   color: black;
 }
