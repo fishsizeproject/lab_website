@@ -1,7 +1,7 @@
 ---
-pagetitle: Asta Audzijonyte | Fish Size Project
+pagetitle: Name | Fish Size Project
 description-meta: |
-  Meta-description - Asta Audzijonyte
+  Meta-description - Name
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -10,18 +10,18 @@ description-meta: |
 
 :::::: {.grid .gap-3 .mt-5}
 ::::: g-col-4
-![](../../resources/team-profile-pics/asta.jpg){.headshot-lg}
+![](https://placehold.co/500x500){.headshot-lg}
 :::::
 
 ::::: g-col-8
-# Asta Audzijonyte
+# Name
 
 ::: text-center
-### Lead Investigator {.text-center}
+### Title {.text-center}
 :::
 
 ::: p
-My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
+Bio goes here.
 :::
 
 :::::
@@ -32,7 +32,7 @@ My goal is to understand and highlight human (fishing and climate change) impact
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/Asta.Audzijonyte)
+[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/)
 :::
 
 ::: {.mx-4}

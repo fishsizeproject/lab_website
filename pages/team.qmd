@@ -2,12 +2,6 @@
 pagetitle: Our Team | Fish Size Project
 description-meta: |
   Meta-description - Team page
-# lightbox:
-#   match: auto
-#   effect: fade
-#   desc-position: right
-#   loop: false
-  # css-class: "team-lightbox"
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -38,71 +32,60 @@ This page is under construction...
 
 ::::::: column-body-outset
 :::::: {.grid .gap-1 .team-grid .justify-contents-evenly}
-<!-- individual team member grid -->
+
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/asta.jpg){.headshot}
-<!-- "Asta Audzijonyte: *Lead-Investigator* My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish. <https://discover.utas.edu.au/Asta.Audzijonyte> -->
 :::
 
 ::: {.g-col-6}
-#### Asta Audzijonyte {.team-name}
-##### Title {.position-title}
+#### [Asta Audzijonyte](members/asta.qmd) {.team-name}
+##### Lead-Investigator {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/amy.jpg){.headshot}
-<!-- Amy Coughlan: Ecologist interested in the trophodynamics of marine ecosystems, and how body size, predator-prey interactions and environmental attributes translate into the biomass and complex structuring of marine ecosystems.-->
 :::
 
 ::: {.g-col-6}
-#### Amy Coughlan {.team-name}
+#### [Amy Coughlan](members/amy.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/carolina.jpg){.headshot}
-<!-- Carolina Chong-Montenegro: Fisheries ecologist whose research focuses on the use of archival sources and statistical modelling to reconstruct historical catch trends and evaluate the long-term effects of fishing on vulnerable fish populations. She is also interested in the evolutionary ecology of fish, in particular how fishing affects the population structure and size distribution of fish with complex life histories. <https://www.tcd.ie/tceh/people/carolina.php> -->
 :::
 
 ::: {.g-col-6}
-#### Carolina Chong-Montenegro {.team-name}
+#### [Carolina Chong-Montenegro](members/carolina.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/freddie.jpeg){.headshot}
-<!-- Freddie Heather: Writes R code and runs models -->
+<!-- :  -->
 :::
 
 ::: {.g-col-6}
-#### Freddie Heather {.team-name}
+#### [Freddie Heather](members/freddie.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
@@ -110,30 +93,25 @@ This page is under construction...
 :::
 
 ::: {.g-col-6}
-#### Matt Testoni {.team-name}
+#### [Matt Testoni](members/matt.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/nils.jpg){.headshot}
-<!-- Nils Kruek: Senior Lecturer at IMAS studying marine population dynamics and data-poor fisheries. Nils is interested in a broad range of research projects on the ecology and management of marine species in Australia, southeast Asia and beyond. His primary area of expertise is area-based marine management, specifically the impacts of marine protected areas (MPAs) on both ecosystems and people. Over recent years, Nils has started working more intensively on size frequency distributions in natural and fished populations, and how a better understanding of size frequency distributions can help assess the status and appropriate management of data-poor fishery species. -->
 :::
 
 ::: {.g-col-6}
-#### Nils Krueck {.team-name}
+#### [Nils Krueck](members/nils.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
@@ -141,46 +119,38 @@ This page is under construction...
 :::
 
 ::: {.g-col-6}
-#### Rowan Trebilco {.team-name}
+#### [Rowan Trebilco](members/rowan.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/sarah.jpg){.headshot}
-<!-- Sarah Willington: For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses simulation modelling to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes. -->
 :::
 
 ::: {.g-col-6}
-#### Sarah Willington {.team-name}
+#### [Sarah Willington](members/sarah.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
 ![](../resources/team-profile-pics/shane.jpg){.headshot}
-<!-- Shane Richards: Applying mathematical and statistical tools, I am very interested to extract more information from fish size data to be used for improving the data-poor stock assessment methods. -->
 :::
 
 ::: {.g-col-6}
-#### Shane Richards {.team-name}
+#### [Shane Richards](members/shane.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
@@ -188,14 +158,12 @@ This page is under construction...
 :::
 
 ::: {.g-col-6}
-#### Wanwan Kurniawan {.team-name}
+#### [Wanwan Kurniawan](members/wanwan.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
@@ -203,14 +171,12 @@ This page is under construction...
 :::
 
 ::: {.g-col-6}
-#### Pia {.team-name}
+#### [Pia](members/pia.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 
-<!-- individual team member grid -->
 ::::: {.g-col-6 .g-col-md-3}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-6}
@@ -218,12 +184,11 @@ This page is under construction...
 :::
 
 ::: {.g-col-6}
-#### XXX {.team-name}
+#### [XXX](members/blank.qmd) {.team-name}
 ##### Title {.position-title}
 :::
 ::::
 :::::
-<!-- end of team member grid -->
 ::::::
 :::::::
 

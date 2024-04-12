@@ -1,7 +1,7 @@
 ---
-pagetitle: Asta Audzijonyte | Fish Size Project
+pagetitle: Carolina Chong-Montenegro | Fish Size Project
 description-meta: |
-  Meta-description - Asta Audzijonyte
+  Meta-description - Carolina Chong-Montenegro
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -10,18 +10,18 @@ description-meta: |
 
 :::::: {.grid .gap-3 .mt-5}
 ::::: g-col-4
-![](../../resources/team-profile-pics/asta.jpg){.headshot-lg}
+![](../../resources/team-profile-pics/carolina.jpg){.headshot-lg}
 :::::
 
 ::::: g-col-8
-# Asta Audzijonyte
+# Carolina Chong-Montenegro
 
 ::: text-center
-### Lead Investigator {.text-center}
+### Title {.text-center}
 :::
 
 ::: p
-My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
+Fisheries ecologist whose research focuses on the use of archival sources and statistical modelling to reconstruct historical catch trends and evaluate the long-term effects of fishing on vulnerable fish populations. She is also interested in the evolutionary ecology of fish, in particular how fishing affects the population structure and size distribution of fish with complex life histories.
 :::
 
 :::::
@@ -32,7 +32,7 @@ My goal is to understand and highlight human (fishing and climate change) impact
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/Asta.Audzijonyte)
+[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://www.tcd.ie/tceh/people/carolina.php)
 :::
 
 ::: {.mx-4}
