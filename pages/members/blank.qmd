@@ -1,5 +1,5 @@
 ---
-pagetitle: Name | Fish Size Project
+pagetitle: Your name | Fish Size Project
 description-meta: |
   Don't forget to add a meta description!
 ---
@@ -22,6 +22,9 @@ description-meta: |
 
 ::: p
 Bio goes here.
+
+- Create internal links with [text](../../index.qmd) and external links with [text](www.google.com){target="_blank"}. 
+<!-- The "{target="_blank"}" text ensure it opens in a new tab  -->
 :::
 
 :::::
