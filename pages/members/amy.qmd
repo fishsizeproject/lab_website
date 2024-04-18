@@ -48,11 +48,11 @@ Ecologist interested in the trophodynamics of marine ecosystems, and how body si
 :::
 
 ::: {.mx-4}
-[{{< iconify prime twitter height=3.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com)
 :::
 
 ::: {.mx-4}
-[{{< iconify simple-icons linkedin height=3.5em title="LinkedIn" >}}](https://linkedin.com)
+[{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com)
 :::
 
 ::: {.mx-4}

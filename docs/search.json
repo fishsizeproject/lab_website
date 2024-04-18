@@ -67,7 +67,7 @@
     "href": "pages/members/blank.html",
     "title": "Name",
     "section": "",
-    "text": "Name\n\nTitle\n\n\nBio goes here."
+    "text": "Name\n\nTitle\n\n\nBio goes here.\n\nCreate internal links with text and external links with text."
   },
   {
     "objectID": "pages/members/amy.html",
