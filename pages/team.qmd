@@ -175,9 +175,10 @@ description-meta: |
 :::
 ::::
 :::::
-
+<!-- indicates the number of columns (out of 12) that each person gets on different sized screens, starting from mobile to extra large (both photo and text) -->
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
 :::: {.grid .gap-0 .align-items-center}
+<!-- width of the photo and text should add up to 12 -->
 ::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
 ![](https://placehold.co/500x500){.headshot}
 :::

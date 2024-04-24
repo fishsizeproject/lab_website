@@ -41,12 +41,12 @@ description-meta: |
 ## General properties of intra-specific size distributions {.no-caps #sec-size-distribution-properties}
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6}
 Are there general rules that govern relatives abundances of small, medium and large fish in a population? Are these rules consistent across fish groups, habitats, temperature and geographic regions? And if so, can these rules be applied to quantify fishing and other impacts on fish populations? 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
-![](resources/images/urchinBarrenSm.jpg){.img-tile-lg}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
+![](/resources/images/urchinBarrenSm.jpg){.img-tile-lg}
 :::
 :::
 
@@ -66,12 +66,12 @@ We are keen to test the generality of body size distributions across a much larg
 ::: {.grid .gap-2}
 ::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
-![](https://placehold.co/600x400){.card-img-top}
+![](/resources/images/WhichSizeFig1.png){.card-img-top}
 
-#### Title {.card-title}
+#### [Preprint: Temperature affects fish body sizes. Which sizes?](/resources/preprints/Temperature_FishSizeMs.pdf) {.card-title}
 
 ::: card-text
-Preprint: Temperature affects fish body sizes. Which sizes?
+Mean, maximum, asymptotic, adult, maturation size are all different size measures and temperature may affect them differently.
 :::
 :::
 :::
@@ -83,7 +83,7 @@ Preprint: Temperature affects fish body sizes. Which sizes?
 #### Title {.card-title}
 
 ::: card-text
-Mean, maximum, asymptotic, adult, maturation size are all different size measures and temperature may affect them differently.
+bb
 :::
 :::
 :::
