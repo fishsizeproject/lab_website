@@ -42,25 +42,26 @@ description-meta: |
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-8}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin elit vitae nisi faucibus dapibus. Sed egestas orci nibh, eget tempor nisi aliquam vel. Donec id sodales massa. Nullam at libero velit. Mauris sed tellus massa. Nulla at luctus sapien. Morbi congue scelerisque varius. 
+Are there general rules that govern relatives abundances of small, medium and large fish in a population? Are these rules consistent across fish groups, habitats, temperature and geographic regions? And if so, can these rules be applied to quantify fishing and other impacts on fish populations? 
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .img-container}
-![](https://placehold.co/750x500){.img-tile-lg}
+![](resources/images/urchinBarrenSm.jpg){.img-tile-lg}
 :::
 :::
 
 ### Aims
 
-1. Maecenas commodo purus eget erat pretium, sed iaculis tortor euismod. Nunc non nibh purus. Sed et ipsum in enim imperdiet tempus. Phasellus ultrices convallis nibh, vitae imperdiet risus tempor in. Morbi accumsan, nibh elementum porta placerat, turpis magna rutrum nulla, id commodo justo magna sit amet lacus. Morbi egestas nibh et imperdiet finibus. 
+1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained. 
 
-2. Mauris dapibus mauris dui, eu efficitur lacus pharetra id. Suspendisse et massa elit. Cras ac ipsum posuere, auctor quam vitae, finibus nulla. Vivamus purus augue, maximus sed ex a, lobortis faucibus lacus. Aenean eu elementum massa, id tempus quam. Ut sit amet nunc vitae eros mattis blandit vitae sit amet neque.  
+2. The next step is to assess spatial and temporal scales over which body size distributions become unpredictable and how the importance of life-history and environmental conditions in explaining the residual variation from the general patterns. 
 
-3. Sed et est eget est imperdiet convallis. Quisque neque libero, ullamcorper et ipsum et, varius ultricies arcu. Nunc bibendum et nibh eu eleifend. In turpis neque, congue vel lorem vitae, molestie mollis dolor. Proin non cursus libero. Proin vel ex ultrices, tempor metus et, semper arcu. In hac habitasse platea dictumst. Donec sit amet laoreet urna. Vestibulum felis augue, luctus et sagittis vitae, scelerisque ut purus. 
+We are keen to test the generality of body size distributions across a much larger ranges of species and habitats, and across different data collection methods. For that we need individual size data from natural fish populations without much fishing pressure. If you would like to collaborate with us - get in touch. 
 
-### Major findings
 
-For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd).
+<!-- ### Major findings -->
+
+<!-- For a full list of the impacts and outcomes of this research, see [Resources](resources.qmd). -->
 
 ::: {.grid .gap-2}
 ::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
@@ -70,7 +71,7 @@ For a full list of the impacts and outcomes of this research, see [Resources](re
 #### Title {.card-title}
 
 ::: card-text
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Preprint: Temperature affects fish body sizes. Which sizes?
 :::
 :::
 :::
@@ -82,14 +83,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #### Title {.card-title}
 
 ::: card-text
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Mean, maximum, asymptotic, adult, maturation size are all different size measures and temperature may affect them differently.
 :::
 :::
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-xl-3}
 ::: card
-![](https://placehold.co/600x400){.card-img-top .img-container}
+![](resources/images/WhichSizeFig1.png){.card-img-top .img-container}
 
 #### Title {.card-title}
 
