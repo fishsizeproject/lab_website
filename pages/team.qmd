@@ -9,186 +9,419 @@ description-meta: |
 :::
 
 # Our Team
-<!-- UNDER CONSTRUCTION -->
-<!-- :::::: grid -->
-<!-- :::: g-col-3 -->
-<!--     -->
-<!-- :::: -->
-
-<!-- ::: {.g-col-2 .text-center .align-self-center} -->
-<!-- ![](../resources/images/construction.jpg){.img styling="height: 3em;"} -->
-<!-- ::: -->
-
-<!-- ::: {.g-col-4 .align-self-center} -->
-<!-- This page is under construction... -->
-<!-- ::: -->
-
-<!-- :::: g-col-3 -->
-<!--     -->
-<!-- :::: -->
-<!-- :::::: -->
-<!-- UNDER CONSTRUCTION -->
-
-::::::: column-body-outset
+::::::: column-page-inset
 :::::: {.grid .gap-2 .team-grid .justify-contents-evenly .align-items-center}
 
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
+::::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::::: {.grid .gap-0 .align-items-center}
+::::: {.g-col-4 .g-col-lg-5 .text-center .text-center}
 ![](../resources/team-profile-pics/asta.jpg){.headshot}
-:::
+:::::
 
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
+::::: {.g-col-8 .g-col-lg-7 style="padding-left: 0px;"}
 #### [Asta Audzijonyte](members/asta.qmd) {.team-name}
-##### Lead-Investigator {.position-title}
-:::
-::::
-:::::
 
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/amy.jpg){.headshot}
-:::
+*Lead-Investigator*
 
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Amy Coughlan](members/amy.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
+My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
 
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/carolina.jpg){.headshot}
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
 :::
 
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Carolina Chong-Montenegro](members/carolina.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/freddie.jpeg){.headshot}
-<!-- :  -->
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
 :::
 
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Freddie Heather](members/freddie.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/matt.png){.headshot}
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
 :::
 
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Matt Testoni](members/matt.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/nils.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Nils Krueck](members/nils.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/rowan.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Rowan Trebilco](members/rowan.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/sarah.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Sarah Willington](members/sarah.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/shane.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Shane Richards](members/shane.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/wanwan.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Wanwan Kurniawan](members/wanwan.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](../resources/team-profile-pics/pia.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [Pia](members/pia.qmd) {.team-name}
-##### Title {.position-title}
-:::
-::::
-:::::
-<!-- indicates the number of columns (out of 12) that each person gets on different sized screens, starting from mobile to extra large (both photo and text) -->
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4 .g-col-xxl-3}
-:::: {.grid .gap-0 .align-items-center}
-<!-- width of the photo and text should add up to 12 -->
-::: {.g-col-4 .g-col-lg-5 .g-col-xl-6}
-![](https://placehold.co/500x500){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7 .g-col-xl-6}
-#### [XXX](members/blank.qmd) {.team-name}
-##### Title {.position-title}
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
 :::
 ::::
 :::::
 ::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/amy.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Amy Coughlan](members/amy.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/carolina.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Carolina Chong-Montenegro](members/carolina.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/freddie.jpeg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Freddie Heather](members/freddie.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/matt.png){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Matt Testoni](members/matt.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/nils.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Nils Krueck](members/nils.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/rowan.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Rowan Trebilco](members/rowan.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/sarah.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Sarah Willington](members/sarah.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/shane.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Shane Richards](members/shane.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/wanwan.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Wanwan Kurniawan](members/wanwan.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/pia.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Pia](members/pia.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+<!-- indicates the number of columns (out of 12) that each person gets on different sized screens, starting from mobile to extra large (both photo and text) -->
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+<!-- width of the photo and text should add up to 12 -->
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](https://placehold.co/500x500){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [XXX](members/blank.qmd) {.team-name}
+
+*Title*
+
+This is a quick sentence describing what each team member does. Keep it short and sweet!
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+:::
+::::
+:::::
+::::::
+:::::::
+
+:::::::
 :::::::
 
