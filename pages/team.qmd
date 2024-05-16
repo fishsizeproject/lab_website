@@ -268,17 +268,18 @@ I am interested in studying fishing and climate change impacts in fish body size
 [{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:sarah.willington@utas.edu.au)
 :::
 
-<!-- ::: g-col-3 -->
-<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
-<!-- ::: -->
-
 ::: g-col-3
 [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/ssswillington)
 :::
 
-<!-- ::: g-col-3 -->
+::: g-col-3
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
+:::
+
+
+::: g-col-3
 <!-- [{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com) -->
-<!-- ::: -->
+:::
 ::::
 :::::
 ::::::
