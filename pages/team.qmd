@@ -117,31 +117,31 @@ This is a quick sentence describing what each team member does. Keep it short an
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-4 .g-col-lg-5 .text-center}
-![](../resources/team-profile-pics/freddie.jpeg){.headshot}
+![](../resources/team-profile-pics/freddie.png){.headshot}
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
 #### [Freddie Heather](members/freddie.qmd) {.team-name}
 
-*Title*
+*Research Associate*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+Developing methods to quantify human impacts on marine systems, specifically how body size can be used as a [very useful] metric. 
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:freddie.heather@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/FreddieJH/)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/F_J_Heather)
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=1RQuG28AAAAJ&hl=en)
 :::
 ::::
 :::::
