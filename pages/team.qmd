@@ -125,7 +125,7 @@ This is a quick sentence describing what each team member does. Keep it short an
 
 *Research Associate*
 
-Developing methods to quantify human impacts on marine systems, specifically how body size can be used a [very useful] metric. 
+Developing methods to quantify human impacts on marine systems, specifically how body size can be used as a [very useful] metric. 
 
 :::: {.grid .text-center}
 ::: g-col-3
