@@ -259,25 +259,25 @@ This is a quick sentence describing what each team member does. Keep it short an
 ::::: {.g-col-8 .g-col-lg-7}
 #### [Sarah Willington](members/sarah.qmd) {.team-name}
 
-*Title*
+*PhD student*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+I am interested in studying fishing and climate change impacts in fish body sizes.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:sarah.willington@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/ssswillington)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com) -->
 :::
 ::::
 :::::
