@@ -10,18 +10,18 @@ description-meta: |
 
 :::::: {.grid .gap-3 .mt-5}
 ::::: g-col-4
-![](../../resources/team-profile-pics/freddie.jpeg){.headshot-lg}
+![](../../resources/team-profile-pics/freddie.png){.headshot-lg}
 :::::
 
 ::::: g-col-8
 # Freddie Heather
 
 ::: text-center
-### Title {.text-center}
+### Research Associate {.text-center}
 :::
 
 ::: p
-Writes R code and runs models
+My main research interests lie in macroecology and identifying broad-scale patterns in nature. I often deal with large datasets to answer such research questions, particularly with a focus on how body-size distributions can be used to identify and quantify various ecological and anthropogenic pressures. 
 :::
 
 :::::
@@ -32,40 +32,44 @@ Writes R code and runs models
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/)
+[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/Freddie.Heather)
 :::
 
 ::: {.mx-4}
-[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:freddie.heather@utas.edu.au)
+:::
+
+
+::: {.mx-4}
+[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/FreddieJH)
 :::
 
 ::: {.mx-4}
-[{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd)
+[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com/F_J_Heather)
 :::
 
 ::: {.mx-4}
-[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=1RQuG28AAAAJ&hl=en)
 :::
 
 ::: {.mx-4}
-[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com)
+[{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.org/0000-0002-1650-2617)
 :::
 
 ::: {.mx-4}
-[{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com)
+<!-- [{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com) -->
+:::
+
+
+
+::: {.mx-4}
+<!-- [{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com) -->
 :::
 
 ::: {.mx-4}
-[{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd) -->
 :::
 
-::: {.mx-4}
-[{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.com)
-:::
 ::::
 :::::
 
