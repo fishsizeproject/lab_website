@@ -17,7 +17,7 @@ description-meta: |
 # Nils Kruek
 
 ::: text-center
-### Title {.text-center}
+### Research Fellow {.text-center}
 :::
 
 ::: p
