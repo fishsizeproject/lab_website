@@ -15,15 +15,15 @@ description-meta: |
 ::::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
 :::::: {.grid .gap-0 .align-items-center}
 ::::: {.g-col-4 .g-col-lg-5 .text-center .text-center}
-![](../resources/team-profile-pics/asta.jpg){.headshot}
+![](../resources/team-profile-pics/AstaBeachHead.jpg){.headshot}
 :::::
 
 ::::: {.g-col-8 .g-col-lg-7 style="padding-left: 0px;"}
-#### [Asta Audzijonyte](members/asta.qmd) {.team-name}
+#### [Asta Audzijonyte](http://www.utas.edu.au/profiles/staff/imas/asta-audzijonyte) {.team-name}
 
-*Lead-Investigator*
+*Lead investigator*
 
-My goal is to understand and highlight human (fishing and climate change) impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
+My goal is to understand and document human impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
 
 :::: {.grid .text-center}
 ::: g-col-3
@@ -31,15 +31,15 @@ My goal is to understand and highlight human (fishing and climate change) impact
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/astaaudzi/)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/astaaudzi)
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=OfRIORcAAAAJ&hl=en&oi=ao)
 :::
 ::::
 :::::
@@ -53,27 +53,27 @@ My goal is to understand and highlight human (fishing and climate change) impact
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Amy Coughlan](members/amy.qmd) {.team-name}
+#### [Amy Coghlan](https://www.sizeecology.org/authors/amy-coghlan/) {.team-name}
 
-*Title*
+*Research associate*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+I am interested in trophic dynamics and how body size, predator-prey interactions and environment affect marine community structure.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:amy.coghlan@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=Y_1F4-UAAAAJ&hl=en&oi=ao)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
 ::::
 :::::
@@ -87,28 +87,30 @@ This is a quick sentence describing what each team member does. Keep it short an
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Carolina Chong-Montenegro](members/carolina.qmd) {.team-name}
+#### [Carolina Chong-Montenegro](https://www.tcd.ie/tceh/people/carolina.php) {.team-name}
 
-*Title*
+*Collaborator, Trinity College Dublin*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+My research focuses on the use of archival sources and statistical modelling to reconstruct historical catch trends and evaluate the long-term effects of fishing on fish populations.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:c.chongmontenegro@uq.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=4HgTRpMAAAAJ&hl=en&oi=ao)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
+
+
 ::::
 :::::
 ::::::
@@ -121,11 +123,11 @@ This is a quick sentence describing what each team member does. Keep it short an
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Freddie Heather](members/freddie.qmd) {.team-name}
+#### [Freddie Heather](https://discover.utas.edu.au/Freddie.Heather) {.team-name}
 
-*Research Associate*
+*Research associate*
 
-Developing methods to quantify human impacts on marine systems, specifically how body size can be used as a [very useful] metric. 
+Developing methods to quantify human impacts on marine systems, specifically how body size can be used as a very useful metric. 
 
 :::: {.grid .text-center}
 ::: g-col-3
@@ -155,121 +157,19 @@ Developing methods to quantify human impacts on marine systems, specifically how
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Matt Testoni](members/matt.qmd) {.team-name}
+#### [Matt Testoni](https://www.mtunderwatermedia.com/) {.team-name}
 
-*Title*
+*Communications*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
-
-:::: {.grid .text-center}
-::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
-:::
-
-::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
-:::
-
-::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
-:::
-
-::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
-:::
-::::
-:::::
-::::::
-:::::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .text-center}
-![](../resources/team-profile-pics/nils.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7}
-#### [Nils Krueck](https://discover.utas.edu.au/Nils.Krueck) {.team-name}
-
-*Title*
-
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+I am a diver, underwater photograher and a science communicator. I lead the development of the [Big Fish card game](https://bigfishcardgame.com) and make videos to inspire restoration of big fish. 
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:nils.krueck@utas.edu.au)
-:::
-
-<!-- ::: g-col-3 -->
-<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
-<!-- ::: -->
-
-<!-- ::: g-col-3 -->
-<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
-<!-- ::: -->
-
-::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
-:::
-::::
-:::::
-::::::
-:::::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .text-center}
-![](../resources/team-profile-pics/rowan.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7}
-#### [Rowan Trebilco](members/rowan.qmd) {.team-name}
-
-*Title*
-
-This is a quick sentence describing what each team member does. Keep it short and sweet!
-
-:::: {.grid .text-center}
-::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:matthew.teston@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
-:::
-
-::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
-:::
-
-::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
-:::
-::::
-:::::
-::::::
-:::::::
-
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .text-center}
-![](../resources/team-profile-pics/sarah.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7}
-#### [Sarah Willington](members/sarah.qmd) {.team-name}
-
-*PhD student*
-
-I am interested in studying fishing and climate change impacts in fish body sizes.
-
-:::: {.grid .text-center}
-::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:sarah.willington@utas.edu.au)
-:::
-
-::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/ssswillington)
+[{{< iconify instagram height=1.5em title="Instagram" >}}](https://www.instagram.com/matt_testoni_photography/)
 :::
 
 ::: g-col-3
@@ -287,32 +187,139 @@ I am interested in studying fishing and climate change impacts in fish body size
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/nils.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Nils Krueck](https://discover.utas.edu.au/Nils.Krueck) {.team-name}
+
+*Senior lecturer*
+
+I study size frequency distributions in natural and fished populations, and use them to assess the status and management of data-poor fishery species.
+
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:nils.krueck@utas.edu.au)
+:::
+
+<!-- ::: g-col-3 -->
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
+<!-- ::: -->
+
+<!-- ::: g-col-3 -->
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
+<!-- ::: -->
+
+::: g-col-3
+<!-- [{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com) -->
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/rowan.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Rowan Trebilco](https://people.csiro.au/T/R/rowan-trebilco) {.team-name}
+
+*Collaborator, CSIRO*
+
+I apply models to assess status, trends, risks and  opportunities for marine social ecological systems and develop strategies for climate change adaptation.
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:rowan.trebilco@csiro.au)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=m_efB48AAAAJ&hl=en&oi=ao)
+:::
+
+::: g-col-3
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
+:::
+
+::: g-col-3
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
+:::
+
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/sarah.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Sarah Willington](members/sarah.qmd) {.team-name}
+
+*PhD student*
+
+I am interested in studying fishing and climate change impacts in fish body sizes. 
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:sarah.willington@utas.edu.au)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/ssswillington)
+:::
+
+::: g-col-3
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
+:::
+
+
+::: g-col-3
+<!-- [{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com) -->
+:::
+::::
+:::::
+::::::
+:::::::
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
 ![](../resources/team-profile-pics/shane.jpg){.headshot}
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Shane Richards](members/shane.qmd) {.team-name}
+#### [Shane Richards](https://discover.utas.edu.au/Shane.Richards) {.team-name}
 
-*Title*
+*Senior lecturer*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+I am a theoretical and statistical ecologist, interested in animal behaviour, population and community ecology, and application of Bayesian methods to ecological questions.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:shane.richards@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=67fSe5IAAAAJ&hl=en&oi=ao)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
+
+
 ::::
 :::::
 ::::::
@@ -327,26 +334,27 @@ This is a quick sentence describing what each team member does. Keep it short an
 ::::: {.g-col-8 .g-col-lg-7}
 #### [Wanwan Kurniawan](members/wanwan.qmd) {.team-name}
 
-*Title*
+*PhD student*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+I am interested in advancing size-based stock assessment methods and applying mathematical and statistical tools to solve problems in fisheries.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](wanwan.kurniawan@utas.edu.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/wanw001)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.co.id/citations?user=6fohO7kAAAAJ&hl=en)
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
+
 ::::
 :::::
 ::::::
@@ -359,28 +367,30 @@ This is a quick sentence describing what each team member does. Keep it short an
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [Pia](members/pia.qmd) {.team-name}
+#### [Pia Bessell-Browne](https://www.researchgate.net/profile/Pia-Bessell-Browne) {.team-name}
 
-*Title*
+*Collaborator, CSIRO*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+My research focuses on development and application of fishery stock assessment techniques that account for the impacts of climate change.
 
 :::: {.grid .text-center}
 ::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:pia.bessell-browne@csiro.au)
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=tHzV1UMAAAAJ&hl=en&oi=ao)
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
+
+
 ::::
 :::::
 ::::::
@@ -391,15 +401,15 @@ This is a quick sentence describing what each team member does. Keep it short an
 :::: {.grid .gap-0 .align-items-center}
 <!-- width of the photo and text should add up to 12 -->
 ::: {.g-col-4 .g-col-lg-5 .text-center}
-![](https://placehold.co/500x500){.headshot}
+![](../resources/images/cowfishSm.jpg){.headshot}
 :::
 
 ::::: {.g-col-8 .g-col-lg-7}
-#### [XXX](members/blank.qmd) {.team-name}
+#### [All the fish](https://reeflifesurvey.com/) {.team-name}
 
-*Title*
+*The main reason*
 
-This is a quick sentence describing what each team member does. Keep it short and sweet!
+Although usually not directly involved in research, I am the main reason this team exists. They are passionate about me. 
 
 :::: {.grid .text-center}
 ::: g-col-3
@@ -407,15 +417,15 @@ This is a quick sentence describing what each team member does. Keep it short an
 :::
 
 ::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/)
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
 :::
 
 ::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com)
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
 :::
 
 ::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com)
+<!-- [{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com) -->
 :::
 ::::
 :::::

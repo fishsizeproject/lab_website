@@ -17,11 +17,11 @@ description-meta: |
 # Wanwan Kurniawan
 
 ::: text-center
-### Title {.text-center}
+### PhD student {.text-center}
 :::
 
-::: p
-Bio goes here.
+::: {.p style="font-size: 1.33em;"}
+In my PhD I am using simulations and analyses of diverse fish observation datasets to explore whether we can estimate important life-history (mortality, growth, asymptotic size) and observation selectivity parameters using Bayesian methods. I will then aim to apply these estimates in size based stock assessment methods. My other goal is to advance size based population assessments for use with non traditional datasets, such as recreational angling, citizen science, app data, as well as underwater observations. 
 :::
 
 :::::
@@ -31,41 +31,40 @@ Bio goes here.
 ::::: {.container}
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/) -->
+<!-- ::: -->
+
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/)
+[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:wanwan.kurniawan@utas.edu.au)
+:::
+
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd) -->
+<!-- ::: -->
+
+::: {.mx-4}
+[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/wanw001)
 :::
 
 ::: {.mx-4}
-[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.co.id/citations?user=6fohO7kAAAAJ&hl=en)
 :::
 
 ::: {.mx-4}
-[{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd)
+<!-- [{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com/) -->
 :::
 
-::: {.mx-4}
-[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/fishsizeproject/)
-:::
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com) -->
+<!-- ::: -->
 
-::: {.mx-4}
-[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com)
-:::
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com) -->
+<!-- ::: -->
 
-::: {.mx-4}
-[{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.com)
-:::
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.org/0009-0005-4540-3553) -->
+<!-- ::: -->
 ::::
 :::::
-

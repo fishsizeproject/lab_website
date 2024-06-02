@@ -1,0 +1,26 @@
+---
+pagetitle: Impact & Outreach | Fish Size Project
+description-meta: |
+  Check out the talks, public engagements, workshops and code to come out of our lab. 
+---
+
+# Outputs and outreach 
+
+::: {.subtitle .text-center style="font-size: 1.6em;"}
+**Coming soon**
+:::
+
+
+:::: {.grid .justify-contents-evenly .align-items-center .gap-0}
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/cuttlefishSm.jpg)
+:::
+
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/boarfishSm.jpg)
+:::
+
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/SeadragonSm.jpg)
+:::
+::::

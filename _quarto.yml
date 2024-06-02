@@ -9,15 +9,15 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Our Team
+      - text: Our team
         href: pages/team.qmd
       - text: Research
         href: pages/research.qmd
-      - text: Impact & Outreach
-        href: pages/media.qmd
-      - text: Resources
-        href: pages/resources.qmd
-      - text: Join Us!
+      - text: Outputs
+        href: pages/outputs.qmd
+      - text: Big Fish game
+        href: pages/bigfishgame.qmd
+      - text: Collaborate
         href: pages/join.qmd
   page-footer:
     left: |
