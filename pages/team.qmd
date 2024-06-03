@@ -12,39 +12,6 @@ description-meta: |
 ::::::: column-page-inset
 :::::: {.grid .gap-2 .team-grid .justify-contents-evenly .align-items-center}
 
-::::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
-:::::: {.grid .gap-0 .align-items-center}
-::::: {.g-col-4 .g-col-lg-5 .text-center .text-center}
-![](../resources/team-profile-pics/AstaBeachHead.jpg){.headshot}
-:::::
-
-::::: {.g-col-8 .g-col-lg-7 style="padding-left: 0px;"}
-#### [Asta Audzijonyte](http://www.utas.edu.au/profiles/staff/imas/asta-audzijonyte) {.team-name}
-
-*Lead investigator*
-
-My goal is to understand and document human impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
-
-:::: {.grid .text-center}
-::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
-:::
-
-::: g-col-3
-[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/astaaudzi/)
-:::
-
-::: g-col-3
-[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/astaaudzi)
-:::
-
-::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=OfRIORcAAAAJ&hl=en&oi=ao)
-:::
-::::
-:::::
-::::::
-:::::::
 
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
 :::: {.grid .gap-0 .align-items-center}
@@ -74,6 +41,42 @@ I am interested in trophic dynamics and how body size, predator-prey interaction
 
 ::: g-col-3
 <!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
+:::
+::::
+:::::
+::::::
+:::::::
+
+
+
+::::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::::: {.grid .gap-0 .align-items-center}
+::::: {.g-col-4 .g-col-lg-5 .text-center .text-center}
+![](../resources/team-profile-pics/AstaBeachHead.jpg){.headshot}
+:::::
+
+::::: {.g-col-8 .g-col-lg-7 style="padding-left: 0px;"}
+#### [Asta Audzijonyte](http://www.utas.edu.au/profiles/staff/imas/asta-audzijonyte) {.team-name}
+
+*Lead investigator*
+
+My goal is to understand and document human impacts on fish size diversity and find solutions to restore fish populations with lots of big fish.
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:info@fishsizeproject.org)
+:::
+
+::: g-col-3
+[{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/astaaudzi/)
+:::
+
+::: g-col-3
+[{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com/astaaudzi)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=OfRIORcAAAAJ&hl=en&oi=ao)
 :::
 ::::
 :::::
@@ -219,6 +222,44 @@ I study size frequency distributions in natural and fished populations, and use 
 ::::::
 :::::::
 
+
+::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
+:::: {.grid .gap-0 .align-items-center}
+::: {.g-col-4 .g-col-lg-5 .text-center}
+![](../resources/team-profile-pics/pia.jpg){.headshot}
+:::
+
+::::: {.g-col-8 .g-col-lg-7}
+#### [Pia Bessell-Browne](https://www.researchgate.net/profile/Pia-Bessell-Browne) {.team-name}
+
+*Collaborator, CSIRO*
+
+My research focuses on development and application of fishery stock assessment techniques that account for the impacts of climate change.
+
+:::: {.grid .text-center}
+::: g-col-3
+[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:pia.bessell-browne@csiro.au)
+:::
+
+::: g-col-3
+[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=tHzV1UMAAAAJ&hl=en&oi=ao)
+:::
+
+::: g-col-3
+<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
+:::
+
+::: g-col-3
+<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
+:::
+
+
+::::
+:::::
+::::::
+:::::::
+
+
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
 :::: {.grid .gap-0 .align-items-center}
 ::: {.g-col-4 .g-col-lg-5 .text-center}
@@ -300,7 +341,7 @@ I am interested in studying fishing and climate change impacts in fish body size
 
 *Senior lecturer*
 
-I am a theoretical and statistical ecologist, interested in animal behaviour, population and community ecology, and application of Bayesian methods to ecological questions.
+Developing mathematical models of biological systems and confronting them with data using modern statistical approaches. Research interests include: terrestrial and aquatic community ecology, disease dynamics, life-history evolution, and conservation biology.
 
 :::: {.grid .text-center}
 ::: g-col-3
@@ -360,41 +401,6 @@ I am interested in advancing size-based stock assessment methods and applying ma
 ::::::
 :::::::
 
-::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
-:::: {.grid .gap-0 .align-items-center}
-::: {.g-col-4 .g-col-lg-5 .text-center}
-![](../resources/team-profile-pics/pia.jpg){.headshot}
-:::
-
-::::: {.g-col-8 .g-col-lg-7}
-#### [Pia Bessell-Browne](https://www.researchgate.net/profile/Pia-Bessell-Browne) {.team-name}
-
-*Collaborator, CSIRO*
-
-My research focuses on development and application of fishery stock assessment techniques that account for the impacts of climate change.
-
-:::: {.grid .text-center}
-::: g-col-3
-[{{< iconify ic baseline-mail height=1.75em title="Email address" >}}](mailto:pia.bessell-browne@csiro.au)
-:::
-
-::: g-col-3
-[{{< iconify academicons google-scholar height=1.75em title="Google Scholar" >}}](https://scholar.google.com.au/citations?user=tHzV1UMAAAAJ&hl=en&oi=ao)
-:::
-
-::: g-col-3
-<!-- [{{< iconify mdi github height=1.75em title="Github" >}}](https://github.com/fishsizeproject/) -->
-:::
-
-::: g-col-3
-<!-- [{{< iconify prime twitter height=1.5em title="The website formerly known as Twitter" >}}](https://twitter.com) -->
-:::
-
-
-::::
-:::::
-::::::
-:::::::
 
 <!-- indicates the number of columns (out of 12) that each person gets on different sized screens, starting from mobile to extra large (both photo and text) -->
 ::::: {.g-col-12 .g-col-xs-6 .g-col-sm-6 .g-col-lg-4}
@@ -409,7 +415,7 @@ My research focuses on development and application of fishery stock assessment t
 
 *The main reason*
 
-Although usually not directly involved in research, I am the main reason this team exists. They are passionate about me. 
+Although usually not directly involved in research, we are the reason this team exists. See you underwater. 
 
 :::: {.grid .text-center}
 ::: g-col-3
