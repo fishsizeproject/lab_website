@@ -30,13 +30,12 @@ website:
       Battery Point TAS 7000<br>
       Australia<br>
     right: |
-      <i>We acknowledge the traditional owners of the land on which we live and work.<br>
-      Sovereignty was never ceded </i><img src="/resources/images/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;">
+      <i>We acknowledge the traditional owners of the land on which we live and work.Sovereignty was never ceded </i><img src="/resources/images/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;">
       <br><br><br>
       © FishSize Project, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [![](/resources/logo-files/fishsize-logo-wide2.png){fig-alt="FishSize Project" fig-align="center" width="10vw" fig-valign="middle"}](/index.qmd)
+      [![](/resources/logo-files/IMASwithUTAS.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd) [![](/resources/logo-files/fishsize-logo-wide2.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd) [![](/resources/logo-files/CMS.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd)
     border: false
     background: primary
     foreground: light
