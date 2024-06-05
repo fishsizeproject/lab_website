@@ -17,11 +17,11 @@ description-meta: |
 # Sarah Willington
 
 ::: text-center
-### Title {.text-center}
+### PhD student {.text-center}
 :::
 
-::: p
-For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses simulation modelling to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes.
+::: {.p style="font-size: 1.33em;"}
+For my PhD, I am interested in looking at how fish size distributions are changing with ocean warming. My research uses modelling and growth analyses to look at how changes in growth and mortality affect population size distributions, and comparing these changes to real fish population distributions to gain a better understanding of what is occurring in coastal rocky reef fishes.
 :::
 
 :::::
@@ -31,41 +31,42 @@ For my PhD, I am interested in looking at how fish size distributions are changi
 ::::: {.container}
 :::: {.row .row-cols-auto .flex-wrap .justify-content-center .align-items-center .container-fluid style="display: flex;"}
 
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/) -->
+<!-- ::: -->
+
 ::: {.mx-4}
-[{{< iconify gridicons institution height=3.5em title="Staff profile" >}}](https://discover.utas.edu.au/)
+[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:sarah.willington@utas.edu.au)
+:::
+
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd) -->
+<!-- ::: -->
+
+::: {.mx-4}
+[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/swillington/)
 :::
 
 ::: {.mx-4}
-[{{< iconify ic baseline-mail height=3.5em title="Email address" >}}](mailto:info@fishsizeproject.org)
+[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com/ssswillington)
 :::
 
-::: {.mx-4}
-[{{< iconify mdi web height=3.5em title="Website" >}}](../../index.qmd)
-:::
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com) -->
+<!-- ::: -->
+
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.com) -->
+<!-- ::: -->
+
+<!-- ::: {.mx-4} -->
+<!-- [{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com) -->
+<!-- ::: -->
 
 ::: {.mx-4}
-[{{< iconify mdi github height=3.5em title="Github" >}}](https://github.com/fishsizeproject/)
-:::
-
-::: {.mx-4}
-[{{< iconify prime twitter height=3.3em title="The website formerly known as Twitter" >}}](https://twitter.com)
-:::
-
-::: {.mx-4}
-[{{< iconify simple-icons linkedin height=3.3em title="LinkedIn" >}}](https://linkedin.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons google-scholar height=3.5em title="Google Scholar" >}}](https://scholar.google.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons researchgate height=3.5em title="ResearchGate" >}}](https://researchgate.com)
-:::
-
-::: {.mx-4}
-[{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.com)
+[{{< iconify academicons orcid height=3.5em title="OrcID" >}}](https://orcid.org/0009-0005-4540-3553)
 :::
 ::::
 :::::
+
 
