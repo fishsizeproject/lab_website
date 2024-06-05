@@ -13,3 +13,7 @@
 
 # R project files
 .Rproj.user
+
+# Whole site
+docs/
+docs/*
