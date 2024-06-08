@@ -9,7 +9,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Our team
+      - text: The team
         href: pages/team.qmd
       - text: Research
         href: pages/research.qmd

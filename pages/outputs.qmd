@@ -7,11 +7,15 @@ description-meta: |
 # Outputs and outreach 
 
 ::: {.subtitle .text-center style="font-size: 1.6em;"}
+
+Media, engagement, public talks, conference talks and and other outputs. 
+
+
 **Coming soon**
 :::
 
 
-:::: {.grid .justify-contents-evenly .align-items-center .gap-0}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
 ::: {.g-col-4 .text-center .img-container}
 ![](../resources/images/cuttlefishSm.jpg)
 :::

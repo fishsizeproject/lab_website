@@ -4,8 +4,31 @@ description-meta: |
   Meta-description - Resources page
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
-   
+# Big Fish card game
+
+::: {.subtitle .text-center style="font-size: 1.4em;"}
+
+To encourage sustainable recreational fishing and marine literacy and to communicate the importance of big fish for fish populations and ecosystems we have developed a fun and engageing card game [**Big Fish**](https://bigfishcardgame.com). The game is already gaining popularity with schools and has been tested across different sectors. The game will be officially launched with a crowdfunding in September 2024, during the [Australian Marine Sciences Association annual meeting in Hobart](https://www.amsa2024.amsa.asn.au/). 
+
+The Big Fish card game has been developed by [Matt Testoni](team.qmd) and illustrated by [Amy Coghlan](team.qmd) (we do have lots of talent in the team!). All funds raised during the crowdfunding will contribute to promoting education and engagement. 
+
+::: {.text-center style="margin-top: 2.5em;"}
+[Go to the Big Fish game website](https://bigfishcardgame.com){.btn .btn-primary style="font-size: 1.5em;"}
 :::
 
-# Resources
+:::
+
+
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3 style="margin-top: 2em;"}
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/cardGame1.jpg)
+:::
+
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/cardGame2.jpg)
+:::
+
+::: {.g-col-4 .text-center .img-container}
+![](../resources/images/cardGame3.jpg)
+:::
+::::

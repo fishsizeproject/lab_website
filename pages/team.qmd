@@ -172,7 +172,7 @@ I am a diver, underwater photograher and a science communicator. I lead the deve
 :::
 
 ::: g-col-3
-[{{< iconify instagram height=1.5em title="Instagram" >}}](https://www.instagram.com/matt_testoni_photography/)
+[{{< iconify mdi instagram height=1.5em title="Instagram"  >}}](https://www.instagram.com/matt_testoni_photography/)
 :::
 
 ::: g-col-3
