@@ -202,6 +202,10 @@ We are working with researchers around the world to find new ways to use histori
 
 ## Our Team
 
+::: {.text-center style="font-size: 1.33em;"} 
+Our core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
+:::
+
 <!-- do not delete -->
 <!-- ##  -->
 :::: {.grid .justify-contents-evenly .align-items-center .gap-0}
@@ -229,10 +233,6 @@ We are working with researchers around the world to find new ways to use histori
 [![](resources/team-profile-pics/rowan.jpg){.img-tile}](pages/team.qmd)
 :::
 ::::
-
-::: {.text-center style="font-size: 1.33em;"} 
-Our core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
-:::
 
 ::: text-center
 [Meet the team](pages/team.qmd){.btn .btn-primary style="font-size: 1.5em;"}
@@ -269,7 +269,7 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 ## Support & funding {style="margin-top: 3;"}
 
 ::: {.p style="font-size: 1.4em;"}
-Our work is supported by **Pew Fellowship in Marine Conservation** to Asta Audzijonyte
+Our work is supported by a **Pew Fellowship in Marine Conservation** to Asta Audzijonyte
 
 **Australian Research Council** Discovery project
 
