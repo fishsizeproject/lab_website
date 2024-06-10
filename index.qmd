@@ -268,7 +268,7 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 
 ## Support & funding {style="margin-top: 3;"}
 
-::: {.p style="font-size: 1.2em;"}
+::: {.p style="font-size: 1em;"}
 Our work is supported by a **Pew Fellowship in Marine Conservation** to Asta Audzijonyte
 
 **Australian Research Council** Discovery project
