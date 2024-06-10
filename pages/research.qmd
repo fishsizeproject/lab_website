@@ -91,7 +91,7 @@ How does temperature affects fish size through space and time? Does warming make
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [PREPRINT: Temperature affects fish body sizes. Which sizes?](../resources/preprints/Temperature_FishSizeMs.pdf)
+[PREPRINT: Temperature affects fish body sizes. Which sizes?](../resources/preprints/Temperature_FishSizeMs.pdf)
 
 *Asta Audzijonyte, Ken H. Andersen, David Atkinson, Jennifer Bigman, Julia L. Blanchard, Amy R. Coghlan, Freddie Heather, Max Lindmark, John R. Morrongiello, Daniel Pauly*
 
@@ -105,7 +105,7 @@ An extensive literature exists on how environmental conditions, especially tempe
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [Mean reef fish body size decreases towards warmer waters (2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375)
+[Mean reef fish body size decreases towards warmer waters (2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375)
 
 *Amy Rose Coghlan, Julia L Blanchard, Simon Wotherspoon, Rick D Stuart‐Smith, Graham J Edgar, Neville Barrett, Asta Audzijonyte*
 
@@ -119,7 +119,7 @@ Aquatic ectotherms often attain smaller body sizes at higher temperatures. **By 
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [Fish body sizes change with temperature but not all species shrink with warming (2020)](https://www.nature.com/articles/s41559-020-1171-0)
+[Fish body sizes change with temperature but not all species shrink with warming (2020)](https://www.nature.com/articles/s41559-020-1171-0)
 
 *Asta Audzijonyte, Shane A. Richards, Rick D. Stuart-Smith, Gretta Pecl, Graham J. Edgar, Neville S. Barrett, Nicholas Payne, Julia L. Blanchard*
 
@@ -134,7 +134,7 @@ Ectotherms generally shrink under experimental warming, but whether this pattern
 ::: {.grid .align-items-center .gap-3}
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature (2022)](https://www.journals.uchicago.edu/doi/full/10.1086/722027)
+[Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature (2022)](https://www.journals.uchicago.edu/doi/full/10.1086/722027)
 
 *Asta Audzijonyte, Egle Jakubavičiūtė, Max Lindmark, Shane A. Richards*
 
@@ -148,7 +148,7 @@ The temperature-size rule is one of the universal rules in ecology and states th
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [Smaller adult fish size in warmer water is not explained by elevated metabolism (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13989)
+[Smaller adult fish size in warmer water is not explained by elevated metabolism (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13989)
 
 *Henry F. Wootton, John R. Morrongiello, Thomas Schmitt, Asta Audzijonyte*
 
@@ -160,7 +160,7 @@ Fish and other ectotherms living in warmer waters often grow faster as juveniles
 :::
 :::
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p style="font-size: 1em;"}
 ### Future work
 
 <!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
@@ -174,7 +174,7 @@ There are so many questions about temperature impacts on fish body sizes. We are
 
 ## Applying size based models to assess human impacts {#sec-size-models-impacts .no-caps}
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p}
 
 We are working on applying size based community models (e.g. [mizer](https://sizespectrum.org/mizer/dev/index.html)), as well as population and fisheries assessment models to determine status and future trends of coastal fish populations using non traditional data sources, such as visual observations, cameras and citizen science data. We are especially interested in determining effects of recreational fishing, impacts of marine protected areas and extending assessments to small scale fisheries. 
 
@@ -182,7 +182,7 @@ We are working on applying size based community models (e.g. [mizer](https://siz
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [Changes in sea floor productivity are crucial to understanding the impact of climate change in temperate coastal ecosystems according to a new size-based model (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002392)
+[Changes in sea floor productivity are crucial to understanding the impact of climate change in temperate coastal ecosystems according to a new size-based model (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002392)
 
 *Asta Audzijonyte, Gustav W Delius, Rick D Stuart-Smith, Camilla Novaglio, Graham J Edgar, Neville S Barrett, Julia L Blanchard*
 
@@ -196,7 +196,7 @@ The multifaceted effects of climate change on physical and biogeochemical proces
 :::
 :::
 
-::: {.text-center style="font-size: 1.3em;"} 
+::: {.text-center} 
 If you would like to explore more climate change scenarios with the Tasmanian rocky reef size based models, try out this R Shiny app.  
 :::
 
@@ -204,7 +204,7 @@ If you would like to explore more climate change scenarios with the Tasmanian ro
 [Try your own climate change simulation for Tasmanian rocky reefs](https://fishsize.shinyapps.io/BenthicSizeSpectrum){.btn .btn-primary style="font-size: 1.5em;"}
 :::
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p}
 ### Future work
 
 Our main current focus is in applying size based population and fisheries assesssment models to determine status of many coastal fish populations using non traditional data sources, such as visual observations, cameras and citizen science data. We are especially interested in determining effects of recreational fishing, impacts of marine protected areas and extending assessments to small scale fisheries. 
@@ -216,7 +216,7 @@ Our main current focus is in applying size based population and fisheries assess
 
 ## Using historical records to understand shifting baselines {#sec-historical-shifting-baselines .no-caps}
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p}
 
 Understaning human impacts on fish sizes and abundances requires addressing our "shifting baselines". We are interested in historical ecology and work on using archival data sources and oral histories to improve current fish population assessments. 
 
@@ -225,7 +225,7 @@ Understaning human impacts on fish sizes and abundances requires addressing our 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 
-### [Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia (2022)](https://doi.org/10.3354/meps14138)
+[Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia (2022)](https://doi.org/10.3354/meps14138)
 
 *Carolina Chong-Montenegro, Ruth H Thurstan, John M Pandolfi*
 
@@ -239,7 +239,7 @@ Recreational fisheries are of global socio-ecological importance and contribute 
 :::
 
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p}
 ### Future work
 
 We are looking for information on largest individuals caught for various Australian fish species over the last two hundred years. This data is essential to better estimate maximum sizes of fish species, which in turn is important for calibrating size based fisheries models. So we are looking for collaborations with recreational angling clubs, competition, historical ecologists and anyone who can contribute such data.
