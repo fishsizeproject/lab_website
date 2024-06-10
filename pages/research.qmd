@@ -11,7 +11,7 @@ description-meta: |
 
 # Our Research
 
-::: {.subtitle .text-center style="font-size: 1.45em;"}
+::: {.subtitle .text-center style="font-size: 1.3em;"}
 On this page we highlight key publications from recent years and our ongoing themes. You can find the full list of publications in the google scholar links and websites of the [team members](team.qmd). 
 
 :::
@@ -46,10 +46,10 @@ On this page we highlight key publications from recent years and our ongoing the
 
 ------------------------------------------------------------------------
 
-## Properties of intra-specific size distributions {#sec-size-distribution-properties .no-caps}
+### Properties of intra-specific size distributions {#sec-size-distribution-properties .no-caps}
 
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p style="font-size: 1em;"}
 
 We are using a range of regional and global fish body size datasets to explore shapes of body size distributions across hundreds of fished and unfished species and environmental parameters that shape them. 
 
@@ -57,7 +57,7 @@ We are using a range of regional and global fish body size datasets to explore s
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-### [PREPRINT: Consistency in body size frequency among hundreds of marine fishes with diverse life histories](../resources/preprints/HeatherUniversalFishSize.pdf)
+[PREPRINT: Consistency in body size frequency among hundreds of marine fishes with diverse life histories](../resources/preprints/HeatherUniversalFishSize.pdf)
 
 *Freddie J. Heather, Shane A. Richards, Nils C. Krueck, Rick D. Stuart-Smith, Simon J. Brandl, Jordan M. Casey, Graham J. Edgar, Neville Barrett, Valeriano Parravicini, Asta Audzijonyte*
 
@@ -69,7 +69,7 @@ Animal body size distributions are shaped by complex interactions among growth, 
 :::
 :::
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p style="font-size: 1em;"}
 ### Future work
 
 <!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
@@ -83,7 +83,7 @@ We are looking for more datasets and systems to explore properties of size distr
 
 ## Temperature impacts on fish sizes {#sec-temp-impacts .no-caps}
 
-::: {.p style="font-size: 1.3em;"}
+::: {.p style="font-size: 1em;"}
 
 How does temperature affects fish size through space and time? Does warming make fishes smaller? How does it affect the entire size distribution? Can fish get on average larger even though their asymptotic size decreases, as predicted by the temperature-size rule? How commonly do we observe temperature-size rule in natural ecosystems? And what is causing it? These are all the questions we have been exploring for the last few years. 
 
