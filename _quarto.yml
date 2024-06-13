@@ -35,7 +35,9 @@ website:
       © FishSize Project, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [![](/resources/logo-files/IMASwithUTAS.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd) [![](/resources/logo-files/fishsize-logo-wide2.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd) [![](/resources/logo-files/CMS.png){fig-alt="FishSize Project" fig-align="center" width="30%" fig-valign="middle"}](/index.qmd)
+      [</i><img src="/resources/logo-files/UniTas_IMAS.png" class="img-fluid" style="width: 22.5%; margin-left: 2.5%; margin-right: 2.5%;">](https://www.imas.utas.edu.au) 
+      [</i><img src="/resources/logo-files/fishsize-logo-wide2.png" class="img-fluid" style="width: 30%;">](/index.qmd) 
+      [</i><img src="/resources/logo-files/CMS.png" class="img-fluid" style="width: 30%;">](https://marinesocioecology.org) 
     border: false
     background: primary
     foreground: light
