@@ -10,7 +10,7 @@ description-meta: |
 
 # Outputs and outreach 
 
-::: {.subtitle .text-center style="font-size: 1.6em;"}
+::: {.subtitle .text-center}
 **Coming soon**
 :::
 

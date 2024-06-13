@@ -202,10 +202,6 @@ We are working with researchers around the world to find new ways to use histori
 
 ## Our Team
 
-::: {.text-center style="font-size: 1em;"} 
-Our core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
-:::
-
 <!-- do not delete -->
 <!-- ##  -->
 :::: {.grid .justify-contents-evenly .align-items-center .gap-0}
@@ -233,6 +229,10 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 [![](resources/team-profile-pics/rowan.jpg){.img-tile}](pages/team.qmd)
 :::
 ::::
+
+::: {.text-center style="font-size: 1em;"} 
+Our core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community. 
+:::
 
 ::: text-center
 [Meet the team](pages/team.qmd){.btn .btn-primary style="font-size: 1.5em;"}
@@ -264,17 +264,12 @@ Our core team is based at IMAS and CSIRO. We collaborate with many researchers a
 :::
 ::::
 
-::: {.subtitle .text-center}
-
 ## Support & funding {style="margin-top: 3;"}
 
-::: {.p style="font-size: 1em;"}
-Our work is supported by a **Pew Fellowship in Marine Conservation** to Asta Audzijonyte
-
-**Australian Research Council** Discovery project
-
-**CSIRO top-up scholarship**
-:::
+::: {.text-center}
+Our work is supported by a **Pew Fellowship in Marine Conservation** to Asta Audzijonyte, an
+**Australian Research Council** Discovery project, and a
+**CSIRO top-up scholarship**.
 :::
 
 
@@ -284,8 +279,8 @@ Our work is supported by a **Pew Fellowship in Marine Conservation** to Asta Aud
 
 
 <!-- ![](resources/images/butterflyPerchSmCr.jpg) -->
-::: {.subtitle .text-center style="font-size: 1.3em;"}
-**All underwater photography on this website was kindly provided by our team member** [**Matt Testoni**](https://www.mtunderwatermedia.com/){target="_blank"} 
+::: {.text-center}
+All underwater photography on this website was kindly provided by our team member [Matt Testoni](https://www.mtunderwatermedia.com/){target="_blank"} 
 :::
 
 <!-- ## Impact & Outreach -->

@@ -11,9 +11,11 @@ description-meta: |
 # Collaborate
 
 ::: {.grid .justify-contents-evenly  .align-items-center}
-::: {.g-col-12 .g-col-md-6 .px-4 .text-center style="font-size: 1.4em;"}
+::: {.g-col-12 .g-col-md-6 .px-4}
 
-If you're interested in collaborating or doing research with us, we would love to hear from you. We are also looking for more fish size datasets collected using different methods. Let us know if you would like to apply the methods we are developing in your systems. Or perhaps you want to write a media story about big fish? 
+If you're interested in collaborating or doing research with us, we would love to hear from you. 
+
+We are also looking for more fish size datasets collected using different methods. Let us know if you would like to apply the methods we are developing in your systems. Or perhaps you want to write a media story about big fish? 
 
 [Contact us](mailto:info@fishsizeproject.org) - we would like to hear from you. 
 

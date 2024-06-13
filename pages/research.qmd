@@ -4,14 +4,13 @@ description-meta: |
   An overview of the research we're currently working on. Contact us for collaboration opportunities or more detailed information on our ongoing projects.
 ---
 
-
 ::: {.column-screen .hero-img .hero-strip-page}
    
 :::
 
 # Our Research
 
-::: {.subtitle .text-center style="font-size: 1.3em;"}
+::: {.subtitle .text-center}
 On this page we highlight key publications from recent years and our ongoing themes. You can find the full list of publications in the google scholar links and websites of the [team members](team.qmd). 
 
 :::
@@ -49,11 +48,7 @@ On this page we highlight key publications from recent years and our ongoing the
 ### Properties of intra-specific size distributions {#sec-size-distribution-properties .no-caps}
 
 
-::: {.p style="font-size: 1em;"}
-
 We are using a range of regional and global fish body size datasets to explore shapes of body size distributions across hundreds of fished and unfished species and environmental parameters that shape them. 
-
-:::
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
@@ -69,13 +64,11 @@ Animal body size distributions are shaped by complex interactions among growth, 
 :::
 :::
 
-::: {.p style="font-size: 1em;"}
 ### Future work
 
 <!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
 
 We are looking for more datasets and systems to explore properties of size distributions and variation through space and time. We also need to understand whether life-history and environmental conditions can explain the residual variation from the general patterns. If you would like to collaborate with us - get in touch.
-:::
 
 ![](../resources/images/blueGrouperNarrow.jpg){style="margin-top: 1.5em;"}
 
@@ -83,11 +76,8 @@ We are looking for more datasets and systems to explore properties of size distr
 
 ## Temperature impacts on fish sizes {#sec-temp-impacts .no-caps}
 
-::: {.p style="font-size: 1em;"}
 
 How does temperature affects fish size through space and time? Does warming make fishes smaller? How does it affect the entire size distribution? Can fish get on average larger even though their asymptotic size decreases, as predicted by the temperature-size rule? How commonly do we observe temperature-size rule in natural ecosystems? And what is causing it? These are all the questions we have been exploring for the last few years. 
-
-:::
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
@@ -160,13 +150,11 @@ Fish and other ectotherms living in warmer waters often grow faster as juveniles
 :::
 :::
 
-::: {.p style="font-size: 1em;"}
 ### Future work
 
 <!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
 
 There are so many questions about temperature impacts on fish body sizes. We are currently exploring temperature effects on full size distributions (skewness, means and maximums), growth and mortality conditions under which mean and asymptotic fish sizes may change in different directions, and scaling of maximum intra-specific body size across temperature gradients. We are also studying growth (biochronologies) of rocky reef species to understand whether observed changes in size distributions are largely driven by growth or mortality. And we are always happy to collaborate.
-:::
 
 ![](../resources/images/spottedhandfishNarrow.jpg){style="margin-top: 1.5em;"}
 
@@ -201,7 +189,7 @@ If you would like to explore more climate change scenarios with the Tasmanian ro
 :::
 
 ::: text-center
-[Try your own climate change simulation for Tasmanian rocky reefs](https://fishsize.shinyapps.io/BenthicSizeSpectrum){.btn .btn-primary style="font-size: 1.5em;"}
+[Try your own climate change simulation for Tasmanian rocky reefs](https://fishsize.shinyapps.io/BenthicSizeSpectrum){.btn .btn-primary}
 :::
 
 ::: {.p}
