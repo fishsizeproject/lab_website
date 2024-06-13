@@ -15,11 +15,7 @@ description-meta: |
 Media, engagement, public talks, conference talks and and other outputs **Coming soon**.
 :::
 
-::: spacer-2em
-
-:::
-
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3 style="margin-top: 1em;"}
 ::: {.g-col-4 .text-center .img-container}
 ![](../resources/images/cuttlefishSm.jpg)
 :::
