@@ -21,7 +21,7 @@ On this page we highlight key publications from recent years and our ongoing the
 ::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid fish size=1x >}} {{< fa solid fish size=2x >}} {{< fa solid fish size=3x >}}
 
-[Properties of intra-specific size distributions](#sec-size-distribution-properties)
+[Intra-specific size distributions](#sec-size-distribution-properties)
 :::
 
 ::: {.g-col-6 .g-col-sm-3 .text-center}
@@ -33,30 +33,29 @@ On this page we highlight key publications from recent years and our ongoing the
 ::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid ship size=3x >}}
 
-[Applying size based models to assess human impacts](#sec-size-models-impacts)
+[Human impacts on fish sizes](#sec-size-models-impacts)
 :::
 
 ::: {.g-col-6 .g-col-sm-3 .text-center}
 {{< fa solid earth-asia size=3x >}}
 
-[Using historical records to understand shifting baselines](#sec-historical-shifting-baselines)
+[Historical records and shifting baselines](#sec-historical-shifting-baselines)
 :::
 :::
 
 ------------------------------------------------------------------------
 
-### Properties of intra-specific size distributions {#sec-size-distribution-properties .no-caps}
+### Intra-specific size distributions {#sec-size-distribution-properties .no-caps}
 
-
-We are using a range of regional and global fish body size datasets to explore shapes of body size distributions across hundreds of fished and unfished species and environmental parameters that shape them. 
+What are the properties of species level body size distributions (or length frequencies)? What defines them? Are there general rules that apply to them all? Do they look similar across species and populations? How can we estimate and predict natural or unfished size distributions, especially when considering 'shifting baselines'?  
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-[PREPRINT: Consistency in body size frequency among hundreds of marine fishes with diverse life histories](../resources/preprints/HeatherUniversalFishSize.pdf)
+[Consistent unimodal body length distributions in hundreds of reef fishes across diverse life histories (Fish and Fisheries, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12896)
 
 *Freddie J. Heather, Shane A. Richards, Nils C. Krueck, Rick D. Stuart-Smith, Simon J. Brandl, Jordan M. Casey, Graham J. Edgar, Neville Barrett, Valeriano Parravicini, Asta Audzijonyte*
 
-Animal body size distributions are shaped by complex interactions among growth, mortality and recruitment. Theoretical expectations of fish body size distributions, derived from growth (k) and mortality (M) rates, are extensively used in fish stock assessments worldwide, yet rely on two life-history parameters (M and k) that are difficult to estimate. **Using survey data for 822 species (3,228 populations) of shallow water marine fishes, we show that observed body length distributions can be reconstructed in the absence of these two parameters, and instead using only a single body length metric of a population (e.g., the mean or asymptotic body length).** When scaled to the mean of the population, the frequency of body lengths from temporally pooled samples showed a consistent unimodal shape, which could be approximated by the truncated normal or lognormal distribution with a coefficient of variation value of around 0.3. ...The reconstruction of fish body length distributions without knowledge of growth and mortality rates has important implications for the assessment and management of data-poor coastal fisheries worldwide.
+*Abstract*: Animal body size distributions result from interactions of growth, mortality and recruitment. In ecology and fisheries science, theoretical models of fish body size distributions are widely used but rely on life-history parameters—growth coefficient (K) and natural mortality rate (M)—that remain unknown for most species and are challenging to estimate. **Analysing data from underwater visual surveys and exhaustive sampling, representing 3068 populations across 797 species of shallow-water, mostly unfished marine fishes, we demonstrate that post-recruitment body length distributions exhibit a consistent unimodal shape across species and populations.**... Overall, the consistency of population- and species-level body length distributions means that unfished size structure could be predicted from a single body size parameter. It also suggests evolutionary convergence of diverse growth and mortality processes towards a narrow range of viable outcomes. 
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
@@ -64,11 +63,43 @@ Animal body size distributions are shaped by complex interactions among growth, 
 :::
 :::
 
-### Future work
+<!-- section end  -->
 
-<!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[PREPRINT: Robust estimation of fish life history parameters from unfished populations](../resources/preprints/KurniawanEtAl2025.pdf)
 
-We are looking for more datasets and systems to explore properties of size distributions and variation through space and time. We also need to understand whether life-history and environmental conditions can explain the residual variation from the general patterns. If you would like to collaborate with us - get in touch.
+*Wanwan Kurniawan, Shane A. Richards, Pia Bessell-Browne, Asta Audzijonyte*
+
+*Highlights*: 
+•	Growth and mortality parameters are essential but unknown for most species
+•	A new method is presented to estimate these parameters from length observations
+•	Life-history parameters can now be estimated for hundreds of fish populations
+•	The new method can be used with AI-assisted and citizen science data collections 
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
+![](../resources/images/WanwanCh1.png){.img-tile-lg}
+:::
+:::
+
+<!-- section end  -->
+
+::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[PREPRINT: Beyond the single biggest fish: Robust inference of species maximum length (Lmax) from sample maxima](../resources/preprints/Hetal2025LmaxEstiamtion_submitted.pdf)
+
+*Freddie Heather, Stephen Munch, Asta Audzijonyte*
+
+*Abstract*: Maximum body length (L_max) is a key trait for describing an animal species’ biological characteristics, ecology and vulnerability to exploitation. This is particularly true for fish species, and L_max is widely used in fisheries and is a key parameter in population assessments. Yet L_max estimation is strongly contingent on sampling intensity, and uncertainty is rarely quantified or propagated in downstream applications. **We apply and develop two complementary estimators of L_max and its uncertainty using observations of the largest individuals recorded across multiple samples of approximately similar size - Extreme Value Theory and Exact Finite Sample approach**. ... We use Bayesian inference for both methods to estimate the expected maximum individual body length for a given sampling effort (e.g., the expected maximum from 20 comparable samples) with credible intervals.  
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
+![](../resources/images/LmaxEstimation.png){.img-tile-lg}
+:::
+:::
+
+<!-- section end  -->
 
 ![](../resources/images/blueGrouperNarrow.jpg){style="margin-top: 1.5em;"}
 
@@ -77,15 +108,15 @@ We are looking for more datasets and systems to explore properties of size distr
 ## Temperature impacts on fish sizes {#sec-temp-impacts .no-caps}
 
 
-How does temperature affects fish size through space and time? Does warming make fishes smaller? How does it affect the entire size distribution? Can fish get on average larger even though their asymptotic size decreases, as predicted by the temperature-size rule? How commonly do we observe temperature-size rule in natural ecosystems? And what is causing it? These are all the questions we have been exploring for the last few years. 
+How does temperature affects fish size through space and time? Does warming make fishes smaller? What are the mechanisms for the temperature-size rule? Does it hold in natural populations? Does oxygen affect body sizes in natural populations? 
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-[PREPRINT: Temperature affects fish body sizes. Which sizes?](../resources/preprints/Temperature_FishSizeMs.pdf)
+[Which Body Size Metrics Should Be Used for Assessing Temperature Impacts on Fish Growth and Size? (Global Change Biology, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70296)
 
 *Asta Audzijonyte, Ken H. Andersen, David Atkinson, Jennifer Bigman, Julia L. Blanchard, Amy R. Coghlan, Freddie Heather, Max Lindmark, John R. Morrongiello, Daniel Pauly*
 
-An extensive literature exists on how environmental conditions, especially temperature, impact animal body sizes. However, there remains considerable discrepancies, and misunderstanding, in the key definitions and concepts of body size used to describe observed impacts across studies. Size can be measured using continuous growth metrics, including von Bertalanffy growth coefficients, or static ‘size’ metrics, such as population-averaged length or mass, average size-at-(arbitrary)-age, size-at-maturity, adult size, asymptotic size, or the maximum observed size. Critically, these concepts of size are not equivalent, and temperature is likely to affect each in different ways. **The use of these disparate size and growth metrics as response variables estimated across different biological scales (individual, population, or community) and empirical contexts (laboratory, field) has led to unnecessary confusion and apparent contradictions among practitioners.** Here, we review nine common confusions associated with the measurement of ‘size’ in fish and other water-breathing ectotherms...
+An extensive literature and debate exist on how and why temperature impacts animal, and especially ectotherm, body sizes. However, there remain considerable discrepancies and misunderstandings in the key definitions and concepts of body size used to describe observed temperature impacts across studies. For fish and other animals that continue growing throughout life, body size can be defined as size-at-maturity, adult size, asymptotic size, maximum observed size, population-averaged length or mass, or average size-at-(arbitrary)-age... **Here, we review six common confusions associated with the measurement of “size” in fish and other water-breathing ectotherms and recommend consistent and accurate use of terms and methodology to ensure that studies of global warming impacts on fish sizes can be compared and interpreted unequivocally.**
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
@@ -95,7 +126,7 @@ An extensive literature exists on how environmental conditions, especially tempe
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-[Mean reef fish body size decreases towards warmer waters (2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375)
+[Mean reef fish body size decreases towards warmer waters (Ecology Letters, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375)
 
 *Amy Rose Coghlan, Julia L Blanchard, Simon Wotherspoon, Rick D Stuart‐Smith, Graham J Edgar, Neville Barrett, Asta Audzijonyte*
 
@@ -109,7 +140,7 @@ Aquatic ectotherms often attain smaller body sizes at higher temperatures. **By 
 
 ::: {.grid .align-items-center .gap-3}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
-[Fish body sizes change with temperature but not all species shrink with warming (2020)](https://www.nature.com/articles/s41559-020-1171-0)
+[Fish body sizes change with temperature but not all species shrink with warming (Nature Ecology and Evolution, 2020)](https://www.nature.com/articles/s41559-020-1171-0)
 
 *Asta Audzijonyte, Shane A. Richards, Rick D. Stuart-Smith, Gretta Pecl, Graham J. Edgar, Neville S. Barrett, Nicholas Payne, Julia L. Blanchard*
 
