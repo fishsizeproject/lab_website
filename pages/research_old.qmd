@@ -50,7 +50,7 @@ On this page we highlight key publications from recent years and our ongoing the
 What are the properties of species level body size distributions (or length frequencies)? What defines them? Are there general rules that apply to them all? Do they look similar across species and populations? How can we estimate and predict natural or unfished size distributions, especially when considering 'shifting baselines'?  
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [Consistent unimodal body length distributions in hundreds of reef fishes across diverse life histories (Fish and Fisheries, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12896)
 
 *Freddie J. Heather, Shane A. Richards, Nils C. Krueck, Rick D. Stuart-Smith, Simon J. Brandl, Jordan M. Casey, Graham J. Edgar, Neville Barrett, Valeriano Parravicini, Asta Audzijonyte*
@@ -58,7 +58,7 @@ What are the properties of species level body size distributions (or length freq
 *Abstract*: Animal body size distributions result from interactions of growth, mortality and recruitment. In ecology and fisheries science, theoretical models of fish body size distributions are widely used but rely on life-history parameters—growth coefficient (K) and natural mortality rate (M)—that remain unknown for most species and are challenging to estimate. **Analysing data from underwater visual surveys and exhaustive sampling, representing 3068 populations across 797 species of shallow-water, mostly unfished marine fishes, we demonstrate that post-recruitment body length distributions exhibit a consistent unimodal shape across species and populations.**... Overall, the consistency of population- and species-level body length distributions means that unfished size structure could be predicted from a single body size parameter. It also suggests evolutionary convergence of diverse growth and mortality processes towards a narrow range of viable outcomes. 
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/UniversalSize.png){.img-tile-lg}
 :::
 :::
@@ -66,16 +66,16 @@ What are the properties of species level body size distributions (or length freq
 <!-- section end  -->
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [PREPRINT: Extremely fast juvenile growth explains observed unimodal fish length distributions](../resources/preprints/Heather2026theory_observations.pdf)
 
 *Freddie J. Heather, Ken H. Andersen, Nils C. Krueck, Asta Audzijonyte*
 
 *Abstract*: Abstract
-1.	Body length distributions for coastal fish have been observed to be unimodal, with the highest abundances at intermediate body sizes and relatively fewer small and large individuals. This empirical pattern contrasts with predictions from widely applied models based on the von Bertalanffy growth function (VBGF), which predict that the smallest individuals are most abundant and that abundance monotonically declines with increasing body length. 2.	We investigated whether unimodal body length distributions can arise from realistic growth and mortality dynamics, without assuming VBGF. ... When otolith-derived growth rates were incorporated into our population model, the emergent length distributions under a range of plausible mortality-at-size scenarios were all unimodal in shape, resembling empirical observations. **5.	Our findings demonstrate that unimodal body length distributions, reported earlier across hundreds of coastal fish species, are not only the consequence of observation selectivity but emerge naturally when rapid early growth is accounted for. These findings also support previous concerns that VBGF strongly underestimates juvenile fish growth.** 
+1.	Body length distributions for coastal fish have been observed to be unimodal, with the highest abundances at intermediate body sizes and relatively fewer small and large individuals. This empirical pattern contrasts with predictions from widely applied models based on the von Bertalanffy growth function (VBGF), which predict that the smallest individuals are most abundant and that abundance monotonically declines with increasing body length. 2.	We investigated whether unimodal body length distributions can arise from realistic growth and mortality dynamics, without assuming VBGF. ... 3.	When observed body length distributions were used to infer growth-at-size rates across a broad range of plausible mortality scenarios, estimated growth was considerably faster during early ontogeny than predicted by the VBGF. These estimated growth-at-size rates closely matched the independent otolith-derived growth trajectories. 4.	Alternatively, when otolith-derived growth rates were incorporated into our population model, the emergent length distributions under a range of plausible mortality-at-size scenarios were all unimodal in shape, resembling empirical observations. **5.	Our findings demonstrate that unimodal body length distributions, reported earlier across hundreds of coastal fish species, are not only the consequence of observation selectivity but emerge naturally when rapid early growth is accounted for. These findings also support previous concerns that VBGF strongly underestimates juvenile fish growth.** 
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/theory.png){.img-tile-lg}
 :::
 :::
@@ -84,7 +84,7 @@ What are the properties of species level body size distributions (or length freq
 
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [PREPRINT: Robust estimation of fish life history parameters from unfished populations](../resources/preprints/KurniawanEtAl2025.pdf)
 
 *Wanwan Kurniawan, Shane A. Richards, Pia Bessell-Browne, Asta Audzijonyte*
@@ -96,7 +96,7 @@ What are the properties of species level body size distributions (or length freq
 •	The new method can be used with AI-assisted and citizen science data collections 
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/WanwanCh1.png){.img-tile-lg}
 :::
 :::
@@ -104,53 +104,20 @@ What are the properties of species level body size distributions (or length freq
 <!-- section end  -->
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Beyond the single biggest fish: Robust inference of species maximum length (Lmax) from sample maxima(Reviews in Fish Biology and Fisheries, 2026)](https://link.springer.com/article/10.1007/s11160-026-10047-2)
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[PREPRINT: Beyond the single biggest fish: Robust inference of species maximum length (Lmax) from sample maxima](../resources/preprints/Hetal2025LmaxEstiamtion_submitted.pdf)
 
-*Freddie Heather, Stephan Munch, Asta Audzijonyte*
+*Freddie Heather, Stephen Munch, Asta Audzijonyte*
 
 *Abstract*: Maximum body length (L_max) is a key trait for describing an animal species’ biological characteristics, ecology and vulnerability to exploitation. This is particularly true for fish species, and L_max is widely used in fisheries and is a key parameter in population assessments. Yet L_max estimation is strongly contingent on sampling intensity, and uncertainty is rarely quantified or propagated in downstream applications. **We apply and develop two complementary estimators of L_max and its uncertainty using observations of the largest individuals recorded across multiple samples of approximately similar size - Extreme Value Theory and Exact Finite Sample approach**. ... We use Bayesian inference for both methods to estimate the expected maximum individual body length for a given sampling effort (e.g., the expected maximum from 20 comparable samples) with credible intervals.  
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/LmaxEstimation.png){.img-tile-lg}
 :::
 :::
 
 <!-- section end  -->
-
-::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[PREPRINT: fishmax: An R package for Bayesian estimation of maximum body size in animals](../resources/preprints/Heather2026fishmax.pdf)
-
-*Freddie Heather, Stephan Munch, Asta Audzijonyte*
-
-*Abstract*: ... Here we present an R package for Bayesian estimation of maximum animal body size and its uncertainty using the largest observed individuals from multiple samples. Although developed for maximum body length, the method could be applied to estimate other extremes (e.g., greatest body weight, tallest height) from other taxa that grow indeterminately. ... The package uses three alternative methods – extreme value theory and two versions of exact finite sample approach. The latter two are suitable in cases where the underlying population body size distribution can be approximated by a truncated normal distribution. 
-:::
-
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
-![](../resources/images/fishmax.png){.img-tile-lg}
-:::
-:::
-
-<!-- section end  -->
-
-::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[PREPRINT: Advancing automated fish size estimation from images: Applications, challenges, and a case study for images without a specified reference object](../resources/preprints/Silva2026FishAI.pdf)
-
-*Catarina NS Silva, Ricardo C Pereira, Freddie Heather, Sean Simmons, Asta Audzijonyte*
-
-*Abstract*: Automatic and accurate estimation of fish sizes from images and videos is essential for many monitoring, fisheries management, stock assessment and conservation efforts. ...This paper explores the advancements, applications, and challenges of automated fish body-size estimation from images, using artificial intelligence (AI) and machine learning (ML) methods. We first introduce key concepts in AI and ML for a non-specialised audience and review existing literature on models used for fish size estimation. We identify key barriers such as a lack of high quality and publicly available datasets, image variability, scattered efforts and the challenges of model generalisation across diverse species. Then we present a novel framework for size estimation from monocular (non-stereo) images without a specified reference object, using a fishing tournament dataset from an angling app. Our approach utilises an efficient, pretrained deep learning-based feature extraction tool integrated with an automated regression pipeline and can be run on a single computer with a GPU...
-:::
-
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
-![](../resources/images/FishAI.png){.img-tile-lg}
-:::
-:::
-
-<!-- section end  -->
-
 
 ![](../resources/images/blueGrouperNarrow.jpg){style="margin-top: 1.5em;"}
 
@@ -162,35 +129,21 @@ What are the properties of species level body size distributions (or length freq
 How does temperature affects fish size through space and time? Does warming make fishes smaller? What are the mechanisms for the temperature-size rule? Does it hold in natural populations? Does oxygen affect body sizes in natural populations? 
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Which body size metrics should be used for assessing temperature impacts on fish growth and size? (Global Change Biology, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70296)
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[Which Body Size Metrics Should Be Used for Assessing Temperature Impacts on Fish Growth and Size? (Global Change Biology, 2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70296)
 
 *Asta Audzijonyte, Ken H. Andersen, David Atkinson, Jennifer Bigman, Julia L. Blanchard, Amy R. Coghlan, Freddie Heather, Max Lindmark, John R. Morrongiello, Daniel Pauly*
 
 An extensive literature and debate exist on how and why temperature impacts animal, and especially ectotherm, body sizes. However, there remain considerable discrepancies and misunderstandings in the key definitions and concepts of body size used to describe observed temperature impacts across studies. For fish and other animals that continue growing throughout life, body size can be defined as size-at-maturity, adult size, asymptotic size, maximum observed size, population-averaged length or mass, or average size-at-(arbitrary)-age... **Here, we review six common confusions associated with the measurement of “size” in fish and other water-breathing ectotherms and recommend consistent and accurate use of terms and methodology to ensure that studies of global warming impacts on fish sizes can be compared and interpreted unequivocally.**
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/WhichSizeFig1ed.png){.img-tile-lg}
 :::
 :::
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Increasing mean fish length under warming can be reconciled with the temperature-size rule when mortality-to-growth ratios decline (Marine Ecology Progress Series, 2026)](https://www.int-res.com/journals/meps/articles/meps15085?tx_intres%5BfromSearch%5D=1&cHash=4ca7eb66163e1c02ab9a425c232277d3)
-
-*Sarah Willington, Nils C Krueck, Rowan Trebilco, Daniel Pauly, Asta Audzijonyte*
-
-*Abstract*: Rising ocean temperature alters fish growth and mortality, but its effects on the length-frequency distribution of fish populations remains poorly understood... We show that substantial variation in mean length (up to 40%) can occur under empirically observed M/K ratios, with no change in Linf. We also find that mean length can increase by up to 25% despite a 10% reduction in Linf. This only occurs if M decreases or K increases such that population M/K ratios decline by 25-50% across spatially separate populations experiencing different temperature conditions. However, whether such a reduction in the M/K ratio in a population is realistic under climate-driven temporal warming remains uncertain. ...
-:::
-
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
-![](../resources/images/meanMaxLength.png){.img-tile-lg}
-:::
-:::
-
-::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [Mean reef fish body size decreases towards warmer waters (Ecology Letters, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14375)
 
 *Amy Rose Coghlan, Julia L Blanchard, Simon Wotherspoon, Rick D Stuart‐Smith, Graham J Edgar, Neville Barrett, Asta Audzijonyte*
@@ -198,13 +151,13 @@ An extensive literature and debate exist on how and why temperature impacts anim
 Aquatic ectotherms often attain smaller body sizes at higher temperatures. **By analysing ~15,000 coastal-reef fish surveys across a 15°C spatial sea surface temperature (SST) gradient, we found that the mean length of fish in communities decreased by ~5% for each 1°C temperature increase across space, or 50% decrease in mean length from 14 to 29°C mean annual SST.** Community mean body size change was driven by differential temperature responses within trophic groups and temperature-driven change in their relative abundance. Herbivores, invertivores and planktivores became smaller on average in warmer temperatures, but no trend was found in piscivores. Nearly 25% of the temperature-related community mean size trend was attributable to trophic composition at the warmest sites, but at colder temperatures, this was <1% due to trophic groups being similarly sized. Our findings suggest that small changes in temperature are associated with large changes in fish community composition and body sizes, with important ecological implications.
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/MeanSizePaper.png){.img-tile-lg}
 :::
 :::
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [Fish body sizes change with temperature but not all species shrink with warming (Nature Ecology and Evolution, 2020)](https://www.nature.com/articles/s41559-020-1171-0)
 
 *Asta Audzijonyte, Shane A. Richards, Rick D. Stuart-Smith, Gretta Pecl, Graham J. Edgar, Neville S. Barrett, Nicholas Payne, Julia L. Blanchard*
@@ -212,42 +165,60 @@ Aquatic ectotherms often attain smaller body sizes at higher temperatures. **By 
 Ectotherms generally shrink under experimental warming, but whether this pattern extends to wild populations is uncertain. We analysed ten million visual survey records, spanning the Australian continent and multiple decades and comprising the most common coastal reef fishes (335 species). **We found that temperature indeed drives spatial and temporal changes in fish body size, but not consistently in the negative fashion expected. Around 55% of species were smaller in warmer waters (especially among small-bodied species), while 45% were bigger.** The direction of a species’ response to temperature through space was generally consistent with its response to temperature increase through time at any given location, suggesting that spatial trends could help forecast fish responses to long-term warming. However, temporal changes were about ten times faster than spatial trends (\~4% versus \~40% body size change per 1 °C change through space and time, respectively). The rapid and variable responses of fish size to warming may herald unexpected impacts on ecosystem restructuring, with potentially greater consequences than if all species were shrinking.
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/NEEpaper.png){.img-tile-lg}
 :::
 :::
 
 ::: {.grid .align-items-center .gap-3}
 
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature (Biological Bulletin, 2022)](https://www.journals.uchicago.edu/doi/full/10.1086/722027)
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature (2022)](https://www.journals.uchicago.edu/doi/full/10.1086/722027)
 
 *Asta Audzijonyte, Egle Jakubavičiūtė, Max Lindmark, Shane A. Richards*
 
-The temperature-size rule is one of the universal rules in ecology and states that ectotherms in warmer waters will grow faster as juveniles, mature at smaller sizes and younger ages, and reach smaller maximum body sizes. ...Here, we present a physiologically structured individual growth model, which incorporates an energy budget and optimizes energy allocation to growth, reproduction, and reserves. ... Results show that the temperature-size rule can emerge in two ways. The first way requires both intake and metabolism to increase with temperature, but the temperature-body size interaction of the two rates must lead to relatively faster intake increase in small individuals and relatively larger metabolism increase in large ones. The second way requires only higher temperature-driven natural mortality and faster intake rates in early life (no change in metabolic rates is needed) ...Our model ... **shows that the temperature-size rule is likely to reflect both physiological changes and life-history optimization and that use of von Bertalanffy-type models, which do not include reproduction processes, can hinder our ability to understand and predict ectotherm responses to climate change.**
+The temperature-size rule is one of the universal rules in ecology and states that ectotherms in warmer waters will grow faster as juveniles, mature at smaller sizes and younger ages, and reach smaller maximum body sizes. Many models have unsuccessfully attempted to reproduce temperature-size rule-consistent life histories by using two-term (anabolism and catabolism) Pütter-type growth models, such as the von Bertalanffy. Here, we present a physiologically structured individual growth model, which incorporates an energy budget and optimizes energy allocation to growth, reproduction, and reserves. ... Results show that the temperature-size rule can emerge in two ways. The first way requires both intake and metabolism to increase with temperature, but the temperature-body size interaction of the two rates must lead to relatively faster intake increase in small individuals and relatively larger metabolism increase in large ones. The second way requires only higher temperature-driven natural mortality and faster intake rates in early life (no change in metabolic rates is needed) ...Our model ... **shows that the temperature-size rule is likely to reflect both physiological changes and life-history optimization and that use of von Bertalanffy-type models, which do not include reproduction processes, can hinder our ability to understand and predict ectotherm responses to climate change.**
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/TemperatureSizeModel.png){.img-tile-lg}
 :::
 :::
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Smaller adult fish size in warmer water is not explained by elevated metabolism (Ecology Letters, 2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13989)
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
+[Smaller adult fish size in warmer water is not explained by elevated metabolism (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13989)
 
 *Henry F. Wootton, John R. Morrongiello, Thomas Schmitt, Asta Audzijonyte*
 
 Fish and other ectotherms living in warmer waters often grow faster as juveniles, mature earlier, but become smaller adults. Known as the temperature-size rule (TSR), this pattern is commonly attributed to higher metabolism in warmer waters, leaving fewer resources for growth. An alternative explanation focuses on growth and reproduction trade-offs across temperatures. **We tested these hypotheses by measuring growth, maturation, metabolism and reproductive allocation from zebrafish populations kept at 26 and 30°C across six generations. Zebrafish growth and maturation followed TSR expectations but were not explained by baseline metabolic rate, which converged between temperature treatments after a few generations.** Rather, we found that females at 30°C allocated more to reproduction, especially when maturing at the smallest sizes. We show that elevated temperatures do not necessarily increase baseline metabolism if sufficient acclimation is allowed and call for an urgent revision of modelling assumptions used to predict population and ecosystem responses to warming.
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/ZebrafishTSR.png){.img-tile-lg}
 :::
 :::
 
+### Future work
+
+<!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
+
+There are so many questions about temperature impacts on fish body sizes. We are currently exploring temperature effects on full size distributions (skewness, means and maximums), growth and mortality conditions under which mean and asymptotic fish sizes may change in different directions, and scaling of maximum intra-specific body size across temperature gradients. We are also studying growth (biochronologies) of rocky reef species to understand whether observed changes in size distributions are largely driven by growth or mortality. And we are always happy to collaborate.
+
+![](../resources/images/spottedhandfishNarrow.jpg){style="margin-top: 1.5em;"}
+
+------------------------------------------------------------------------
+
+## Applying size based models to assess human impacts {#sec-size-models-impacts .no-caps}
+
+::: {.p}
+
+We are working on applying size based community models (e.g. [mizer](https://sizespectrum.org/mizer/dev/index.html)), as well as population and fisheries assessment models to determine status and future trends of coastal fish populations using non traditional data sources, such as visual observations, cameras and citizen science data. We are especially interested in determining effects of recreational fishing, impacts of marine protected areas and extending assessments to small scale fisheries. 
+
+:::
+
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 [Changes in sea floor productivity are crucial to understanding the impact of climate change in temperate coastal ecosystems according to a new size-based model (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002392)
 
 *Asta Audzijonyte, Gustav W Delius, Rick D Stuart-Smith, Camilla Novaglio, Graham J Edgar, Neville S Barrett, Julia L Blanchard*
@@ -255,7 +226,7 @@ Fish and other ectotherms living in warmer waters often grow faster as juveniles
 The multifaceted effects of climate change on physical and biogeochemical processes are rapidly altering marine ecosystems but often are considered in isolation... This is particularly true for shallow coastal ecosystems, which are fuelled by a combination of distinct pelagic and benthic energy pathways that may respond to climate change in fundamentally distinct ways...We developed a novel, multispecies size spectrum model for shallow coastal reefs, specifically designed to simulate potential interactive outcomes of changing benthic and pelagic energy inputs and temperatures and calculate the relative importance of these variables for the fish community. Our model, calibrated using field data from an extensive temperate reef monitoring program, **predicts that changes in resource levels will have much stronger impacts on fish biomass and yields than changes driven by physiological responses to temperature. Under increased plankton abundance, species in all fish trophic groups were predicted to increase in biomass, average size, and yields. By contrast, changes in benthic resources produced variable responses across fish trophic groups.** Increased benthic resources led to increasing benthivorous and piscivorous fish biomasses, yields, and mean body sizes, but biomass decreases among herbivore and planktivore species....
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/TasmModelPaper.png){.img-tile-lg}
 
 ![](../resources/images/TassieModel.png){.img-tile-lg style="margin-top: 2em;"}
@@ -269,40 +240,6 @@ If you would like to explore more climate change scenarios with the Tasmanian ro
 ::: text-center
 [Try your own climate change simulation for Tasmanian rocky reefs](https://fishsize.shinyapps.io/BenthicSizeSpectrum){.btn .btn-primary}
 :::
-
-### Future work
-
-<!-- 1. We are using large datasets from underwater visual surveys, sampling and other sources to explore shapes of body size distributions across hundreds of fish species. Our results suggest that these distributions are relatively consistent across species ranging from 10cm to 1.5 meters in body size. This suggests that growth and mortality, which determine population and species size distributions, may also be constrained.  -->
-
-There are so many questions about temperature impacts on fish body sizes. We are currently exploring temperature effects on full size distributions (skewness, means and maximums), growth and mortality conditions under which mean and asymptotic fish sizes may change in different directions, and scaling of maximum intra-specific body size across temperature gradients. We are also studying growth (biochronologies) of rocky reef species to understand whether observed changes in size distributions are largely driven by growth or mortality. And we are always happy to collaborate.
-
-![](../resources/images/spottedhandfishNarrow.jpg){style="margin-top: 1.5em;"}
-
-------------------------------------------------------------------------
-
-## Harvesting and human impacts on fish sizes {#sec-size-models-impacts .no-caps}
-
-::: {.p}
-
-By far the biggest impacts on fish sizes is fishing. We are using experiments and models to estimate this impact and assess its implications. 
-
-:::
-
-::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
-[Harvesting that preserves large fish might help mitigate the worst impacts of warming (Fish and Fisheries, 2026)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.70070)
-
-*Henry F Wootton, Asta Audzijonyte, John R Morrongiello*
-
-Fishing and oceanic warming significantly impact fish populations worldwide. Understanding their interactive effects is crucial for managing harvested populations...We  present findings from a multi-generational experiment exposing 18 zebrafish populations to combined harvest and warming selection...Warmed populations exhibited expected temperature-size-rule responses: juveniles grew 18% faster and matured earlier, while adults were 3%–5% shorter and ~10% lighter. Gaussian selectivity (removing medium-sized fish) led to adults that were 5% longer and 18% heavier, while sigmoidal selectivity (removing large fish) resulted in 4% shorter and 15% lighter adults... Fishing and warming had increasingly interactive impacts on body sizes across generations. At the end of the treatment generations, warming combined with sigmoidal selectivity produced the smallest fish (6% shorter, 20% lighter), while Gaussian selectivity compensated for warming-induced size declines.**Our work demonstrates both synergistic and antagonistic impacts of fishing and warming on fish sizes and yields, and suggests that warming effects can be partially mitigated by fishing practices that protect large individuals.**
-
-:::
-
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
-![](../resources/images/FishFishZebra.png){.img-tile-lg}
-:::
-:::
-
 
 ::: {.p}
 ### Future work
@@ -323,7 +260,7 @@ Understaning human impacts on fish sizes and abundances requires addressing our 
 :::
 
 ::: {.grid .align-items-center .gap-3}
-::: {.g-col-12 .g-col-sm-8 .g-col-lg-8 style="margin-top: 1.5em;"}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 style="margin-top: 1.5em;"}
 
 [Quantifying the historical development of recreational fisheries in Southeast Queensland, Australia (2022)](https://doi.org/10.3354/meps14138)
 
@@ -333,7 +270,7 @@ Recreational fisheries are of global socio-ecological importance and contribute 
 
 :::
 
-::: {.g-col-12 .g-col-sm-4 .g-col-lg-4 .img-container}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-6 .img-container}
 ![](../resources/images/HistoricalFishPaper.png){.img-tile-lg}
 :::
 :::

@@ -13,8 +13,8 @@ website:
         href: pages/team.qmd
       - text: Research
         href: pages/research.qmd
-      - text: Outputs
-        href: pages/outputs.qmd
+#      - text: Outputs 
+#        href: pages/outputs.qmd
       - text: Big Fish game
         href: pages/bigfishgame.qmd
       - text: Collaborate
